@@ -6,7 +6,7 @@ on:
   #   - cron: "0 1 * * *" # every day at 1am UTC
 
 env:
-  STATE: usa # <-- update this value per state repo, e.g. il, tx, ny, etc.
+  STATE: usa
 
 jobs:
   update-data:
@@ -41,14 +41,19 @@ jobs:
           restore-keys: |
             cache-scrapes-key-
 
+      - name: Clone and Build Scrapers from Source
+        run: |
+          git clone https://github.com/openstates/openstates-scrapers.git
+          cd openstates-scrapers
+          docker build -t openstates/scrapers:dev .
+
       - name: Scrape Data
         run: |
-          docker pull openstates/scrapers:28675b011eef5bb35a758d05d1b7313d515c28ea
           mkdir -p ${RUNNER_TEMP}/_working
           docker run \
               -v "${RUNNER_TEMP}/_working/_data":/opt/openstates/openstates/_data \
               -v "${RUNNER_TEMP}/_working/_cache":/opt/openstates/openstates/_cache \
-              openstates/scrapers:28675b011eef5bb35a758d05d1b7313d515c28ea \
+              openstates/scrapers:dev \
               $STATE bills --scrape --fastmode
 
       - name: Sanitize Data (removes _id and scraped_at)
