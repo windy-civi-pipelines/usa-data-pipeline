@@ -1,0 +1,22 @@
+name: Text Extraction from Bills
+
+on:
+  workflow_dispatch
+
+jobs:
+  extract-text:
+    name: Text Extraction
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout state repo
+        uses: actions/checkout@v4
+      
+      - name: Run text extraction action
+        uses: windy-civi/opencivicdata-blockchain-transformer/actions/extract@main
+        with:
+          action-type: extract
+          state: wy #UPDATE STATE
+          github-token: ${{ secrets.GITHUB_TOKEN }}

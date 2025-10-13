@@ -1,0 +1,35 @@
+name: Scrape and Format Data
+
+on:
+  workflow_dispatch:
+    inputs:
+      use-scrape-cache:
+        type: boolean
+        description: Use OpenStates scraper cache
+        default: false
+      force-update:
+        type: boolean
+        description: "Force push even if upstream changed (use with caution)"
+        default: false
+
+jobs:
+  update-data:
+    name: Scrape and Format Data
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout state repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Run scraper action
+        uses: windy-civi/opencivicdata-blockchain-transformer/actions/scrape@main
+        with:
+          action-type: scrape
+          state: wy #UPDATE STATE
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          use-scrape-cache: ${{ inputs.use-scrape-cache }}
+          force-update: ${{ inputs.force-update }}
