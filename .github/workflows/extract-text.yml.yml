@@ -17,6 +17,5 @@ jobs:
       - name: Run text extraction action
         uses: windy-civi/opencivicdata-blockchain-transformer/actions/extract@main
         with:
-          action-type: extract
           state: usa #UPDATE STATE
           github-token: ${{ secrets.GITHUB_TOKEN }}
