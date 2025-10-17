@@ -1,0 +1,58 @@
+{
+  "name": "Committee on Environment and Public Works. Hearings held. - S 881 - Environment and Public Works Committee",
+  "all_day": false,
+  "start_date": "2025-09-10T04:00:00+00:00",
+  "end_date": "",
+  "status": "confirmed",
+  "classification": "event",
+  "description": "",
+  "upstream_id": "",
+  "location": {
+    "name": "Washington, DC 20004",
+    "note": "",
+    "coordinates": null
+  },
+  "media": [],
+  "documents": [],
+  "links": [],
+  "participants": [
+    {
+      "name": "Environment and Public Works Committee",
+      "entity_type": "organization",
+      "note": "participant",
+      "organization_id": "~{\"name\": \"Environment and Public Works Committee\"}"
+    }
+  ],
+  "agenda": [
+    {
+      "description": "Associated Bills",
+      "classification": [],
+      "related_entities": [
+        {
+          "name": "S 881",
+          "entity_type": "bill",
+          "note": "consideration",
+          "bill_id": "~{\"identifier\": \"S 881\"}"
+        }
+      ],
+      "subjects": [],
+      "media": [],
+      "notes": [],
+      "order": 0,
+      "extras": {}
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/s/BILLSTATUS-119s881.xml",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/government",
+    "name": "United States",
+    "classification": "country",
+    "division_id": "ocd-division/country:us"
+  }
+}
