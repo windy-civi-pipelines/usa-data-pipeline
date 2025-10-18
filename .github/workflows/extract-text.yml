@@ -7,12 +7,15 @@ jobs:
   extract-text:
     name: Text Extraction
     runs-on: ubuntu-latest
+    timeout-minutes: 330  # 5.5 hours - recommended for large datasets like USA
     permissions:
       contents: write
 
     steps:
       - name: Checkout state repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # Optional but recommended
       
       - name: Run text extraction action
         uses: windy-civi/opencivicdata-blockchain-transformer/actions/extract@main
