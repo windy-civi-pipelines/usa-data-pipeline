@@ -1,0 +1,246 @@
+Title: 
+Official Title: To prohibit the consideration of perceived gender identity in
+            sentencing.
+Number of Sections: 2
+Source: versions - Introduced in Senate
+Media Type: text/xml
+
+================================================================================
+
+Section 1:
+1.
+            Short title
+ This Act may be cited as the Fair Sentencing Act.
+
+Section 2:
+2.
+            Prohibiting consideration of gender identity in sentencing
+            
+                (a)
+                United States Code
+                
+                    (1)
+                    In general
+ Section 3553 of title 18, United States Code, is amended—  (A) in subsection (a)—
+                        
+                            (i)
+ by redesignating paragraphs (1) through (7) as subparagraphs (A) through (G) and adjusting the margins accordingly;
+                        
+                        
+                            (ii)
+ in the matter preceding paragraph (1), by striking The court shall and inserting the following:
+                            
+                                
+                                    (1)
+                                    In general
+ The court shall  ; and    (iii) by adding at the end the following:
+                            
+                                
+                                    (2)
+                                    Prohibited considerations
+ The court shall not consider the perceived gender identity of the defendant as a mitigating factor, directly relevant to history or rehabilitation.
+                                
+                                ; and
+                            
+                        
+                    
+                    
+                        (B)
+ in subsection (g)—  (i) by striking Definition of violent offense.—As used in this section, the and inserting the following: “Definitions—In this section:
+                            
+                                
+                                    (1)
+                                    Perceived gender identity
+ The term perceived gender identity means the self-identified gender identity of an individual distinct from biological sex.
+                                
+                                
+                                    (2)
+                                    Violent
+                                        offense
+ The  .      (2) Conforming amendments  (A) Cyber Security Enhancement Act of 2002 Section 2207(b)(2)(F) of the Cyber Security Enhancement Act of 2002 (6 U.S.C. 657(b)(2)(F)) is amended by striking section 3553(a)(2) and inserting section 3553(a)(1)(B).
+                    
+                    
+                        (B)
+                        Title 18
+ Title 18 of the United States Code is amended—  (i) in chapter 227—
+                            
+                                (I)
+ in section 3551, by striking section 3553(a)(2) and inserting section 3553(a)(1)(B);
+                            
+                            
+                                (II)
+ in section 3563—  (aa) by striking section 3553(a)(1) and (a)(2) and inserting section 3553(a)(1)(A) and (B); and
+                                
+                                
+                                    (bb)
+ by striking section 3553(a)(2) and inserting section 3553(a)(1)(B); and
+                                
+                            
+                            
+                                (III)
+ in section 3583, by striking section 3553(a)(1), (a)(2)(B), (a)(2)(C), (a)(2)(D), (a)(4), (a)(5), (a)(6), and (a)(7) and inserting subparagraphs (A), (B)(ii), (B)(iii), (B)(iv), (D), (E), (F), and (G) of section 3553(a)(1); and
+                            
+                        
+                        
+                            (ii)
+ in section 3742—  (I) in subsection (e)(3)(B)(i), by striking section 3353(a)(2) and inserting section 3353(a)(1)(B);
+                            
+                            
+                                (II)
+ in subsection (g)(1), by striking subsection 3553(a)(4) and inserting section 3553(a)(1)(D); and
+                            
+                            
+                                (III)
+ in subsection (j)(A), by striking section 3353(a)(2) and inserting section 3353(a)(1)(B).
+                            
+                        
+                    
+                    
+                        (C)
+                        Title 28
+ Chapter 58 of title 28, United States Code, is amended—  (i) in section 991, by striking section 3353(a)(2) each place the term appears and inserting section 3353(a)(1)(B); and
+                        
+                        
+                            (ii)
+ in section 994, by striking section 3353(a)(2) each place the term appears and inserting section 3353(a)(1)(B).
+                        
+                    
+                
+            
+            
+                (b)
+                Sentencing guidelines
+ Not later than 30 days after the date of enactment of this Act, the United States Sentencing Commission shall amend the United States Sentencing Commission Guidelines Manual to prohibit the considerations described in section 3553(a)(2), as added by subsection (a), pursuant to its authority under section 994(p) of title 28, United States Code.
+
+
+================================================================================
+
+Raw Text:
+119 S3003 IS: Fair Sentencing Act
+U.S. Senate
+2025-10-14
+text/xml
+EN
+Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.
+
+
+
+        II
+        119th CONGRESS
+        1st Session
+        S. 3003
+        IN THE SENATE OF THE UNITED STATES
+        
+            October 14, 2025
+            Mr. Cotton introduced the following bill;
+                which was read twice and referred to the Committee on the Judiciary
+        
+        A BILL
+        To prohibit the consideration of perceived gender identity in
+            sentencing.
+    
+    
+        
+            1.
+            Short title
+ This Act may be cited as the Fair Sentencing Act.
+        
+        
+            2.
+            Prohibiting consideration of gender identity in sentencing
+            
+                (a)
+                United States Code
+                
+                    (1)
+                    In general
+ Section 3553 of title 18, United States Code, is amended—  (A) in subsection (a)—
+                        
+                            (i)
+ by redesignating paragraphs (1) through (7) as subparagraphs (A) through (G) and adjusting the margins accordingly;
+                        
+                        
+                            (ii)
+ in the matter preceding paragraph (1), by striking The court shall and inserting the following:
+                            
+                                
+                                    (1)
+                                    In general
+ The court shall  ; and    (iii) by adding at the end the following:
+                            
+                                
+                                    (2)
+                                    Prohibited considerations
+ The court shall not consider the perceived gender identity of the defendant as a mitigating factor, directly relevant to history or rehabilitation.
+                                
+                                ; and
+                            
+                        
+                    
+                    
+                        (B)
+ in subsection (g)—  (i) by striking Definition of violent offense.—As used in this section, the and inserting the following: “Definitions—In this section:
+                            
+                                
+                                    (1)
+                                    Perceived gender identity
+ The term perceived gender identity means the self-identified gender identity of an individual distinct from biological sex.
+                                
+                                
+                                    (2)
+                                    Violent
+                                        offense
+ The  .      (2) Conforming amendments  (A) Cyber Security Enhancement Act of 2002 Section 2207(b)(2)(F) of the Cyber Security Enhancement Act of 2002 (6 U.S.C. 657(b)(2)(F)) is amended by striking section 3553(a)(2) and inserting section 3553(a)(1)(B).
+                    
+                    
+                        (B)
+                        Title 18
+ Title 18 of the United States Code is amended—  (i) in chapter 227—
+                            
+                                (I)
+ in section 3551, by striking section 3553(a)(2) and inserting section 3553(a)(1)(B);
+                            
+                            
+                                (II)
+ in section 3563—  (aa) by striking section 3553(a)(1) and (a)(2) and inserting section 3553(a)(1)(A) and (B); and
+                                
+                                
+                                    (bb)
+ by striking section 3553(a)(2) and inserting section 3553(a)(1)(B); and
+                                
+                            
+                            
+                                (III)
+ in section 3583, by striking section 3553(a)(1), (a)(2)(B), (a)(2)(C), (a)(2)(D), (a)(4), (a)(5), (a)(6), and (a)(7) and inserting subparagraphs (A), (B)(ii), (B)(iii), (B)(iv), (D), (E), (F), and (G) of section 3553(a)(1); and
+                            
+                        
+                        
+                            (ii)
+ in section 3742—  (I) in subsection (e)(3)(B)(i), by striking section 3353(a)(2) and inserting section 3353(a)(1)(B);
+                            
+                            
+                                (II)
+ in subsection (g)(1), by striking subsection 3553(a)(4) and inserting section 3553(a)(1)(D); and
+                            
+                            
+                                (III)
+ in subsection (j)(A), by striking section 3353(a)(2) and inserting section 3353(a)(1)(B).
+                            
+                        
+                    
+                    
+                        (C)
+                        Title 28
+ Chapter 58 of title 28, United States Code, is amended—  (i) in section 991, by striking section 3353(a)(2) each place the term appears and inserting section 3353(a)(1)(B); and
+                        
+                        
+                            (ii)
+ in section 994, by striking section 3353(a)(2) each place the term appears and inserting section 3353(a)(1)(B).
+                        
+                    
+                
+            
+            
+                (b)
+                Sentencing guidelines
+ Not later than 30 days after the date of enactment of this Act, the United States Sentencing Commission shall amend the United States Sentencing Commission Guidelines Manual to prohibit the considerations described in section 3553(a)(2), as added by subsection (a), pursuant to its authority under section 994(p) of title 28, United States Code.

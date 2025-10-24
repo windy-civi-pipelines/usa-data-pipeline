@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-FLO25865-MHJ-CG-TR9">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3004 IS: Upper Price River Watershed Project Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3004</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251014">October 14, 2025</action-date>
+            <action-desc><sponsor name-id="S346">Mr. Lee</sponsor> (for himself and <cosponsor name-id="S431">Mr. Curtis</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSEG00">Committee on
+                    Energy and Natural Resources</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To direct the Secretary of the Interior to convey certain Bureau of Land
+            Management land to the city of Price, Utah, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Upper Price River Watershed Project Act of 2025</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id036d030398f3496abdafae977b3f0049">
+            <enum>2.</enum>
+            <header>Definitions</header>
+ <text display-inline="no-display-inline">In this Act:</text> <paragraph id="idd7dadb577d9a417da17592d576583427"> <enum>(1)</enum> <header>City</header> <text>The term <quote>City</quote> means the city of Price, Utah.</text>
+            </paragraph>
+            <paragraph id="HBAA96BACCE6F4DD186B30741F68FC1E9">
+                <enum>(2)</enum>
+                <header>Federal land</header>
+ <text>The term <term>Federal land</term> means the approximately 124.23 acres of Bureau of Land Management land in the State of Utah depicted as <quote>Proposed Conveyance Parcels</quote> on the Map.</text>
+            </paragraph>
+            <paragraph commented="no" display-inline="no-display-inline" id="id86641524351d47db86f2140534854e9e">
+                <enum>(3)</enum>
+                <header>Map</header>
+ <text>The term <quote>Map</quote> means the map prepared by the Bureau of Land Management entitled <quote>Land Conveyance near Price, Utah</quote> and dated May 8, 2025.</text>
+            </paragraph>
+            <paragraph id="H445C25A706F344FFB3FED0EEC4544D16">
+                <enum>(4)</enum>
+                <header>Secretary</header>
+ <text>The term <term>Secretary</term> means the Secretary of the Interior, acting through the Director of the Bureau of Land Management.</text>
+            </paragraph>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="idcef919de1a5e4ecd90c53cbf153637b7">
+            <enum>3.</enum>
+            <header>Conveyance of certain Bureau of Land Management land to the city of Price,
+                Utah</header>
+            <subsection id="idc3d751e7cf6c454696333dba610f376d">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Notwithstanding sections 202 and 203 of the Federal Land Policy and Management Act of 1976 (<external-xref legal-doc="usc" parsable-cite="usc/43/1712">43 U.S.C. 1712</external-xref>, 1713) and subject to valid existing rights, at the request of the City, the Secretary shall convey to the City all right, title, and interest of the United States in and to the Federal land, to be used by the City for public purposes, as defined by the City.</text>
+            </subsection>
+            <subsection id="id751caf07925e4a38a5e8cda812b2a7b4" commented="no">
+                <enum>(b)</enum>
+                <header>Map</header>
+                <paragraph id="id38ae6a22fdb5464bacce7e89f5cea66b" commented="no">
+                    <enum>(1)</enum>
+                    <header>Availability</header>
+ <text>The Map shall be on file and available for public inspection in the appropriate offices of the Bureau of Land Management.</text>
+                </paragraph>
+                <paragraph id="idd0ae25e15f364f51af1808ffbedaf3d4" commented="no">
+                    <enum>(2)</enum>
+                    <header>Minor errors</header>
+ <text>The Secretary may correct any minor errors in the Map.</text> </paragraph> </subsection> </section> </legis-body> </bill>
+

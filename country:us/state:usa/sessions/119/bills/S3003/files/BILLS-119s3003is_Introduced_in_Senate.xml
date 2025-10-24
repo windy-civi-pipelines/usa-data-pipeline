@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ELL25678-3TY-9X-4HD">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3003 IS: Fair Sentencing Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3003</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251014">October 14, 2025</action-date>
+            <action-desc><sponsor name-id="S374">Mr. Cotton</sponsor> introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSJU00">Committee on the Judiciary</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To prohibit the consideration of perceived gender identity in
+            sentencing.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fair Sentencing Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id27dbe61fd26b447da0c0f1b3c98a9512">
+            <enum>2.</enum>
+            <header>Prohibiting consideration of gender identity in sentencing</header>
+            <subsection commented="no" display-inline="no-display-inline" id="ida47e99272af84e3285caf8870b926f63">
+                <enum>(a)</enum>
+                <header>United States Code</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id9bc311cb6bbd484c9970084f36425b9b">
+                    <enum>(1)</enum>
+                    <header display-inline="yes-display-inline">In general</header>
+ <text>Section 3553 of title 18, United States Code, is amended—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id09195fc2fdeb44aa958755ea54359f05"> <enum>(A)</enum> <text display-inline="yes-display-inline">in subsection (a)—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="ida09b09b81bb94ee0aec85dfb3dfc5be0">
+                            <enum>(i)</enum>
+ <text>by redesignating paragraphs (1) through (7) as subparagraphs (A) through (G) and adjusting the margins accordingly;</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id19fa9b0953ff42e2b69d15bf255ad4ca">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">in the matter preceding paragraph (1), by striking <quote>The court shall</quote> and inserting the following:</text>
+                            <quoted-block style="OLC" display-inline="no-display-inline" id="idefb4520100ba4e17b7f7eb710bde009f">
+                                <paragraph commented="no" display-inline="no-display-inline" id="iddcd7877bf01d4a548075fe616db93c75">
+                                    <enum>(1)</enum>
+                                    <header>In general</header>
+ <text>The court shall</text> </paragraph> <after-quoted-block>; and</after-quoted-block> </quoted-block> </clause> <clause commented="no" display-inline="no-display-inline" id="id625d5084360c4a6583e0edcef9d158a0"> <enum>(iii)</enum> <text>by adding at the end the following:</text>
+                            <quoted-block style="OLC" display-inline="no-display-inline" id="id67f43d1e6d7c456a8a230400b589ea12">
+                                <paragraph commented="no" display-inline="no-display-inline" id="id55119e5c7ff14fc0820ab18212e7f80b">
+                                    <enum>(2)</enum>
+                                    <header>Prohibited considerations</header>
+ <text>The court shall not consider the perceived gender identity of the defendant as a mitigating factor, directly relevant to history or rehabilitation.</text>
+                                </paragraph>
+                                <after-quoted-block>; and</after-quoted-block>
+                            </quoted-block>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id2e32b816a5ea4ec38d96a42cbdd72ce7">
+                        <enum>(B)</enum>
+ <text>in subsection (g)—</text> <clause commented="no" display-inline="no-display-inline" id="id2ec3236da1434b1fb986d2bd1edb4bc7"> <enum>(i)</enum> <text display-inline="yes-display-inline">by striking <quote><header-in-text style="USC" level="subsection">Definition of violent offense</header-in-text>.—As used in this section, the</quote> and inserting the following: “<header-in-text style="USC" level="subsection">Definitions</header-in-text>—In this section:</text>
+                            <quoted-block style="USC" display-inline="no-display-inline" id="iddb651fe17f1c43dc9b264c67d8549b09">
+                                <paragraph commented="no" display-inline="no-display-inline" id="idc98f275cf7444e25b3c358288cbdb372">
+                                    <enum>(1)</enum>
+                                    <header>Perceived gender identity</header>
+ <text>The term <quote>perceived gender identity</quote> means the self-identified gender identity of an individual distinct from biological sex.</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="idc2405c27deab46b9a0568882e006a330">
+                                    <enum>(2)</enum>
+                                    <header display-inline="yes-display-inline">Violent
+                                        offense</header>
+ <text>The</text> </paragraph> <after-quoted-block>.</after-quoted-block> </quoted-block> </clause> </subparagraph> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="id69542b18f26a47d0a00e42871162ed07"> <enum>(2)</enum> <header>Conforming amendments</header> <subparagraph commented="no" display-inline="no-display-inline" id="idb8f727d0225f4cdba595803b5a9c207c"> <enum>(A)</enum> <header>Cyber Security Enhancement Act of 2002</header> <text display-inline="yes-display-inline">Section 2207(b)(2)(F) of the Cyber Security Enhancement Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/657">6 U.S.C. 657(b)(2)(F)</external-xref>) is amended by striking <quote>section 3553(a)(2)</quote> and inserting <quote>section 3553(a)(1)(B)</quote>.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id87ca04c6e58146e99fc63efef552efae">
+                        <enum>(B)</enum>
+                        <header>Title 18</header>
+ <text>Title 18 of the United States Code is amended—</text> <clause commented="no" display-inline="no-display-inline" id="id7f90532815da41c4ae2b1a2304d56d9c"> <enum>(i)</enum> <text>in chapter 227—</text>
+                            <subclause id="id6b944c109dac433b9383990cb9c5e675">
+                                <enum>(I)</enum>
+ <text>in section 3551, by striking <quote>section 3553(a)(2)</quote> and inserting <quote>section 3553(a)(1)(B)</quote>;</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="id2468cde6a6f1456bb2667f121f621132">
+                                <enum>(II)</enum>
+ <text>in section 3563—</text> <item commented="no" display-inline="no-display-inline" id="idbc4c8338b8db403da5df16e06c61a065"> <enum>(aa)</enum> <text display-inline="yes-display-inline">by striking <quote>section 3553(a)(1) and (a)(2)</quote> and inserting <quote>section 3553(a)(1)(A) and (B)</quote>; and</text>
+                                </item>
+                                <item commented="no" display-inline="no-display-inline" id="id08bbb8142bf645c29f97d4f0958648d6">
+                                    <enum>(bb)</enum>
+ <text display-inline="yes-display-inline">by striking <quote>section 3553(a)(2)</quote> and inserting <quote>section 3553(a)(1)(B)</quote>; and</text>
+                                </item>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="id3d63031a5b794cb0958a726e3d5cf0cc">
+                                <enum>(III)</enum>
+ <text>in section 3583, by striking <quote>section 3553(a)(1), (a)(2)(B), (a)(2)(C), (a)(2)(D), (a)(4), (a)(5), (a)(6), and (a)(7)</quote> and inserting <quote>subparagraphs (A), (B)(ii), (B)(iii), (B)(iv), (D), (E), (F), and (G) of section 3553(a)(1)</quote>; and</text>
+                            </subclause>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id6df862eff75043e786424c922afb8afe">
+                            <enum>(ii)</enum>
+ <text>in section 3742—</text> <subclause commented="no" display-inline="no-display-inline" id="id4665357ffa5a4d479952324750b981aa"> <enum>(I)</enum> <text display-inline="yes-display-inline">in subsection (e)(3)(B)(i), by striking <quote>section 3353(a)(2)</quote> and inserting <quote>section 3353(a)(1)(B)</quote>;</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="id9f761198308d4dac8a806eaf3f2b6c45">
+                                <enum>(II)</enum>
+ <text>in subsection (g)(1), by striking <quote>subsection 3553(a)(4)</quote> and inserting <quote>section 3553(a)(1)(D)</quote>; and</text>
+                            </subclause>
+                            <subclause commented="no" display-inline="no-display-inline" id="id0fb1e71e466f4e5d8e2adaa9fe95a81b">
+                                <enum>(III)</enum>
+ <text>in subsection (j)(A), by striking <quote>section 3353(a)(2)</quote> and inserting <quote>section 3353(a)(1)(B)</quote>.</text>
+                            </subclause>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id6aa43fe0895548c0bb9ee953a7dcbef4">
+                        <enum>(C)</enum>
+                        <header>Title 28</header>
+ <text><external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/28/58">Chapter 58</external-xref> of title 28, United States Code, is amended—</text> <clause commented="no" display-inline="no-display-inline" id="id6bc641c650eb441895d4b6b610ebdd46"> <enum>(i)</enum> <text display-inline="yes-display-inline">in section 991, by striking <quote>section 3353(a)(2)</quote> each place the term appears and inserting <quote>section 3353(a)(1)(B)</quote>; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id7cf4ce385f4d49a5b5d0414b72d702b3">
+                            <enum>(ii)</enum>
+ <text>in section 994, by striking <quote>section 3353(a)(2)</quote> each place the term appears and inserting <quote>section 3353(a)(1)(B)</quote>.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id92e944dd3a29456ab6ef07063edf69f8">
+                <enum>(b)</enum>
+                <header>Sentencing guidelines</header>
+ <text>Not later than 30 days after the date of enactment of this Act, the United States Sentencing Commission shall amend the United States Sentencing Commission Guidelines Manual to prohibit the considerations described in section 3553(a)(2), as added by subsection (a), pursuant to its authority under section 994(p) of title 28, United States Code.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

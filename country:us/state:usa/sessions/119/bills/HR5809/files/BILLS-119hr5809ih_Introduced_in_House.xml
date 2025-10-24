@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-House" dms-id="H7EF3EDC3FB87469E84EB82849F4732E1" public-private="public" key="H" bill-type="olc"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 HR 5809 IH: Fight Hunger Act</dc:title>
+<dc:publisher>U.S. House of Representatives</dc:publisher>
+<dc:date>2025-10-21</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">I</distribution-code><congress display="yes">119th CONGRESS</congress><session display="yes">1st Session</session><legis-num display="yes">H. R. 5809</legis-num><current-chamber>IN THE HOUSE OF REPRESENTATIVES</current-chamber><action display="yes"><action-date date="20251021">October 21, 2025</action-date><action-desc><sponsor name-id="T000488">Mr. Thanedar</sponsor> introduced the following bill; which was referred to the <committee-name committee-id="HWM00">Committee on Ways and Means</committee-name></action-desc></action><legis-type>A BILL</legis-type><official-title display="yes">To amend the Internal Revenue Code of 1986 to allow a credit against tax for food donations.</official-title></form><legis-body id="H706205FF7372495E80252C335F6B6436" style="OLC">
+        <section id="H4E016A62310346DFBD75905475EB8F62" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Fight Hunger Act</short-title></quote>.</text>
+        </section> 
+<section id="HF237312EEC9545A8965A3FA3B1A4F41F" section-type="subsequent-section">
+            <enum>2.</enum>
+            <header>Tax credit for donations to charitable organizations that feed ill, needy, or
+                infants</header>
+            <subsection id="HCDCED7B914DB42718D8D4C64D006EA01">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Subpart B of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:</text>
+                <quoted-block style="OLC" id="H39D4E57FBA834201A8942FD1E3979C21"
+                    display-inline="no-display-inline">
+                    <section id="H106FE673CCD049BC9DA95CE233362BD6">
+                        <enum>30E.</enum>
+                        <header>Donations to charitable organizations that feed ill, needy, or
+                            infants</header>
+                        <subsection id="HFB1E9EB9524B4CF1A34740078830A3D9">
+                            <enum>(a)</enum>
+                            <header>In general</header>
+ <text display-inline="yes-display-inline">In the case of a taxpayer who elects the application of this section, there shall be allowed as a credit against the tax imposed by this chapter an amount equal to the qualified charitable donations made by the taxpayer during the taxable year.</text>
+                        </subsection>
+                        <subsection id="H4A268D71A65B4AE49DB99E13512138A0">
+                            <enum>(b)</enum>
+                            <header>Qualified charitable donations</header>
+                            <paragraph id="H852EE2B67B9C4876A30898787F1ACA29">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text>For purposes of this section, the term <quote>qualified charitable donation</quote> means any charitable contribution (as defined in section 170(c)) to an organization which is described in section 501(c)(3) and exempt from tax under section 501(a) (other than a private foundation, as defined in section 509(a), which is not an operating foundation, as defined in section 4942(j)(3)), but only if—</text>
+                                <subparagraph id="HB5AAEDC885C4458CB85BC34230112ED9">
+                                    <enum>(A)</enum>
+ <text>such contribution is—</text> <clause id="H67C903EB925D48A98DB17E3160B673F2"> <enum>(i)</enum> <text>made in cash, or</text>
+                                    </clause>
+                                    <clause id="H876219CD451648C48D7D91AEE9CF057E">
+                                        <enum>(ii)</enum>
+ <text>is food that is apparently wholesome food, and</text> </clause> </subparagraph> <subparagraph id="H5AEB50B726DE4197BCE0073BFECFD839"> <enum>(B)</enum> <clause id="HEE161F52BBCB4E06A2D40A475360D2B0" display-inline="yes-display-inline"> <enum>(i)</enum> <text display-inline="yes-display-inline">such contribution is to an organization that is a food bank, soup kitchen, or other organizations that would typically receive donations of food to carry out the purpose or function constituting the basis for the organization’s exemption, and</text>
+                                    </clause>
+                                    <clause id="HC388F191FF95413EB9383A06C04B23B0" indent="up1">
+                                        <enum>(ii)</enum>
+ <text>in the case of a contribution of food, such food is to be used by the organization to carry out such purpose or function.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H43FCCBE2A4924C128FB7108A8C92B41C">
+                                <enum>(2)</enum>
+                                <header>Certain transportation costs included</header>
+ <text>Such term shall include an amount to account for the use of a vehicle in the course of delivering a qualified charitable donation of food. Such amount shall not exceed the standard mileage rate in effect under section 170(i) with respect to such use.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="HDA7A6FAF88A34455BB4841E05EB7D1AA">
+                            <enum>(c)</enum>
+                            <header>Special rules</header>
+ <text display-inline="yes-display-inline">For purposes of this section—</text>
+                            <paragraph id="H88CCFAEDAE214EC48ED1D717ED155E58">
+                                <enum>(1)</enum>
+                                <header>Denial of double benefit</header>
+ <text>In the case of a taxpayer who elects the application of this section, no amount taken into account in determining the credit allowed under this section shall be taken into account in determining any deduction or other credit allowed under this chapter.</text>
+                            </paragraph>
+                            <paragraph id="H087AC96690774B3EA076FBAB0681842E">
+                                <enum>(2)</enum>
+                                <header>Carryforward</header>
+                                <subparagraph id="H4F1FD89277A848A09217532D9B19E220">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text display-inline="yes-display-inline">If the credit allowable under subsection (a) (and to which subsection (d)(2) applies) for any taxable year exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under subpart A (other than this section and section 25D), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year.</text>
+                                </subparagraph>
+                                <subparagraph id="H8E606580E3104469BEA3F89B9B5D10D5">
+                                    <enum>(B)</enum>
+                                    <header>Limitation</header>
+ <text>No credit may be carried forward under this subsection to any taxable year following the fifth taxable year after the taxable year in which the credit arose. For purposes of the preceding sentence, credits shall be treated as used on a first-in first-out basis.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H854C4FCE7A124AC192B5A5DF0868947E">
+                                <enum>(3)</enum>
+                                <header>Substantiation requirements</header>
+ <text>Rules similar to the rules of section 170(f)(8) shall apply for purposes of contributions taken into account under this section.</text>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H4B88749FE1BC4A42B88E05ACE03887C2">
+                            <enum>(d)</enum>
+                            <header>Application with other credits</header>
+                            <paragraph id="H55CDDD22B2904D4F813C10841AF9D0D8">
+                                <enum>(1)</enum>
+                                <header>Business credit treated as part of general business
+                                    credit</header>
+ <text display-inline="yes-display-inline">So much of the credit which would be allowed as a credit under subsection (a) for any taxable year (determined without regard to this subsection) that is attributable to cash or food from any trade or business of the taxpayer shall be treated as a credit listed in section 38(b) for such taxable year (and not allowed under subsection (a)).</text>
+                            </paragraph>
+                            <paragraph id="H017924FD828448D59E83A2CBB540DB1F">
+                                <enum>(2)</enum>
+                                <header>Personal credit</header>
+ <text>For purposes of this title, the credit allowed under subsection (a) for any taxable year (determined after the application of paragraph (1)) shall be treated as a credit allowed under subpart A for such taxable year.</text>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="HBA8AECF6758848298232A6F85D3EC5B2">
+                <enum>(b)</enum>
+                <header>Portion of credit made part of general business credit</header>
+ <text>Section 38(b) of such Code is amended by striking <quote>plus</quote> at the end of paragraph (40), by striking the period at the end of paragraph (41) and inserting <quote>, plus</quote>, and by adding at the end the following new paragraph:</text>
+                <quoted-block style="OLC" id="HD161AA973DCB4911A60C7744383D74AC"
+                    display-inline="no-display-inline">
+                    <paragraph id="H4A8288154E20451AA10C935644283A68">
+                        <enum>(42)</enum>
+ <text display-inline="yes-display-inline">the portion of the credit allowed under section 30E to which subsection (d)(1) thereof applies.</text>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H84DC125C62E341C4A3CF8211C13F4CB8">
+                <enum>(c)</enum>
+                <header>Conforming amendment</header>
+ <text>Section 23(c)(1) of such Code is amended by striking <quote>and section 25D</quote> and inserting <quote>and sections 25D and 30E</quote>.</text>
+            </subsection>
+            <subsection id="H6E466B04C7FE4DFE9015CE48844E9E64">
+                <enum>(d)</enum>
+                <header>Clerical amendment</header>
+ <text display-inline="yes-display-inline">Subpart B of part IV of subchapter A of <external-xref legal-doc="usc-chapter" parsable-cite="usc-chapter/26/1">chapter 1</external-xref> of the Internal Revenue Code of 1986 is amended by adding at the end the following new section:</text>
+                <quoted-block style="OLC" id="H3EE4C0C4C76E4C91B78BD056BBB92836"
+                    display-inline="no-display-inline">
+                    <toc regeneration="no-regeneration">
+                        <toc-entry level="section">Sec. 30E. Donations to charitable organizations
+                            that feed ill, needy, or infants.</toc-entry>
+                    </toc>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H110642ABBACA4E92B97444163D6BD4B2">
+                <enum>(e)</enum>
+                <header>Effective date</header>
+ <text>The amendments made by this section shall apply to taxable years beginning after December 31, 2025.</text>
+            </subsection>
+        </section> 
+</legis-body></bill>
+
+

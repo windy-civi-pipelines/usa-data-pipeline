@@ -1,0 +1,201 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-TAM25779-DCN-VD-FNK">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3014 IS: Ensuring Timely Access to Generics Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3014</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251016">October 16, 2025</action-date>
+            <action-desc><sponsor name-id="S324">Mrs. Shaheen</sponsor> (for herself and <cosponsor name-id="S252">Ms. Collins</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSHR00">Committee on
+                    Health, Education, Labor, and Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Federal Food, Drug, and Cosmetic Act with respect to citizen
+            petitions.</official-title>
+    </form>
+    <legis-body changed="not-changed">
+        <section section-type="section-one" id="id0a90fe0f-4229-4bb8-98ba-75571359b0ba" changed="not-changed">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Ensuring Timely Access to Generics Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="id27901355-18b8-40b1-85cf-dad5805fafec" changed="not-changed">
+            <enum>2.</enum>
+            <header>Ensuring timely access to generics</header>
+ <text display-inline="no-display-inline">Section 505(q) of the Federal Food, Drug, and Cosmetic Act (<external-xref legal-doc="usc" parsable-cite="usc/21/355">21 U.S.C. 355(q)</external-xref>) is amended—</text>
+            <paragraph id="id0c85be58-5c8f-4bc2-889a-732d0c17ede7" changed="not-changed">
+                <enum>(1)</enum>
+ <text>in paragraph (1)—</text> <subparagraph id="id1a41f3b1-0840-4739-bfb5-8b6c84c919d0" changed="not-changed"> <enum>(A)</enum> <text>in subparagraph (A)(i), by inserting <quote>, 10.31,</quote> after <quote>10.30</quote>;</text>
+                </subparagraph>
+                <subparagraph id="id673805da-5f91-41ed-9b89-b582e70e01d5" changed="not-changed">
+                    <enum>(B)</enum>
+ <text>in subparagraph (E)—</text> <clause id="id29e9af39-b71e-4ca5-aca2-27c96d92be17" changed="not-changed"> <enum>(i)</enum> <text>by striking <quote>application and</quote> and inserting <quote>application or</quote>;</text>
+                    </clause>
+                    <clause id="id61aae6d9-186d-428a-ac55-d351bc35c48c" changed="not-changed">
+                        <enum>(ii)</enum>
+ <text>by striking <quote>If the Secretary</quote> and inserting the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" changed="not-changed" id="id7532f339-7410-4b01-be3f-1b23c1d375f3">
+                            <clause id="id0a73b710-ed48-43ab-b252-ef57a8161608" changed="not-changed">
+                                <enum>(i)</enum>
+                                <header>In general</header>
+ <text>If the Secretary</text> </clause> <after-quoted-block>; and</after-quoted-block> </quoted-block> </clause> <clause id="id58fabf57-b831-4a53-b643-9d0cbf9b63a9" changed="not-changed"> <enum>(iii)</enum> <text>by striking the second sentence and inserting the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" changed="not-changed" id="id14f7d956-e0c0-4f32-8c83-6b2cdac7222d">
+                            <clause id="ida466e2d0-bdba-41cc-a546-21cfbef26a3f" changed="not-changed">
+                                <enum>(ii)</enum>
+                                <header>Primary purpose of delaying</header>
+                                <subclause id="id02f21319-1ca8-4ef3-a53d-c6cd5059f19b" changed="not-changed">
+                                    <enum>(I)</enum>
+                                    <header>In general</header>
+ <text>In determining whether a petition was submitted with the primary purpose of delaying an application, the Secretary may consider the following factors:</text>
+                                    <item id="id2dd37275-afea-4c14-b0b2-fe3f58d78360" changed="not-changed">
+                                        <enum>(aa)</enum>
+ <text>Whether the petition was submitted in accordance with paragraph (2)(B), based on when the petitioner knew the relevant information relied upon to form the basis of such petition.</text>
+                                    </item>
+                                    <item id="id613c2ffb-63a1-43de-b13e-75e67bfeb47a" changed="not-changed">
+                                        <enum>(bb)</enum>
+ <text>When the petition was submitted in relation to when the petitioner reasonably should have known the relevant information relied upon to form the basis of such petition.</text>
+                                    </item>
+                                    <item commented="no" display-inline="no-display-inline" id="id1f21e48a45b6415ea3479c485f72a874" changed="not-changed">
+                                        <enum>(cc)</enum>
+ <text display-inline="yes-display-inline">Whether the petitioner has submitted multiple or serial petitions or supplements to petitions raising issues that reasonably could have been known to the petitioner at the time of submission of the earlier petition or petitions.</text>
+                                    </item>
+                                    <item id="id8d144a01-f272-4b5a-b007-bef930d78e50" changed="not-changed">
+                                        <enum>(dd)</enum>
+ <text>Whether the petition was submitted close in time to a known, first date upon which an application under subsection (b)(2) or (j) of this section or section 351(k) of the Public Health Service Act could be approved.</text>
+                                    </item>
+                                    <item id="id5a2ad730-3c96-4173-9e47-1a4e6497830e" changed="not-changed">
+                                        <enum>(ee)</enum>
+ <text>Whether the petition was submitted without relevant data or information in support of the scientific positions forming the basis of such petition.</text>
+                                    </item>
+                                    <item id="idd4f2286f-000a-4e94-8f7f-70926f41cb73" changed="not-changed">
+                                        <enum>(ff)</enum>
+ <text>Whether the petition raises the same or substantially similar issues as a prior petition to which the Secretary has responded substantively already, including if the subsequent submission follows such response from the Secretary closely in time.</text>
+                                    </item>
+                                    <item id="id39ca9fe7-77d7-42c2-a4a0-c08bf2d7cdd5" changed="not-changed">
+                                        <enum>(gg)</enum>
+ <text>Whether the petition requests changing the applicable standards that other applicants are required to meet, including requesting testing, data, or labeling standards that are more onerous or rigorous than the standards the Secretary has determined to be applicable to the listed drug, reference product, or petitioner’s version of the same drug.</text>
+                                    </item>
+                                    <item id="idc8634a5f-ef9a-4e2f-bbb9-7bee1b8bd928" changed="not-changed">
+                                        <enum>(hh)</enum>
+ <text>The petitioner's record of submitting petitions to the Food and Drug Administration that have been determined by the Secretary to have been submitted with the primary purpose of delay.</text>
+                                    </item>
+                                    <item id="id8a7bf633-fbb0-4749-ae97-7cf9e3a37e72" changed="not-changed">
+                                        <enum>(ii)</enum>
+ <text>Other relevant and appropriate factors, which the Secretary shall describe in guidance.</text>
+                                    </item>
+                                </subclause>
+                                <subclause id="id714bab3b-a529-4f57-b134-21f4901ccfc3" changed="not-changed">
+                                    <enum>(II)</enum>
+                                    <header>Guidance</header>
+ <text>The Secretary may issue or update guidance, as appropriate, to describe factors the Secretary considers in accordance with subclause (I).</text>
+                                </subclause>
+                            </clause>
+                            <after-quoted-block>;</after-quoted-block>
+                        </quoted-block>
+                    </clause>
+                </subparagraph>
+                <subparagraph id="idd76ff447-57d7-4d99-a830-261a0103184c" changed="not-changed">
+                    <enum>(C)</enum>
+ <text>by striking subparagraph (F);</text> </subparagraph> <subparagraph commented="no" id="id9c85f284-4117-4bb0-aa76-47ec0403cbcc" changed="not-changed"> <enum>(D)</enum> <text>by redesignating subparagraphs (G) through (I) as subparagraphs (F) through (H), respectively; and</text>
+                </subparagraph>
+                <subparagraph id="id6a1b8e09-4a20-423f-b7e5-399b888b259d" changed="not-changed">
+                    <enum>(E)</enum>
+ <text>in subparagraph (H), as so redesignated, by striking <quote>submission of this petition</quote> and inserting <quote>submission of this document</quote>;</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="idbbbc1585-e0d0-4c61-b747-53c577c8542a" changed="not-changed">
+                <enum>(2)</enum>
+ <text>in paragraph (2)—</text> <subparagraph id="id02371737-530c-43ce-a640-c07c5d918e8e" changed="not-changed"> <enum>(A)</enum> <text>by redesignating subparagraphs (A) through (C) as subparagraphs (C) through (E), respectively;</text>
+                </subparagraph>
+                <subparagraph id="iddea9f3cc-3499-4962-b87c-c75ac5eda8a5" changed="not-changed">
+                    <enum>(B)</enum>
+ <text>by inserting before subparagraph (C), as so redesignated, the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" changed="not-changed" id="ide9fd9c23-2609-4a6c-912b-8cffbe0b39a4">
+                        <subparagraph id="idf0c314d9-1170-4d75-aea5-a94489337a0b" changed="not-changed">
+                            <enum>(A)</enum>
+                            <header>In general</header>
+ <text>A person shall submit a petition to the Secretary under paragraph (1) before filing a civil action in which the person seeks to set aside, delay, rescind, withdraw, or prevent submission, review, or approval of an application submitted under subsection (b)(2) or (j) of this section or section 351(k) of the Public Health Service Act. Such petition and any supplement to such a petition shall describe all information and arguments that form the basis of the relief requested in any civil action described in the previous sentence.</text>
+                        </subparagraph>
+                        <subparagraph id="id7bd4fc77-b534-45f7-b771-59bda3c47f45" changed="not-changed">
+                            <enum>(B)</enum>
+                            <header>Timely submission of citizen petition</header>
+ <text>A petition and any supplement to a petition shall be submitted within 180 days after the person knew the information that forms the basis of the request made in the petition or supplement.</text>
+                        </subparagraph>
+                        <after-quoted-block>;</after-quoted-block>
+                    </quoted-block>
+                </subparagraph>
+                <subparagraph id="idb6548984-a137-4492-80d7-be86c3ee3d33" changed="not-changed">
+                    <enum>(C)</enum>
+ <text>in subparagraph (C), as so redesignated—</text> <clause id="ide9bfc4cf-a9dd-4fa8-878a-641e7461e79b" changed="not-changed"> <enum>(i)</enum> <text>in the heading, by striking <quote><header-in-text level="subparagraph" style="OLC">within 150 days</header-in-text></quote>;</text>
+                    </clause>
+                    <clause id="ida490dd18-433c-4ca5-9c55-8015e1d027cd" changed="not-changed">
+                        <enum>(ii)</enum>
+ <text>in clause (i), by striking <quote>during the 150-day period referred to in paragraph (1)(F),</quote>; and</text>
+                    </clause>
+                    <clause id="idb4f5c608-49bc-43be-bfaa-6fd739faa773" changed="not-changed">
+                        <enum>(iii)</enum>
+ <text>by amending clause (ii) to read as follows:</text> <quoted-block style="OLC" display-inline="no-display-inline" changed="not-changed" id="id296152f9-a219-4a12-9596-aa1eb93c3eef"> <clause id="id7dcbc638-b911-4b7b-993f-d14472c10b3d" changed="not-changed"> <enum>(ii)</enum> <text>on or after the date that is 151 days after the date of submission of the petition, the Secretary approves or has approved the application that is the subject of the petition without having made such a final decision.</text>
+                            </clause>
+                            <after-quoted-block>;</after-quoted-block>
+                        </quoted-block>
+                    </clause>
+                </subparagraph>
+                <subparagraph id="id589a5c55-6f1a-4985-8f0e-6ac45a69b8ac" changed="not-changed">
+                    <enum>(D)</enum>
+ <text>by amending subparagraph (D), as so redesignated, to read as follows:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" changed="not-changed" id="id7b5297dc-8fcb-4bb0-a4b1-04d25362dccd">
+                        <subparagraph id="id0b982f04-dc2e-4754-bbfa-676e3b8c6d4e" changed="not-changed">
+                            <enum>(D)</enum>
+                            <header>Dismissal of certain civil actions</header>
+                            <clause id="id5dd6ccd7-c9c5-4abe-8dbb-bb92fb072093" changed="not-changed">
+                                <enum>(i)</enum>
+                                <header>Petition</header>
+ <text>If a person files a civil action against the Secretary in which a person seeks to set aside, delay, rescind, withdraw, or prevent submission, review, or approval of an application submitted under subsection (b)(2) or (j) of this section or section 351(k) of the Public Health Service Act without complying with the requirements of subparagraph (A), the court shall dismiss without prejudice the action for failure to exhaust administrative remedies.</text>
+                            </clause>
+                            <clause id="id8b46c51e-151f-47eb-8f50-b96dc33e3a81" changed="not-changed">
+                                <enum>(ii)</enum>
+                                <header>Timeliness</header>
+ <text>If a person files a civil action against the Secretary in which a person seeks to set aside, delay, rescind, withdraw, or prevent submission, review, or approval of an application submitted under subsection (b)(2) or (j) of this section or section 351(k) of the Public Health Service Act without complying with the requirements of subparagraph (B), the court shall dismiss with prejudice the action for failure to timely file a petition.</text>
+                            </clause>
+                            <clause id="idc152add4-b0ed-4b4b-8ee8-81948b3671d2" changed="not-changed">
+                                <enum>(iii)</enum>
+                                <header>Final response</header>
+ <text>If a civil action is filed against the Secretary with respect to any issue raised in a petition timely filed under paragraph (1) in which the petitioner requests that the Secretary take any form of action that could, if taken, set aside, delay, rescind, withdraw, or prevent submission, review, or approval of an application submitted under subsection (b)(2) or (j) of this section or section 351(k) of the Public Health Service Act before the Secretary has taken final agency action on the petition within the meaning of subparagraph (C), the court shall dismiss without prejudice the action for failure to exhaust administrative remedies.</text>
+                            </clause>
+                        </subparagraph>
+                        <after-quoted-block>; and</after-quoted-block>
+                    </quoted-block>
+                </subparagraph>
+                <subparagraph id="idbfdd2d7e-0048-4dc8-8e13-dccfc79a23ff" changed="not-changed">
+                    <enum>(E)</enum>
+ <text>in clause (iii) of subparagraph (E), as so redesignated, by striking <quote>as defined under subparagraph (2)(A)</quote> and inserting <quote>within the meaning of subparagraph (C)</quote>; and</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="idbee2c8da-08cd-467c-81da-5ef1189f7fe8" changed="not-changed">
+                <enum>(3)</enum>
+ <text>in paragraph (4)—</text> <subparagraph id="idb7626a12-e003-4be1-8279-3925c8d11e24" changed="not-changed"> <enum>(A)</enum> <text>by striking <quote><header-in-text level="paragraph" style="OLC">Exceptions</header-in-text></quote> in the paragraph heading and all that follows through <quote>This subsection does</quote> and inserting <quote><header-in-text level="paragraph" style="OLC">Exceptions.—</header-in-text>This subsection does</quote>;</text>
+                </subparagraph>
+                <subparagraph id="id64a94dd7-e8bf-4076-a75d-58119dbb5927" changed="not-changed">
+                    <enum>(B)</enum>
+ <text>by striking subparagraph (B); and</text> </subparagraph> <subparagraph id="id8beb0859-cfb0-4f5e-a419-93c82761ba42" changed="not-changed" commented="no" display-inline="no-display-inline"> <enum>(C)</enum> <text>by redesignating clauses (i) and (ii) as subparagraphs (A) and (B), respectively, and adjusting the margins accordingly.</text>
+                </subparagraph>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+
