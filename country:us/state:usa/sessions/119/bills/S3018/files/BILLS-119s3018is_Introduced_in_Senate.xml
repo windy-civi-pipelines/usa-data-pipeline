@@ -1,0 +1,59 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-DAV25L18-1R1-57-J50">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3018 IS: To permit visiting dignitaries and service members from Taiwan to display the flag of the Republic of China.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3018</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251020">October 20, 2025</action-date>
+            <action-desc><sponsor name-id="S355">Mr. Cruz</sponsor> (for himself, <cosponsor name-id="S391">Mr. Young</cosponsor>, and <cosponsor name-id="S396">Mrs.
+                    Blackburn</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSFR00">Committee on Foreign
+                    Relations</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To permit visiting dignitaries and service members from Taiwan to display
+            the flag of the Republic of China.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Requirement to permit dignitaries and service members from Taiwan to display the
+                flag of the Republic of China</header>
+            <subsection id="idE9BECE38509047A8BDD1F4B4892B67EF">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">The Secretary of State and the Secretary of Defense shall permit members of the Armed Forces and Government representatives from the Republic of China (Taiwan) or the Taipei Economic and Cultural Representative Office (TECRO) to display, for the official purposes set forth in subsection (b), symbols of Republic of China sovereignty, including—</text>
+                <paragraph id="idf188cc43171e4171a39f2577d0248f5e">
+                    <enum>(1)</enum>
+ <text>the flag of the Republic of China (Taiwan); and</text> </paragraph> <paragraph id="idb6ad25a5e85245d1a373240f560b74fb"> <enum>(2)</enum> <text>the corresponding emblems or insignia of military units.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idD374FDAF683E44D68EC086084CB01420">
+                <enum>(b)</enum>
+                <header>Official purposes</header>
+ <text>The official purposes referred to in subsection (a) are—</text> <paragraph id="id210450519f344a8fac15f334dac6f5a4"> <enum>(1)</enum> <text>the wearing of official uniforms;</text>
+                </paragraph>
+                <paragraph id="id0ca8376920af46a7a73a0615175f6315">
+                    <enum>(2)</enum>
+ <text>conducting government hosted ceremonies or functions; and</text> </paragraph> <paragraph id="id687300ea3c574eb29eeb45c9c23b18dc" commented="no" display-inline="no-display-inline"> <enum>(3)</enum> <text>appearances on Department of State and Department of Defense social media accounts promoting engagements with Taiwan.</text>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
