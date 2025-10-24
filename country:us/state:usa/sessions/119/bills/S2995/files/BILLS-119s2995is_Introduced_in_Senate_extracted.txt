@@ -1,0 +1,212 @@
+Title: 
+Official Title: To require the Federal financial regulators to issue guidance encouraging
+            financial institutions to work with consumers and businesses affected by a Federal
+            Government shutdown, and for other purposes.
+Number of Sections: 2
+Source: versions - Introduced in Senate
+Media Type: text/xml
+
+================================================================================
+
+Section 1:
+1.
+            Short title
+ This Act may be cited as the Shutdown Guidance for Financial Institutions Act.
+
+Section 2:
+2.
+            Shutdown guidance for financial institutions
+            
+                (a)
+                Definitions
+ In this section:  (1) Consumer affected by a shutdown The term consumer affected by a shutdown means an individual who is an employee of—
+                    
+                        (A)
+ the Federal Government, and who is furloughed or excepted from a furlough during a shutdown;
+                    
+                    
+                        (B)
+ the District of Columbia, and who is not receiving pay because of a shutdown; or
+                    
+                    
+                        (C)
+ a Federal contractor or other business, and who has experienced a substantial reduction in pay due to the shutdown.
+                    
+                
+                
+                    (2)
+                    Consumers and businesses affected by a shutdown
+ The term consumers and businesses affected by a shutdown means—
+                    
+                        (A)
+ a consumer affected by a shutdown; and   (B) a Federal contractor (as defined under section 7101 of title 41, United States Code) or other business that has experienced a substantial reduction in income due to the shutdown.
+                    
+                
+                
+                    (3)
+                    Federal contractor
+ The term Federal contractor has the meaning given the term contractor in section 7101 of title 41, United States Code.
+                
+                
+                    (4)
+                    Federal financial regulators
+ The term Federal financial regulators means the Board of Governors of the Federal Reserve System, the Bureau of Consumer Financial Protection, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the National Credit Union Administration.
+                
+                
+                    (5)
+                    Shutdown
+ The term shutdown means any period in which there is more than a 24-hour lapse in appropriations as a result of a failure to enact a regular appropriations bill or continuing resolution.
+                
+            
+            
+                (b)
+                Guidance
+ Not later than the end of the 180-day period beginning on the date of enactment of this Act, the Federal financial regulators jointly, in consultation with State banking regulators and other appropriate Federal and State agencies, shall issue shutdown guidance to the financial institutions they regulate encouraging the financial institutions to—
+                
+                    (1)
+ work with consumers and businesses affected by a shutdown;   (2) recognize that consumers and businesses affected by a shutdown may lose access to credit and face temporary hardship in making payments on debts such as mortgages, student loans, car loans, business loans, or credit cards;
+                
+                
+                    (3)
+ consider prudent efforts to modify terms on existing loans or extend new credit to help consumers and businesses affected by a shutdown, consistent with safe-and-sound lending practices; and
+                
+                
+                    (4)
+ take steps to prevent adverse information being reported in a manner that harms consumers affected by a shutdown, including by preventing modified credit arrangements intended to help consumers fulfill their financial obligations from being reported to, and coded by, consumer reporting agencies on a consumer report in a manner that hurts the creditworthiness of the consumer.
+                
+            
+            
+                (c)
+                Notice of guidance during a shutdown
+ Not later than the end of the 24-hour period beginning at the start of a shutdown, the Federal financial regulators jointly shall issue a press release to alert financial institutions, consumers, and businesses to the existence and content of the guidance issued under to subsection (b).
+            
+            
+                (d)
+                Post-Shutdown report to Congress and updated guidance
+                
+                    (1)
+                    In general
+ Not later than the end of the 90-day period beginning on the date on which a shutdown ends, the Federal financial regulators jointly shall submit to Congress a report that contains an analysis of the effectiveness of the guidance issued pursuant to subsection (b).
+                
+                
+                    (2)
+                    Updated guidance
+ Not later than the end of the 180-day period beginning on the date on which a report is issued under paragraph (1), the Federal financial regulators shall update the guidance required under subsection (b) if any shortcomings are identified in the report.
+
+
+================================================================================
+
+Raw Text:
+119 S2995 IS: Shutdown Guidance for Financial Institutions Act
+U.S. Senate
+2025-10-09
+text/xml
+EN
+Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.
+
+
+
+        II
+        119th CONGRESS
+        1st Session
+        S. 2995
+        IN THE SENATE OF THE UNITED STATES
+        
+            October 9, 2025
+            Mr. Van Hollen (for himself, Ms. Alsobrooks, Mr.
+                    Kaine, Mr. Warner, Mrs. Gillibrand, Mr.
+                    Booker, and Mr. Merkley)
+                introduced the following bill; which was read twice and referred to the
+                    Committee on Banking, Housing, and Urban
+                    Affairs
+        
+        A BILL
+        To require the Federal financial regulators to issue guidance encouraging
+            financial institutions to work with consumers and businesses affected by a Federal
+            Government shutdown, and for other purposes.
+    
+    
+        
+            1.
+            Short title
+ This Act may be cited as the Shutdown Guidance for Financial Institutions Act.
+        
+        
+            2.
+            Shutdown guidance for financial institutions
+            
+                (a)
+                Definitions
+ In this section:  (1) Consumer affected by a shutdown The term consumer affected by a shutdown means an individual who is an employee of—
+                    
+                        (A)
+ the Federal Government, and who is furloughed or excepted from a furlough during a shutdown;
+                    
+                    
+                        (B)
+ the District of Columbia, and who is not receiving pay because of a shutdown; or
+                    
+                    
+                        (C)
+ a Federal contractor or other business, and who has experienced a substantial reduction in pay due to the shutdown.
+                    
+                
+                
+                    (2)
+                    Consumers and businesses affected by a shutdown
+ The term consumers and businesses affected by a shutdown means—
+                    
+                        (A)
+ a consumer affected by a shutdown; and   (B) a Federal contractor (as defined under section 7101 of title 41, United States Code) or other business that has experienced a substantial reduction in income due to the shutdown.
+                    
+                
+                
+                    (3)
+                    Federal contractor
+ The term Federal contractor has the meaning given the term contractor in section 7101 of title 41, United States Code.
+                
+                
+                    (4)
+                    Federal financial regulators
+ The term Federal financial regulators means the Board of Governors of the Federal Reserve System, the Bureau of Consumer Financial Protection, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the National Credit Union Administration.
+                
+                
+                    (5)
+                    Shutdown
+ The term shutdown means any period in which there is more than a 24-hour lapse in appropriations as a result of a failure to enact a regular appropriations bill or continuing resolution.
+                
+            
+            
+                (b)
+                Guidance
+ Not later than the end of the 180-day period beginning on the date of enactment of this Act, the Federal financial regulators jointly, in consultation with State banking regulators and other appropriate Federal and State agencies, shall issue shutdown guidance to the financial institutions they regulate encouraging the financial institutions to—
+                
+                    (1)
+ work with consumers and businesses affected by a shutdown;   (2) recognize that consumers and businesses affected by a shutdown may lose access to credit and face temporary hardship in making payments on debts such as mortgages, student loans, car loans, business loans, or credit cards;
+                
+                
+                    (3)
+ consider prudent efforts to modify terms on existing loans or extend new credit to help consumers and businesses affected by a shutdown, consistent with safe-and-sound lending practices; and
+                
+                
+                    (4)
+ take steps to prevent adverse information being reported in a manner that harms consumers affected by a shutdown, including by preventing modified credit arrangements intended to help consumers fulfill their financial obligations from being reported to, and coded by, consumer reporting agencies on a consumer report in a manner that hurts the creditworthiness of the consumer.
+                
+            
+            
+                (c)
+                Notice of guidance during a shutdown
+ Not later than the end of the 24-hour period beginning at the start of a shutdown, the Federal financial regulators jointly shall issue a press release to alert financial institutions, consumers, and businesses to the existence and content of the guidance issued under to subsection (b).
+            
+            
+                (d)
+                Post-Shutdown report to Congress and updated guidance
+                
+                    (1)
+                    In general
+ Not later than the end of the 90-day period beginning on the date on which a shutdown ends, the Federal financial regulators jointly shall submit to Congress a report that contains an analysis of the effectiveness of the guidance issued pursuant to subsection (b).
+                
+                
+                    (2)
+                    Updated guidance
+ Not later than the end of the 180-day period beginning on the date on which a report is issued under paragraph (1), the Federal financial regulators shall update the guidance required under subsection (b) if any shortcomings are identified in the report.

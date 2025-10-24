@@ -1,0 +1,73 @@
+Title: 
+Official Title: To direct the Secretary of Labor to make grants to eligible applicants to provide stipends to individuals enrolled in a pre-apprenticeship program, and for other purposes.
+Number of Sections: 2
+Source: versions - Introduced in House
+Media Type: text/xml
+
+================================================================================
+
+Section 1:
+1.Short titleThis Act may be cited as the Pre-Apprenticeship Wrap-around Support Services Fund Act of 2025.
+
+Section 2:
+2.Grants to provide stipends to individuals enrolled in a pre-apprenticeship program (a)In generalThe Secretary of Labor may make grants to eligible applicants to provide stipends to individuals enrolled in a pre-apprenticeship program in accordance with the requirements under this Act. 
+(b)Pre-Apprenticeship program definedFor purposes of this Act, the term pre-apprenticeship program means a program, initiative, or set of strategies that— (1)is designed to prepare individuals to enroll in a registered apprenticeship program, including preparing individuals with the skills and competencies necessary to succeed in such program;  
+(2)is carried out by an eligible applicant that has entered into a formal agreement with one or more sponsors of a registered apprenticeship program; and (3)includes— 
+(A)theoretical education (including the use of curricula); and (B)training (including hands-on training)— 
+(i)aligned with industry standards of a registered apprenticeship program; and (ii)that does not displace an employee where such training takes place. 
+(c)ApplicationTo be eligible to receive a grant under this Act, an eligible applicant shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. (d)Grant requirementEach grantee shall— 
+(1)establish primary indicators of performance with respect to individuals enrolled in a pre-apprenticeship program, which shall include— (A)the percentage of such individuals who are enrolled in a registered apprenticeship program within 12 months after completing a pre-apprenticeship program; 
+(B)the percentage of such individuals who are employed in the industry of the pre-apprenticeship program in which such individual was enrolled within 12 months after completing the pre-apprenticeship program; (C)the median earnings of such individuals who are enrolled in a registered apprenticeship program within 12 months after completing a pre-apprenticeship program; and 
+(D)the percentage of such individuals who obtain a recognized postsecondary credential or a secondary school diploma (or the recognized equivalent of such diploma) while enrolled in a pre-apprenticeship or within one year after completing a pre-apprenticeship program; and (2)on an annual basis, collect data with respect to— 
+(A)the primary indicators of performance under paragraph (1); (B)the number of stipends provided through grants funds under this Act; and 
+(C)the amount of each such stipend. (e)Additional requirementEach grantee shall prioritize the provision of stipends to individuals enrolled in a pre-apprenticeship program who are also individuals with a barrier to employment. 
+(f)Use of stipendEach grantee shall ensure that a stipend awarded pursuant to this section is used only to reimburse for— (1)necessary transportation costs with respect to a pre-apprenticeship program, including vehicle mileage and public transportation costs; 
+(2)lost hourly wages of an individual enrolled in a pre-apprenticeship program, in the case that participation in such program causes a reduction of hours at the place of employment of such individual; and (3)financial costs of an individual enrolled in a pre-apprenticeship program with respect to obtaining industry-based certifications during the period of enrollment in such program. 
+(g)Report 
+(1)Report to SecretaryNot later than 1 year after receiving a grant under this Act, and annually thereafter, each grantee shall submit to the Secretary a report that includes the data collected pursuant to subsection (d)(2). (2)Report to congressional committeesNot later than 1 year after the date of the enactment of this Act, and annually thereafter, the Secretary shall submit to the Committee on Education and Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the progress and outcomes with respect to each grant awarded under this Act.  
+(h)Additional definitionsIn this Act: (1)Eligible applicantThe term eligible applicant means an entity that currently operates or sponsors a pre-apprenticeship program, including a joint labor-management partnership, an industry partnership, a local educational agency, a secondary school, an area career and technical education school, a State board, a local board, or a community-based organization. 
+(2)GranteeThe term grantee means an eligible applicant that receives a grant under this Act. (3)Individual with a barrier to employmentThe term individual with a barrier to employment has the meaning given the term under section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102). 
+(4)Formal agreementThe term formal agreement means an agreement between an eligible applicant and one or more sponsors of a registered apprenticeship program that includes the following: (A)Enables individuals who successfully complete a pre-apprenticeship program— 
+(i)to enter into a registered apprenticeship program (dependent on availability and whether such individual meets the qualifications of such program); and (ii)to earn credit toward a registered apprenticeship program. 
+(B)Provides for a sponsor to review and approve the training referred to in subsection (b)(3), on an annual basis. (5)Recognized postsecondary credentialThe term recognized postsecondary credential has the meaning given the term under section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102). 
+(6)Registered apprenticeship programThe term registered apprenticeship program means an apprenticeship program that— (A)is registered with the Department of Labor pursuant to the Act of August 16, 1937 (commonly known as the National Apprenticeship Act; 29 U.S.C. 50 et seq.), or is recognized by the Department of Labor as a State apprenticeship agency; and 
+(B)complies with the requirements of subpart A of part 29 and subpart A of part 30 of title 29, Code of Federal Regulations (or successor regulations). (7)SecretaryThe term Secretary means the Secretary of Labor. 
+(i)Authorization of appropriationsThere are authorized to be appropriated such sums as may be necessary to carry out this Act.
+
+
+================================================================================
+
+Raw Text:
+119 HR 5806 IH: Pre-Apprenticeship Wrap-around Support Services Fund Act of 2025
+U.S. House of Representatives
+2025-10-21
+text/xml
+EN
+Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.
+
+
+
+I119th CONGRESS1st SessionH. R. 5806IN THE HOUSE OF REPRESENTATIVESOctober 21, 2025Mr. Smith of Washington introduced the following bill; which was referred to the Committee on Education and WorkforceA BILLTo direct the Secretary of Labor to make grants to eligible applicants to provide stipends to individuals enrolled in a pre-apprenticeship program, and for other purposes. 
+1.Short titleThis Act may be cited as the Pre-Apprenticeship Wrap-around Support Services Fund Act of 2025. 2.Grants to provide stipends to individuals enrolled in a pre-apprenticeship program (a)In generalThe Secretary of Labor may make grants to eligible applicants to provide stipends to individuals enrolled in a pre-apprenticeship program in accordance with the requirements under this Act. 
+(b)Pre-Apprenticeship program definedFor purposes of this Act, the term pre-apprenticeship program means a program, initiative, or set of strategies that— (1)is designed to prepare individuals to enroll in a registered apprenticeship program, including preparing individuals with the skills and competencies necessary to succeed in such program;  
+(2)is carried out by an eligible applicant that has entered into a formal agreement with one or more sponsors of a registered apprenticeship program; and (3)includes— 
+(A)theoretical education (including the use of curricula); and (B)training (including hands-on training)— 
+(i)aligned with industry standards of a registered apprenticeship program; and (ii)that does not displace an employee where such training takes place. 
+(c)ApplicationTo be eligible to receive a grant under this Act, an eligible applicant shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require. (d)Grant requirementEach grantee shall— 
+(1)establish primary indicators of performance with respect to individuals enrolled in a pre-apprenticeship program, which shall include— (A)the percentage of such individuals who are enrolled in a registered apprenticeship program within 12 months after completing a pre-apprenticeship program; 
+(B)the percentage of such individuals who are employed in the industry of the pre-apprenticeship program in which such individual was enrolled within 12 months after completing the pre-apprenticeship program; (C)the median earnings of such individuals who are enrolled in a registered apprenticeship program within 12 months after completing a pre-apprenticeship program; and 
+(D)the percentage of such individuals who obtain a recognized postsecondary credential or a secondary school diploma (or the recognized equivalent of such diploma) while enrolled in a pre-apprenticeship or within one year after completing a pre-apprenticeship program; and (2)on an annual basis, collect data with respect to— 
+(A)the primary indicators of performance under paragraph (1); (B)the number of stipends provided through grants funds under this Act; and 
+(C)the amount of each such stipend. (e)Additional requirementEach grantee shall prioritize the provision of stipends to individuals enrolled in a pre-apprenticeship program who are also individuals with a barrier to employment. 
+(f)Use of stipendEach grantee shall ensure that a stipend awarded pursuant to this section is used only to reimburse for— (1)necessary transportation costs with respect to a pre-apprenticeship program, including vehicle mileage and public transportation costs; 
+(2)lost hourly wages of an individual enrolled in a pre-apprenticeship program, in the case that participation in such program causes a reduction of hours at the place of employment of such individual; and (3)financial costs of an individual enrolled in a pre-apprenticeship program with respect to obtaining industry-based certifications during the period of enrollment in such program. 
+(g)Report 
+(1)Report to SecretaryNot later than 1 year after receiving a grant under this Act, and annually thereafter, each grantee shall submit to the Secretary a report that includes the data collected pursuant to subsection (d)(2). (2)Report to congressional committeesNot later than 1 year after the date of the enactment of this Act, and annually thereafter, the Secretary shall submit to the Committee on Education and Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report on the progress and outcomes with respect to each grant awarded under this Act.  
+(h)Additional definitionsIn this Act: (1)Eligible applicantThe term eligible applicant means an entity that currently operates or sponsors a pre-apprenticeship program, including a joint labor-management partnership, an industry partnership, a local educational agency, a secondary school, an area career and technical education school, a State board, a local board, or a community-based organization. 
+(2)GranteeThe term grantee means an eligible applicant that receives a grant under this Act. (3)Individual with a barrier to employmentThe term individual with a barrier to employment has the meaning given the term under section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102). 
+(4)Formal agreementThe term formal agreement means an agreement between an eligible applicant and one or more sponsors of a registered apprenticeship program that includes the following: (A)Enables individuals who successfully complete a pre-apprenticeship program— 
+(i)to enter into a registered apprenticeship program (dependent on availability and whether such individual meets the qualifications of such program); and (ii)to earn credit toward a registered apprenticeship program. 
+(B)Provides for a sponsor to review and approve the training referred to in subsection (b)(3), on an annual basis. (5)Recognized postsecondary credentialThe term recognized postsecondary credential has the meaning given the term under section 3 of the Workforce Innovation and Opportunity Act (29 U.S.C. 3102). 
+(6)Registered apprenticeship programThe term registered apprenticeship program means an apprenticeship program that— (A)is registered with the Department of Labor pursuant to the Act of August 16, 1937 (commonly known as the National Apprenticeship Act; 29 U.S.C. 50 et seq.), or is recognized by the Department of Labor as a State apprenticeship agency; and 
+(B)complies with the requirements of subpart A of part 29 and subpart A of part 30 of title 29, Code of Federal Regulations (or successor regulations). (7)SecretaryThe term Secretary means the Secretary of Labor. 
+(i)Authorization of appropriationsThere are authorized to be appropriated such sums as may be necessary to carry out this Act.

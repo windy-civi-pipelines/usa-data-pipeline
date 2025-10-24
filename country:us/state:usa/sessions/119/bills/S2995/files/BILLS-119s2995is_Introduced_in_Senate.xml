@@ -1,0 +1,125 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-SIL25A79-Y83-3R-C04">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2995 IS: Shutdown Guidance for Financial Institutions Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2995</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251009">October 9, 2025</action-date>
+            <action-desc><sponsor name-id="S390">Mr. Van Hollen</sponsor> (for himself, <cosponsor name-id="S428">Ms. Alsobrooks</cosponsor>, <cosponsor name-id="S362">Mr.
+                    Kaine</cosponsor>, <cosponsor name-id="S327">Mr. Warner</cosponsor>, <cosponsor name-id="S331">Mrs. Gillibrand</cosponsor>, <cosponsor name-id="S370">Mr.
+                    Booker</cosponsor>, and <cosponsor name-id="S322">Mr. Merkley</cosponsor>)
+                introduced the following bill; which was read twice and referred to the
+                    <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban
+                    Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require the Federal financial regulators to issue guidance encouraging
+            financial institutions to work with consumers and businesses affected by a Federal
+            Government shutdown, and for other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H238C5B0ECAE1473D806D6790DC729DB7">
+        <section section-type="section-one" id="HC25132B0D18641C4B9BCDF443E365407">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Shutdown Guidance for Financial Institutions Act</short-title></quote>.</text>
+        </section>
+        <section id="HDFB0C8A2DE1F45608502140570D4DC24">
+            <enum>2.</enum>
+            <header>Shutdown guidance for financial institutions</header>
+            <subsection id="H1A61CFA6F92144F4894142DB8D0D5FCC">
+                <enum>(a)</enum>
+                <header>Definitions</header>
+ <text display-inline="yes-display-inline">In this section:</text> <paragraph id="H13D8A1181ADD4DDBBA5025EDE8315C3B"> <enum>(1)</enum> <header>Consumer affected by a shutdown</header> <text display-inline="yes-display-inline">The term <term>consumer affected by a shutdown</term> means an individual who is an employee of—</text>
+                    <subparagraph id="H49ED4BA3E744482B98CC936B02CD0FA2">
+                        <enum>(A)</enum>
+ <text>the Federal Government, and who is furloughed or excepted from a furlough during a shutdown;</text>
+                    </subparagraph>
+                    <subparagraph id="HEB4682A1942247668D69EE51F07B3D93">
+                        <enum>(B)</enum>
+ <text>the District of Columbia, and who is not receiving pay because of a shutdown; or</text>
+                    </subparagraph>
+                    <subparagraph id="H2CBB4895E2AB499885841AE6DCC217C4">
+                        <enum>(C)</enum>
+ <text display-inline="yes-display-inline">a Federal contractor or other business, and who has experienced a substantial reduction in pay due to the shutdown.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HDD602FC32B544649805500FBA08073CD">
+                    <enum>(2)</enum>
+                    <header>Consumers and businesses affected by a shutdown</header>
+ <text>The term <term>consumers and businesses affected by a shutdown</term> means—</text>
+                    <subparagraph id="HBFD48A0E834247C0B0E6A1552EC07182">
+                        <enum>(A)</enum>
+ <text>a consumer affected by a shutdown; and</text> </subparagraph> <subparagraph id="H4B64C71F0DAE44BF94D95D890C193677"> <enum>(B)</enum> <text display-inline="yes-display-inline">a Federal contractor (as defined under section 7101 of title 41, United States Code) or other business that has experienced a substantial reduction in income due to the shutdown.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id653190466FB54DC6BB156CF09F098D26">
+                    <enum>(3)</enum>
+                    <header>Federal contractor</header>
+ <text>The term <term>Federal contractor</term> has the meaning given the term <term>contractor</term> in section 7101 of title 41, United States Code.</text>
+                </paragraph>
+                <paragraph id="H2C6DB6F025554E45BBC1EAF835927086">
+                    <enum>(4)</enum>
+                    <header>Federal financial regulators</header>
+ <text display-inline="yes-display-inline">The term <term>Federal financial regulators</term> means the Board of Governors of the Federal Reserve System, the Bureau of Consumer Financial Protection, the Comptroller of the Currency, the Federal Deposit Insurance Corporation, and the National Credit Union Administration.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="H6D5F729C0FBE40DF8B29BE16A62C6A95">
+                    <enum>(5)</enum>
+                    <header>Shutdown</header>
+ <text display-inline="yes-display-inline">The term <term>shutdown</term> means any period in which there is more than a 24-hour lapse in appropriations as a result of a failure to enact a regular appropriations bill or continuing resolution.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H89C2D711104B42849F25C48064B6D695">
+                <enum>(b)</enum>
+                <header>Guidance</header>
+ <text display-inline="yes-display-inline">Not later than the end of the 180-day period beginning on the date of enactment of this Act, the Federal financial regulators jointly, in consultation with State banking regulators and other appropriate Federal and State agencies, shall issue shutdown guidance to the financial institutions they regulate encouraging the financial institutions to—</text>
+                <paragraph id="HAEDE5D69636C4E5281670DF158E7E43B">
+                    <enum>(1)</enum>
+ <text>work with consumers and businesses affected by a shutdown;</text> </paragraph> <paragraph id="HDDFADDB179DB482EAFA9C1F92B4EB0F7"> <enum>(2)</enum> <text display-inline="yes-display-inline">recognize that consumers and businesses affected by a shutdown may lose access to credit and face temporary hardship in making payments on debts such as mortgages, student loans, car loans, business loans, or credit cards;</text>
+                </paragraph>
+                <paragraph id="H776EA1337FB848599F020ADA243D1827">
+                    <enum>(3)</enum>
+ <text display-inline="yes-display-inline">consider prudent efforts to modify terms on existing loans or extend new credit to help consumers and businesses affected by a shutdown, consistent with safe-and-sound lending practices; and</text>
+                </paragraph>
+                <paragraph id="H28BBBD8F4DC34B21A15D91E1E669018E">
+                    <enum>(4)</enum>
+ <text display-inline="yes-display-inline">take steps to prevent adverse information being reported in a manner that harms consumers affected by a shutdown, including by preventing modified credit arrangements intended to help consumers fulfill their financial obligations from being reported to, and coded by, consumer reporting agencies on a consumer report in a manner that hurts the creditworthiness of the consumer.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H568EDA13C4484994A5E98CE591E80F32">
+                <enum>(c)</enum>
+                <header>Notice of guidance during a shutdown</header>
+ <text display-inline="yes-display-inline">Not later than the end of the 24-hour period beginning at the start of a shutdown, the Federal financial regulators jointly shall issue a press release to alert financial institutions, consumers, and businesses to the existence and content of the guidance issued under to subsection (b).</text>
+            </subsection>
+            <subsection id="HD0712A8F86C641F182858F413388FDA7">
+                <enum>(d)</enum>
+                <header>Post-Shutdown report to Congress and updated guidance</header>
+                <paragraph id="HDEB66CB24567464BBF7DB875812C3F5D">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Not later than the end of the 90-day period beginning on the date on which a shutdown ends, the Federal financial regulators jointly shall submit to Congress a report that contains an analysis of the effectiveness of the guidance issued pursuant to subsection (b).</text>
+                </paragraph>
+                <paragraph id="H3BB3B5132A824AB99F43141D7DB4C633">
+                    <enum>(2)</enum>
+                    <header>Updated guidance</header>
+ <text display-inline="yes-display-inline">Not later than the end of the 180-day period beginning on the date on which a report is issued under paragraph (1), the Federal financial regulators shall update the guidance required under subsection (b) if any shortcomings are identified in the report.</text>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

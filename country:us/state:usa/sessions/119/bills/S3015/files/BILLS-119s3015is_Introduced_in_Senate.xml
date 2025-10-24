@@ -1,0 +1,128 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MAZ25658-12X-77-S03">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3015 IS: Advancing Water Research and Collaboration Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3015</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251016">October 16, 2025</action-date>
+            <action-desc><sponsor name-id="S343">Mr. Boozman</sponsor> (for himself, <cosponsor name-id="S406">Mr. Kelly</cosponsor>, <cosponsor name-id="S395">Mrs.
+                    Hyde-Smith</cosponsor>, <cosponsor name-id="S324">Mrs. Shaheen</cosponsor>, and
+                    <cosponsor name-id="S385">Ms. Cortez Masto</cosponsor>) introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSEV00">Committee on Environment and Public Works</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Water Resources Research Act of 1984 to reauthorize the water
+            resources research and technology institutes program, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Advancing Water Research and Collaboration Act of 2025</short-title></quote> or the <quote><short-title>AWRC Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="id732ca0a2f16540989596622dcb7262d2">
+            <enum>2.</enum>
+            <header>Congressional declaration of purpose</header>
+ <text display-inline="no-display-inline">Section 103(4) of the Water Resources Research Act of 1984 (<external-xref legal-doc="usc" parsable-cite="usc/42/10302">42 U.S.C. 10302(4)</external-xref>) is amended by inserting <quote>, including the growing artificial intelligence industry,</quote> after <quote>private industry</quote>.</text>
+        </section>
+        <section id="ide189f79f982649bea70a53f718c0468b">
+            <enum>3.</enum>
+            <header>Water resources research and technology institutes</header>
+ <text display-inline="no-display-inline">Section 104 of the Water Resources Research Act of 1984 (<external-xref legal-doc="usc" parsable-cite="usc/42/10303">42 U.S.C. 10303</external-xref>) is amended—</text>
+            <paragraph id="id7dcf4edff4504618993a661d903f98a2">
+                <enum>(1)</enum>
+ <text>in subsection (f)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id4929da0de8c74ad18bc57299d876111b"> <enum>(A)</enum> <text display-inline="yes-display-inline">in paragraph (2), by striking <quote>subsection 104(g) of this Act</quote> and inserting <quote>subsection (g)</quote>; and</text>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id5a563e08a35a477789bb027e7169bf94">
+                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">by striking the subsection designation and all that follows through <quote>Any sums</quote> in paragraph (2) and inserting the following:</text>
+                    <quoted-block id="id0F9F922CE44444E0B9116840455D441B" style="OLC" act-name="">
+                        <subsection id="idDF4A6D9F36B44C2B8CFA8C433456222A">
+                            <enum>(f)</enum>
+                            <header>General authorization of appropriations</header>
+                            <paragraph commented="no" display-inline="no-display-inline" id="idf530a235953646fa8c30b16cb804b413">
+                                <enum>(1)</enum>
+                                <header display-inline="yes-display-inline">In general</header>
+ <text>Except as provided in paragraph (2) and subject to subsection (g)(1), there is authorized to be appropriated to carry out this section $16,000,000 for each of fiscal years 2026 through 2029.</text>
+                            </paragraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id4c5dd53414fb4078bc185b82da8aae92">
+                                <enum>(2)</enum>
+                                <header>Failure to obligate</header>
+ <text display-inline="yes-display-inline">Any amounts</text> </paragraph> </subsection> <after-quoted-block>; and</after-quoted-block> </quoted-block> </subparagraph> </paragraph> <paragraph id="idd60dd9b9ddf14700b8bd89d07fbd8975"> <enum>(2)</enum> <text>in subsection (g)—</text>
+                <subparagraph commented="no" display-inline="no-display-inline" id="idd08da85ff8984f859e0e565837a80df8">
+                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">in paragraph (2), by striking <quote>(2) Research funds</quote> and inserting the following:</text>
+                    <quoted-block id="idB8C83C896DB54E44A7415BFB5FB29163" style="OLC" act-name="">
+                        <paragraph id="id1B29848324A54357BA1B84469EA25DF3">
+                            <enum>(4)</enum>
+                            <header>Competitive grants</header>
+                        </paragraph>
+                        <after-quoted-block>;</after-quoted-block>
+                    </quoted-block>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id6fd1874965a34ed4a5422d3fa806eba1">
+                    <enum>(B)</enum>
+ <text>in paragraph (1)—</text> <clause commented="no" display-inline="no-display-inline" id="id13373d43b3f1406c9361bf05c52ec313"> <enum>(i)</enum> <text display-inline="yes-display-inline">in the third sentence, by striking <quote>Funds made</quote> and inserting the following:</text>
+                        <quoted-block id="idAC48E683105D4F65AD88E9ACF0E4959A" style="OLC" act-name="">
+                            <paragraph id="id51B7C69CE20A49AE993C43302508E4FE">
+                                <enum>(3)</enum>
+                                <header>Availability of funds</header>
+ <text>Funds made</text> </paragraph> <after-quoted-block>; and</after-quoted-block> </quoted-block> </clause> <clause commented="no" display-inline="no-display-inline" id="idf83d8123062644ad98477e61c97146f8"> <enum>(ii)</enum> <text>by striking <quote>by institutes which focuses</quote> in the first sentence and all that follows through <quote>Such funds when appropriated</quote> in the second sentence and inserting the following:</text>
+                        <quoted-block id="id30382FD012B14D6BBE334CA32A2B3D2E" style="OLC" act-name="" display-inline="yes-display-inline">
+ <text>by institutes with respect to any of the following:</text> <subparagraph id="id80c0e40eea4741249f90075ebe0a31b0"> <enum>(A)</enum> <text>Research that focuses on water problems and issues of a regional or interstate nature beyond those of concern only to a single State.</text>
+                            </subparagraph>
+                            <subparagraph commented="no" display-inline="no-display-inline" id="id7b67b55e93a5458f9a14560c0d2b1463">
+                                <enum>(B)</enum>
+ <text display-inline="yes-display-inline">Research that relates to specific program priorities identified jointly by the Secretary and the institutes.</text>
+                            </subparagraph>
+                            <subparagraph id="id08b27d9763ca4a41a02371b2e8b646a3">
+                                <enum>(C)</enum>
+ <text>Research that relates to water problems identified by Congress as being of an interstate nature.</text>
+                            </subparagraph>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id8c93d9f82e8847f09425d6b00718f2a2">
+                                <enum>(2)</enum>
+                                <header>Federal cost-share</header>
+ <text display-inline="yes-display-inline">Funds made available under this subsection</text>
+                            </paragraph>
+                            <after-quoted-block>; and</after-quoted-block>
+                        </quoted-block>
+                    </clause>
+                </subparagraph>
+                <subparagraph commented="no" display-inline="no-display-inline" id="id149b45d2ff8346e4b9ed385c965ae073">
+                    <enum>(C)</enum>
+ <text>by striking the subsection designation and all that follows through <quote>2025</quote> in the first sentence of paragraph (1) and inserting the following:</text>
+                    <quoted-block id="idBD30D096993C421683C098F2DFFE3B10" style="OLC" act-name="">
+                        <subsection id="id965CFA1D94FB4BCAA63700E6E67548EF">
+                            <enum>(g)</enum>
+                            <header>Additional funds for research focused on water problems of
+                                interstate nature</header>
+                            <paragraph commented="no" display-inline="no-display-inline" id="id3b9a7858880a4593b3f550b1b7d11024">
+                                <enum>(1)</enum>
+                                <header display-inline="yes-display-inline">In general</header>
+ <text>Of the amounts made available under subsection (f)(1) for each of fiscal years 2026 through 2029, 20 percent shall be used</text>
+                            </paragraph>
+                        </subsection>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </subparagraph>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+
