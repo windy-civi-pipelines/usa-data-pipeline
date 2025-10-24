@@ -1,0 +1,329 @@
+Title: 
+Official Title: To amend the Patient Protection and Affordable Care Act to exclude coverage
+            of gender-transition procedures for minors and abortion under health plans offered
+            through the American Health Benefits Exchanges, and for other purposes.
+Number of Sections: 2
+Source: versions - Introduced in Senate
+Media Type: text/xml
+
+================================================================================
+
+Section 1:
+1.
+            Short title
+ This Act may be cited as the Prohibiting Abortion & Transgender Procedures on the Exchanges Act.
+
+Section 2:
+2.
+            Exclusion of gender-transition procedures for minors and abortion from coverage
+                under health plans offered through the American Health Benefits Exchanges
+            
+                (a)
+                In general
+ Section 1303 of the Patient Protection and Affordable Care Act (42 U.S.C. 18023) is amended—
+                
+                    (1)
+ in subsection (a)—  (A) by striking paragraph (2); and
+                    
+                    
+                        (B)
+ by striking the subsection designation and heading and all that follows through A State in paragraph (1) and inserting the following:
+                        
+                            
+                                (a)
+                                State opt-Out of abortion coverage
+ A State  ;      (2) in subsection (b), by striking the subsection designation and heading and all that follows through No qualified in paragraph (4) and inserting the following:
+                    
+                        
+                            (b)
+                            No discrimination on basis of provision of abortion
+ No qualified  ;    (3) in subsection (c)—
+                    
+                        (A)
+ in paragraph (2)—  (i) by striking the paragraph designation and heading and all that follows through Nothing in subparagraph (A) and inserting the following:
+                            
+                                
+                                    (2)
+                                    No effect on Federal laws regarding abortion
+ Nothing  ; and    (ii) by redesignating clauses (i) through (iii) as subparagraphs (A) through (C), respectively, and adjusting the margins accordingly;
+                        
+                    
+                    
+                        (B)
+ by striking the subsection designation and heading and all that follows through the end of paragraph (1) and inserting the following:
+                        
+                            
+                                (c)
+                                Application of Federal laws
+                            
+                            ; and
+                        
+                    
+                    
+                        (C)
+ by redesignating paragraphs (2) and (3) as paragraphs (1) and (2), respectively;
+                    
+                
+                
+                    (4)
+ by redesignating subsections (a) through (d) as subsections (b) through (e), respectively; and
+                
+                
+                    (5)
+ by inserting before subsection (b) (as so redesignated) the following:
+                    
+                        
+                            (a)
+                            Prohibition on coverage of gender-Transition procedures for
+                                minors and abortion
+                            
+                                (1)
+                                In general
+ An Exchange may not make available any health plan, including any health plan offering excepted benefits (as defined in section 2791(c) of the Public Health Service Act), that provides coverage for— 
+                                
+                                    (A)
+ abortion, except in the case where a woman suffers from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the woman in danger of death unless an abortion is performed, including a life-endangering physical condition caused by or arising from the pregnancy itself, or unless the pregnancy is the result of an act of rape or incest; or
+                                
+                                
+                                    (B)
+ gender-transition procedures for minors.    (2) Definitions In this subsection:
+                                
+                                    (A)
+                                    Gender-transition procedure
+                                    
+                                        (i)
+                                        In general
+ Except as provided in clause (ii), the term gender-transition procedure means—
+                                        
+                                            (I)
+ the prescription or administration of gonadotropin-releasing hormone agonists or any other puberty-blocking drugs for the purpose of changing the body of an individual so that it conforms to the subjective sense of identity of the individual, in the case such identity is at odds with the individual's biological sex of male or female;
+                                        
+                                        
+                                            (II)
+ the prescription or administration of testosterone (when prescribed to a female) or estrogen (when prescribed to a male) for the purpose of changing the body of an individual so that it conforms to the subjective sense of identity of the individual, in the case such identity is at odds with the individual’s biological sex of male or female; or
+                                        
+                                        
+                                            (III)
+ a surgery to change the body of an individual so that it conforms to the subjective sense of identity of the individual, in the case such identity is at odds with the individual’s biological sex of male or female.
+                                        
+                                    
+                                    
+                                        (ii)
+                                        Exception
+ The term gender-transition procedure does not include—
+                                        
+                                            (I)
+ an intervention described in clause (i) that is performed on—
+                                            
+                                                (aa)
+ an individual with biological sex characteristics that are inherently ambiguous, such as those born with 46 XX chromosomes with virilization, 46 XY chromosomes with undervirilization, or having both ovarian and testicular tissue; or
+                                            
+                                            
+                                                (bb)
+ an individual with respect to whom a physician has determined through genetic or biochemical testing that the individual does not have normal sex chromosome structure, sex steroid hormone production, or sex steroid hormone action, for a biological male or biological female;
+                                            
+                                        
+                                        
+                                            (II)
+ the treatment of any infection, injury, disease, or disorder that has been caused or exacerbated by the performance of an intervention described in clause (i) without regard to whether the intervention was performed in accordance with State or Federal law; or
+                                        
+                                        
+                                            (III)
+ any procedure undertaken because the individual suffers from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the individual in imminent danger of death or impairment of major bodily function unless the procedure is performed. 
+                                        
+                                    
+                                
+                                
+                                    (B)
+                                    Minor
+ The term minor means an individual who has not yet reached 18 years of age.
+                                
+                            
+                        
+                        .
+                    
+                
+            
+            
+                (b)
+                Conforming amendment
+ Section 1334(a) (42 U.S.C. 18054(a)) is amended—  (1) by striking paragraph (6); and
+                
+                
+                    (2)
+ by redesignating paragraph (7) as paragraph (6).    (c) Effective date The amendments made by this section shall apply with respect to plan years beginning on or after January 1, 2026.
+
+
+================================================================================
+
+Raw Text:
+119 S3011 IS: To amend the Patient Protection and Affordable Care Act to exclude coverage of gender-transition procedures for minors and abortion under health plans offered through the American Health Benefits Exchanges, and for other purposes.
+U.S. Senate
+2025-10-15
+text/xml
+EN
+Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.
+
+
+
+        II
+        119th CONGRESS
+        1st Session
+        S. 3011
+        IN THE SENATE OF THE UNITED STATES
+        
+            October 15, 2025
+            Mr. Hawley introduced the following bill;
+                which was read twice and referred to the Committee on Health, Education, Labor, and
+                Pensions
+        
+        A BILL
+        To amend the Patient Protection and Affordable Care Act to exclude coverage
+            of gender-transition procedures for minors and abortion under health plans offered
+            through the American Health Benefits Exchanges, and for other purposes.
+    
+    
+        
+            1.
+            Short title
+ This Act may be cited as the Prohibiting Abortion & Transgender Procedures on the Exchanges Act.
+        
+        
+            2.
+            Exclusion of gender-transition procedures for minors and abortion from coverage
+                under health plans offered through the American Health Benefits Exchanges
+            
+                (a)
+                In general
+ Section 1303 of the Patient Protection and Affordable Care Act (42 U.S.C. 18023) is amended—
+                
+                    (1)
+ in subsection (a)—  (A) by striking paragraph (2); and
+                    
+                    
+                        (B)
+ by striking the subsection designation and heading and all that follows through A State in paragraph (1) and inserting the following:
+                        
+                            
+                                (a)
+                                State opt-Out of abortion coverage
+ A State  ;      (2) in subsection (b), by striking the subsection designation and heading and all that follows through No qualified in paragraph (4) and inserting the following:
+                    
+                        
+                            (b)
+                            No discrimination on basis of provision of abortion
+ No qualified  ;    (3) in subsection (c)—
+                    
+                        (A)
+ in paragraph (2)—  (i) by striking the paragraph designation and heading and all that follows through Nothing in subparagraph (A) and inserting the following:
+                            
+                                
+                                    (2)
+                                    No effect on Federal laws regarding abortion
+ Nothing  ; and    (ii) by redesignating clauses (i) through (iii) as subparagraphs (A) through (C), respectively, and adjusting the margins accordingly;
+                        
+                    
+                    
+                        (B)
+ by striking the subsection designation and heading and all that follows through the end of paragraph (1) and inserting the following:
+                        
+                            
+                                (c)
+                                Application of Federal laws
+                            
+                            ; and
+                        
+                    
+                    
+                        (C)
+ by redesignating paragraphs (2) and (3) as paragraphs (1) and (2), respectively;
+                    
+                
+                
+                    (4)
+ by redesignating subsections (a) through (d) as subsections (b) through (e), respectively; and
+                
+                
+                    (5)
+ by inserting before subsection (b) (as so redesignated) the following:
+                    
+                        
+                            (a)
+                            Prohibition on coverage of gender-Transition procedures for
+                                minors and abortion
+                            
+                                (1)
+                                In general
+ An Exchange may not make available any health plan, including any health plan offering excepted benefits (as defined in section 2791(c) of the Public Health Service Act), that provides coverage for— 
+                                
+                                    (A)
+ abortion, except in the case where a woman suffers from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the woman in danger of death unless an abortion is performed, including a life-endangering physical condition caused by or arising from the pregnancy itself, or unless the pregnancy is the result of an act of rape or incest; or
+                                
+                                
+                                    (B)
+ gender-transition procedures for minors.    (2) Definitions In this subsection:
+                                
+                                    (A)
+                                    Gender-transition procedure
+                                    
+                                        (i)
+                                        In general
+ Except as provided in clause (ii), the term gender-transition procedure means—
+                                        
+                                            (I)
+ the prescription or administration of gonadotropin-releasing hormone agonists or any other puberty-blocking drugs for the purpose of changing the body of an individual so that it conforms to the subjective sense of identity of the individual, in the case such identity is at odds with the individual's biological sex of male or female;
+                                        
+                                        
+                                            (II)
+ the prescription or administration of testosterone (when prescribed to a female) or estrogen (when prescribed to a male) for the purpose of changing the body of an individual so that it conforms to the subjective sense of identity of the individual, in the case such identity is at odds with the individual’s biological sex of male or female; or
+                                        
+                                        
+                                            (III)
+ a surgery to change the body of an individual so that it conforms to the subjective sense of identity of the individual, in the case such identity is at odds with the individual’s biological sex of male or female.
+                                        
+                                    
+                                    
+                                        (ii)
+                                        Exception
+ The term gender-transition procedure does not include—
+                                        
+                                            (I)
+ an intervention described in clause (i) that is performed on—
+                                            
+                                                (aa)
+ an individual with biological sex characteristics that are inherently ambiguous, such as those born with 46 XX chromosomes with virilization, 46 XY chromosomes with undervirilization, or having both ovarian and testicular tissue; or
+                                            
+                                            
+                                                (bb)
+ an individual with respect to whom a physician has determined through genetic or biochemical testing that the individual does not have normal sex chromosome structure, sex steroid hormone production, or sex steroid hormone action, for a biological male or biological female;
+                                            
+                                        
+                                        
+                                            (II)
+ the treatment of any infection, injury, disease, or disorder that has been caused or exacerbated by the performance of an intervention described in clause (i) without regard to whether the intervention was performed in accordance with State or Federal law; or
+                                        
+                                        
+                                            (III)
+ any procedure undertaken because the individual suffers from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the individual in imminent danger of death or impairment of major bodily function unless the procedure is performed. 
+                                        
+                                    
+                                
+                                
+                                    (B)
+                                    Minor
+ The term minor means an individual who has not yet reached 18 years of age.
+                                
+                            
+                        
+                        .
+                    
+                
+            
+            
+                (b)
+                Conforming amendment
+ Section 1334(a) (42 U.S.C. 18054(a)) is amended—  (1) by striking paragraph (6); and
+                
+                
+                    (2)
+ by redesignating paragraph (7) as paragraph (6).    (c) Effective date The amendments made by this section shall apply with respect to plan years beginning on or after January 1, 2026.

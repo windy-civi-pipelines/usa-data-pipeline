@@ -1,0 +1,481 @@
+Title: 
+Official Title: To amend the National Voter Registration Act of 1993 to clarify that a State
+            may not use an individual’s failure to vote as the basis for initiating the procedures
+            provided under such Act for the removal of the individual from the official list of
+            registered voters in the State on the grounds that the individual has changed residence,
+            and for other purposes.
+Number of Sections: 5
+Source: versions - Introduced in Senate
+Media Type: text/xml
+
+================================================================================
+
+Section 1:
+1.
+            Short title
+ This Act may be cited as the Voter Purge Protection Act.
+
+Section 2:
+2.
+            Purpose
+ The purposes of this Act are—  (1) to prohibit States from removing individuals from an official list of registered voters due to changes in residence; and
+            
+            
+                (2)
+ to protect the right to vote by allowing voters who are automatically registered or had previously registered to vote in a State to update their address through the day of the election.
+
+Section 3:
+3.
+            Conditions for removal of voters from list of registered voters
+            
+                (a)
+                Conditions described
+ The National Voter Registration Act of 1993 (52 U.S.C. 20501 et seq.) is amended by inserting after section 8 the following new section:
+                
+                    
+                        8A.
+                        Conditions for removal of voters from official list of registered
+                            voters
+                        
+                            (a)
+                            Verification on basis of objective and reliable evidence of
+                                ineligibility
+                            
+                                (1)
+                                Requiring verification
+ Notwithstanding any other provision of this Act, a State may not remove the name of any registrant from the official list of voters eligible to vote in elections for Federal office in the State unless the State verifies, on the basis of objective and reliable evidence, that the registrant is ineligible to vote in such elections.
+                            
+                            
+                                (2)
+                                Factors not considered as objective and reliable evidence of
+                                    ineligibility
+ For purposes of paragraph (1), except as permitted under section 8(d) after a notice described in paragraph (2) of such section has been sent, the following factors, or any combination thereof, shall not be treated as objective and reliable evidence of a registrant’s ineligibility to vote:
+                                
+                                    (A)
+ The failure of the registrant to vote in any election.
+                                
+                                
+                                    (B)
+ The failure of the registrant to respond to any election mail, unless the election mail has been returned as undeliverable.
+                                
+                                
+                                    (C)
+ The failure of the registrant to take any other action with respect to voting in any election or with respect to the registrant’s status as a registrant.
+                                
+                            
+                            
+                                (3)
+                                Removal based on official records
+                                
+                                    (A)
+                                    In general
+ Nothing in this section shall prohibit a State from removing a registrant from the official list of eligible voters in elections for Federal office if, on the basis of official records maintained by the State, a State or local election official knows, on the basis of objective and reliable evidence, that the registrant has—
+                                    
+                                        (i)
+ died; or   (ii) permanently moved out of the State and is no longer eligible to vote in the State.
+                                    
+                                
+                                
+                                    (B)
+                                    Opportunity to demonstrate eligibility
+ The State shall provide a voter removed from the official list of eligible voters in elections for Federal office under this paragraph an opportunity to demonstrate that the registrant is eligible to vote and be reinstated on the official list of eligible voters in elections for Federal office in the State.
+                                
+                            
+                        
+                        
+                            (b)
+                            Notice after removal
+                            
+                                (1)
+                                Notice to individual removed
+                                
+                                    (A)
+                                    In general
+ Not later than 48 hours after a State removes the name of a registrant from the official list of eligible voters, the State shall send notice of the removal to the former registrant, and shall include in the notice the grounds for the removal and information on how the former registrant may contest the removal or be reinstated, including a telephone number for the appropriate election official.
+                                
+                                
+                                    (B)
+                                    Exceptions
+ Subparagraph (A) does not apply in the case of a registrant—
+                                    
+                                        (i)
+ who sends written confirmation to the State that the registrant is no longer eligible to vote in the registrar’s jurisdiction in which the registrant was registered; or
+                                    
+                                    
+                                        (ii)
+ who is removed from the official list of eligible voters by reason of the death of the registrant.
+                                    
+                                
+                            
+                            
+                                (2)
+                                Public notice
+ Not later than 48 hours after conducting any general program to remove the names of ineligible voters from the official list of eligible voters (as described in section 8(a)(4)), the State shall disseminate a public notice through such methods as may be reasonable to reach the general public (including by publishing the notice in a newspaper of wide circulation and posting the notice on the websites of the appropriate election officials) that list maintenance is taking place and that registrants should check their registration status to ensure no errors or mistakes have been made. The State shall ensure that the public notice disseminated under this paragraph is in a format that is reasonably convenient and accessible to voters with disabilities, including voters who have low vision or are blind.
+                            
+                        
+                    
+                    .
+                
+            
+            
+                (b)
+                Conditions for transmission of notices of removal
+ Section 8(d) of such Act (52 U.S.C. 20507(d)) is amended by adding at the end the following new paragraph:
+                
+                    
+                        (4)
+ A State may not transmit a notice to a registrant under this subsection unless the State obtains objective and reliable evidence (in accordance with the standards for such evidence which are described in section 8A(a)(2)) that the registrant has changed residence to a place outside the registrar’s jurisdiction in which the registrant is registered.
+                    
+                    .
+                
+            
+            
+                (c)
+                Conforming amendments
+                
+                    (1)
+                    National Voter Registration Act of 1993
+ Section 8(a) of such Act (52 U.S.C. 20507(a)) is amended—  (A) in paragraph (3), by striking provide and inserting subject to section 8A, provide; and
+                    
+                    
+                        (B)
+ in paragraph (4), by striking conduct and inserting subject to section 8A, conduct.
+                    
+                
+                
+                    (2)
+                    Help America Vote Act of 2002
+ Section 303(a)(4)(A) of the Help America Vote Act of 2002 (52 U.S.C. 21083(a)(4)(A)) is amended by striking registrants the second place it appears and inserting and subject to section 8A of such Act, registrants.
+                
+            
+            
+                (d)
+                Effective date
+ The amendments made by this section shall take effect on the date of the enactment of this Act.
+
+Section 4:
+8A.
+                        Conditions for removal of voters from official list of registered
+                            voters
+                        
+                            (a)
+                            Verification on basis of objective and reliable evidence of
+                                ineligibility
+                            
+                                (1)
+                                Requiring verification
+ Notwithstanding any other provision of this Act, a State may not remove the name of any registrant from the official list of voters eligible to vote in elections for Federal office in the State unless the State verifies, on the basis of objective and reliable evidence, that the registrant is ineligible to vote in such elections.
+                            
+                            
+                                (2)
+                                Factors not considered as objective and reliable evidence of
+                                    ineligibility
+ For purposes of paragraph (1), except as permitted under section 8(d) after a notice described in paragraph (2) of such section has been sent, the following factors, or any combination thereof, shall not be treated as objective and reliable evidence of a registrant’s ineligibility to vote:
+                                
+                                    (A)
+ The failure of the registrant to vote in any election.
+                                
+                                
+                                    (B)
+ The failure of the registrant to respond to any election mail, unless the election mail has been returned as undeliverable.
+                                
+                                
+                                    (C)
+ The failure of the registrant to take any other action with respect to voting in any election or with respect to the registrant’s status as a registrant.
+                                
+                            
+                            
+                                (3)
+                                Removal based on official records
+                                
+                                    (A)
+                                    In general
+ Nothing in this section shall prohibit a State from removing a registrant from the official list of eligible voters in elections for Federal office if, on the basis of official records maintained by the State, a State or local election official knows, on the basis of objective and reliable evidence, that the registrant has—
+                                    
+                                        (i)
+ died; or   (ii) permanently moved out of the State and is no longer eligible to vote in the State.
+                                    
+                                
+                                
+                                    (B)
+                                    Opportunity to demonstrate eligibility
+ The State shall provide a voter removed from the official list of eligible voters in elections for Federal office under this paragraph an opportunity to demonstrate that the registrant is eligible to vote and be reinstated on the official list of eligible voters in elections for Federal office in the State.
+                                
+                            
+                        
+                        
+                            (b)
+                            Notice after removal
+                            
+                                (1)
+                                Notice to individual removed
+                                
+                                    (A)
+                                    In general
+ Not later than 48 hours after a State removes the name of a registrant from the official list of eligible voters, the State shall send notice of the removal to the former registrant, and shall include in the notice the grounds for the removal and information on how the former registrant may contest the removal or be reinstated, including a telephone number for the appropriate election official.
+                                
+                                
+                                    (B)
+                                    Exceptions
+ Subparagraph (A) does not apply in the case of a registrant—
+                                    
+                                        (i)
+ who sends written confirmation to the State that the registrant is no longer eligible to vote in the registrar’s jurisdiction in which the registrant was registered; or
+                                    
+                                    
+                                        (ii)
+ who is removed from the official list of eligible voters by reason of the death of the registrant.
+                                    
+                                
+                            
+                            
+                                (2)
+                                Public notice
+ Not later than 48 hours after conducting any general program to remove the names of ineligible voters from the official list of eligible voters (as described in section 8(a)(4)), the State shall disseminate a public notice through such methods as may be reasonable to reach the general public (including by publishing the notice in a newspaper of wide circulation and posting the notice on the websites of the appropriate election officials) that list maintenance is taking place and that registrants should check their registration status to ensure no errors or mistakes have been made. The State shall ensure that the public notice disseminated under this paragraph is in a format that is reasonably convenient and accessible to voters with disabilities, including voters who have low vision or are blind.
+
+Section 5:
+4.
+            State registration portability
+            
+                (a)
+                In general
+ Section 8(e) of the National Voter Registration Act of 1993 (52 U.S.C. 20507(e)) is amended to read as follows:
+                
+                    
+                        (e)
+                        Procedure for voting following failure To return card
+ Notwithstanding failure to notify the registrar of the change of address prior to the date of an election, a registrant who has moved from an address in the State to an address in the same State shall, upon oral or written affirmation by the registrant of the change of address before an election official, be permitted to vote (at the option of the voter)—
+                        
+                            (1)
+ at the polling place of the registrant’s current address; or
+                        
+                        
+                            (2)
+ at a central location within the same registrar’s jurisdiction.
+                        
+                    
+                    .
+                
+            
+            
+                (b)
+                Effective date
+ The amendment made by this section shall take effect on the date of the enactment of this Act.
+
+
+================================================================================
+
+Raw Text:
+119 S2994 IS: Voter Purge Protection Act
+U.S. Senate
+2025-10-09
+text/xml
+EN
+Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.
+
+
+
+        II
+        119th CONGRESS
+        1st Session
+        S. 2994
+        IN THE SENATE OF THE UNITED STATES
+        
+            October 9, 2025
+            Mr. Padilla (for himself, Ms. Klobuchar, Mr.
+                    Murphy, Mr. Van Hollen,
+                    Ms. Smith, Mr.
+                    Sanders, Mrs. Gillibrand,
+                    Mr. King, Mr.
+                    Kaine, Mr. Schiff, Ms. Alsobrooks, Ms.
+                    Hirono, Mrs. Shaheen,
+                    Mr. Blumenthal, Ms. Warren, Mr. Booker,
+                    Mr. Merkley, Ms.
+                    Duckworth, Mr. Fetterman,
+                    Mr. Wyden, Mr.
+                    Markey, Mr. Kim,  Mr. Peters, and Ms.
+                    Slotkin) introduced the following bill; which was read twice and
+                referred to the Committee on Rules and
+                    Administration
+        
+        A BILL
+        To amend the National Voter Registration Act of 1993 to clarify that a State
+            may not use an individual’s failure to vote as the basis for initiating the procedures
+            provided under such Act for the removal of the individual from the official list of
+            registered voters in the State on the grounds that the individual has changed residence,
+            and for other purposes.
+    
+    
+        
+            1.
+            Short title
+ This Act may be cited as the Voter Purge Protection Act.
+        
+        
+            2.
+            Purpose
+ The purposes of this Act are—  (1) to prohibit States from removing individuals from an official list of registered voters due to changes in residence; and
+            
+            
+                (2)
+ to protect the right to vote by allowing voters who are automatically registered or had previously registered to vote in a State to update their address through the day of the election.
+            
+        
+        
+            3.
+            Conditions for removal of voters from list of registered voters
+            
+                (a)
+                Conditions described
+ The National Voter Registration Act of 1993 (52 U.S.C. 20501 et seq.) is amended by inserting after section 8 the following new section:
+                
+                    
+                        8A.
+                        Conditions for removal of voters from official list of registered
+                            voters
+                        
+                            (a)
+                            Verification on basis of objective and reliable evidence of
+                                ineligibility
+                            
+                                (1)
+                                Requiring verification
+ Notwithstanding any other provision of this Act, a State may not remove the name of any registrant from the official list of voters eligible to vote in elections for Federal office in the State unless the State verifies, on the basis of objective and reliable evidence, that the registrant is ineligible to vote in such elections.
+                            
+                            
+                                (2)
+                                Factors not considered as objective and reliable evidence of
+                                    ineligibility
+ For purposes of paragraph (1), except as permitted under section 8(d) after a notice described in paragraph (2) of such section has been sent, the following factors, or any combination thereof, shall not be treated as objective and reliable evidence of a registrant’s ineligibility to vote:
+                                
+                                    (A)
+ The failure of the registrant to vote in any election.
+                                
+                                
+                                    (B)
+ The failure of the registrant to respond to any election mail, unless the election mail has been returned as undeliverable.
+                                
+                                
+                                    (C)
+ The failure of the registrant to take any other action with respect to voting in any election or with respect to the registrant’s status as a registrant.
+                                
+                            
+                            
+                                (3)
+                                Removal based on official records
+                                
+                                    (A)
+                                    In general
+ Nothing in this section shall prohibit a State from removing a registrant from the official list of eligible voters in elections for Federal office if, on the basis of official records maintained by the State, a State or local election official knows, on the basis of objective and reliable evidence, that the registrant has—
+                                    
+                                        (i)
+ died; or   (ii) permanently moved out of the State and is no longer eligible to vote in the State.
+                                    
+                                
+                                
+                                    (B)
+                                    Opportunity to demonstrate eligibility
+ The State shall provide a voter removed from the official list of eligible voters in elections for Federal office under this paragraph an opportunity to demonstrate that the registrant is eligible to vote and be reinstated on the official list of eligible voters in elections for Federal office in the State.
+                                
+                            
+                        
+                        
+                            (b)
+                            Notice after removal
+                            
+                                (1)
+                                Notice to individual removed
+                                
+                                    (A)
+                                    In general
+ Not later than 48 hours after a State removes the name of a registrant from the official list of eligible voters, the State shall send notice of the removal to the former registrant, and shall include in the notice the grounds for the removal and information on how the former registrant may contest the removal or be reinstated, including a telephone number for the appropriate election official.
+                                
+                                
+                                    (B)
+                                    Exceptions
+ Subparagraph (A) does not apply in the case of a registrant—
+                                    
+                                        (i)
+ who sends written confirmation to the State that the registrant is no longer eligible to vote in the registrar’s jurisdiction in which the registrant was registered; or
+                                    
+                                    
+                                        (ii)
+ who is removed from the official list of eligible voters by reason of the death of the registrant.
+                                    
+                                
+                            
+                            
+                                (2)
+                                Public notice
+ Not later than 48 hours after conducting any general program to remove the names of ineligible voters from the official list of eligible voters (as described in section 8(a)(4)), the State shall disseminate a public notice through such methods as may be reasonable to reach the general public (including by publishing the notice in a newspaper of wide circulation and posting the notice on the websites of the appropriate election officials) that list maintenance is taking place and that registrants should check their registration status to ensure no errors or mistakes have been made. The State shall ensure that the public notice disseminated under this paragraph is in a format that is reasonably convenient and accessible to voters with disabilities, including voters who have low vision or are blind.
+                            
+                        
+                    
+                    .
+                
+            
+            
+                (b)
+                Conditions for transmission of notices of removal
+ Section 8(d) of such Act (52 U.S.C. 20507(d)) is amended by adding at the end the following new paragraph:
+                
+                    
+                        (4)
+ A State may not transmit a notice to a registrant under this subsection unless the State obtains objective and reliable evidence (in accordance with the standards for such evidence which are described in section 8A(a)(2)) that the registrant has changed residence to a place outside the registrar’s jurisdiction in which the registrant is registered.
+                    
+                    .
+                
+            
+            
+                (c)
+                Conforming amendments
+                
+                    (1)
+                    National Voter Registration Act of 1993
+ Section 8(a) of such Act (52 U.S.C. 20507(a)) is amended—  (A) in paragraph (3), by striking provide and inserting subject to section 8A, provide; and
+                    
+                    
+                        (B)
+ in paragraph (4), by striking conduct and inserting subject to section 8A, conduct.
+                    
+                
+                
+                    (2)
+                    Help America Vote Act of 2002
+ Section 303(a)(4)(A) of the Help America Vote Act of 2002 (52 U.S.C. 21083(a)(4)(A)) is amended by striking registrants the second place it appears and inserting and subject to section 8A of such Act, registrants.
+                
+            
+            
+                (d)
+                Effective date
+ The amendments made by this section shall take effect on the date of the enactment of this Act.
+            
+        
+        
+            4.
+            State registration portability
+            
+                (a)
+                In general
+ Section 8(e) of the National Voter Registration Act of 1993 (52 U.S.C. 20507(e)) is amended to read as follows:
+                
+                    
+                        (e)
+                        Procedure for voting following failure To return card
+ Notwithstanding failure to notify the registrar of the change of address prior to the date of an election, a registrant who has moved from an address in the State to an address in the same State shall, upon oral or written affirmation by the registrant of the change of address before an election official, be permitted to vote (at the option of the voter)—
+                        
+                            (1)
+ at the polling place of the registrant’s current address; or
+                        
+                        
+                            (2)
+ at a central location within the same registrar’s jurisdiction.
+                        
+                    
+                    .
+                
+            
+            
+                (b)
+                Effective date
+ The amendment made by this section shall take effect on the date of the enactment of this Act.

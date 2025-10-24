@@ -1,0 +1,224 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-KEL25760-0NN-JY-YG2">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2994 IS: Voter Purge Protection Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2994</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251009">October 9, 2025</action-date>
+            <action-desc><sponsor name-id="S413">Mr. Padilla</sponsor> (for himself, <cosponsor name-id="S311">Ms. Klobuchar</cosponsor>, <cosponsor name-id="S364">Mr.
+                    Murphy</cosponsor>, <cosponsor name-id="S390">Mr. Van Hollen</cosponsor>,
+                    <cosponsor name-id="S394">Ms. Smith</cosponsor>, <cosponsor name-id="S313">Mr.
+                    Sanders</cosponsor>, <cosponsor name-id="S331">Mrs. Gillibrand</cosponsor>,
+                    <cosponsor name-id="S363">Mr. King</cosponsor>, <cosponsor name-id="S362">Mr.
+                    Kaine</cosponsor>, <cosponsor name-id="S427">Mr. Schiff</cosponsor>, <cosponsor name-id="S428">Ms. Alsobrooks</cosponsor>, <cosponsor name-id="S361">Ms.
+                    Hirono</cosponsor>, <cosponsor name-id="S324">Mrs. Shaheen</cosponsor>,
+                    <cosponsor name-id="S341">Mr. Blumenthal</cosponsor>, <cosponsor name-id="S366">Ms. Warren</cosponsor>, <cosponsor name-id="S370">Mr. Booker</cosponsor>,
+                    <cosponsor name-id="S322">Mr. Merkley</cosponsor>, <cosponsor name-id="S386">Ms.
+                    Duckworth</cosponsor>, <cosponsor name-id="S418">Mr. Fetterman</cosponsor>,
+                    <cosponsor name-id="S247">Mr. Wyden</cosponsor>, <cosponsor name-id="S369">Mr.
+                    Markey</cosponsor>, <cosponsor name-id="S426">Mr. Kim</cosponsor>,  <cosponsor name-id="S380">Mr. Peters</cosponsor>, and <sponsor name-id="S436">Ms.
+                    Slotkin</sponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSRA00">Committee on Rules and
+                    Administration</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the National Voter Registration Act of 1993 to clarify that a State
+            may not use an individual’s failure to vote as the basis for initiating the procedures
+            provided under such Act for the removal of the individual from the official list of
+            registered voters in the State on the grounds that the individual has changed residence,
+            and for other purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="HA04FD4C80839449C96D1FD127B617AA9">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Voter Purge Protection Act</short-title></quote>.</text>
+        </section>
+        <section id="idE3E4ADC61A384AF89EDC7B5573125593">
+            <enum>2.</enum>
+            <header>Purpose</header>
+ <text display-inline="no-display-inline">The purposes of this Act are—</text> <paragraph id="idFBAB32ECC9FB41B09E586BE51E8B95D0"> <enum>(1)</enum> <text display-inline="yes-display-inline">to prohibit States from removing individuals from an official list of registered voters due to changes in residence; and</text>
+            </paragraph>
+            <paragraph id="id20DDD11B38994A908B4AD00A4D703B40">
+                <enum>(2)</enum>
+ <text>to protect the right to vote by allowing voters who are automatically registered or had previously registered to vote in a State to update their address through the day of the election.</text>
+            </paragraph>
+        </section>
+        <section id="H2F140A7A968F41158F331DE190777D57">
+            <enum>3.</enum>
+            <header>Conditions for removal of voters from list of registered voters</header>
+            <subsection id="H9D1C9E3DE76943818C43E07CE7FDE58D">
+                <enum>(a)</enum>
+                <header>Conditions described</header>
+ <text>The National Voter Registration Act of 1993 (<external-xref legal-doc="usc" parsable-cite="usc/52/20501">52 U.S.C. 20501 et seq.</external-xref>) is amended by inserting after section 8 the following new section:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="HF7AC3C0F849A472A9F2A956C927AA3C7">
+                    <section id="H80360CE8AB7A43C78449A5BBA3AEB84C">
+                        <enum>8A.</enum>
+                        <header>Conditions for removal of voters from official list of registered
+                            voters</header>
+                        <subsection id="H483DE215AB4F450082D1F0A8F54A1321">
+                            <enum>(a)</enum>
+                            <header>Verification on basis of objective and reliable evidence of
+                                ineligibility</header>
+                            <paragraph id="HCD8B8DF2188F49EAB7140265FAA20A57">
+                                <enum>(1)</enum>
+                                <header>Requiring verification</header>
+ <text>Notwithstanding any other provision of this Act, a State may not remove the name of any registrant from the official list of voters eligible to vote in elections for Federal office in the State unless the State verifies, on the basis of objective and reliable evidence, that the registrant is ineligible to vote in such elections.</text>
+                            </paragraph>
+                            <paragraph id="H132B30A1598B4540AE579C44204B818B">
+                                <enum>(2)</enum>
+                                <header>Factors not considered as objective and reliable evidence of
+                                    ineligibility</header>
+ <text>For purposes of paragraph (1), except as permitted under section 8(d) after a notice described in paragraph (2) of such section has been sent, the following factors, or any combination thereof, shall not be treated as objective and reliable evidence of a registrant’s ineligibility to vote:</text>
+                                <subparagraph id="H3FCA3238A5B24492B6B2DB44DEB21168">
+                                    <enum>(A)</enum>
+ <text>The failure of the registrant to vote in any election.</text>
+                                </subparagraph>
+                                <subparagraph id="H2A3F243AF4F94777A1A2D80BF5436891">
+                                    <enum>(B)</enum>
+ <text display-inline="yes-display-inline">The failure of the registrant to respond to any election mail, unless the election mail has been returned as undeliverable.</text>
+                                </subparagraph>
+                                <subparagraph id="H76A95CC36E6B4AFA8A99C2A457D6486F">
+                                    <enum>(C)</enum>
+ <text display-inline="yes-display-inline">The failure of the registrant to take any other action with respect to voting in any election or with respect to the registrant’s status as a registrant.</text>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="HF8172B32BDFD4B249AC216429C431537">
+                                <enum>(3)</enum>
+                                <header>Removal based on official records</header>
+                                <subparagraph id="HF28F8E18AA1E46F2828BBFF3E341C651">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text>Nothing in this section shall prohibit a State from removing a registrant from the official list of eligible voters in elections for Federal office if, on the basis of official records maintained by the State, a State or local election official knows, on the basis of objective and reliable evidence, that the registrant has—</text>
+                                    <clause id="H39881DE1E80B4685B2A6218A483A73E0">
+                                        <enum>(i)</enum>
+ <text>died; or</text> </clause> <clause id="HE0D56BF0770C41809C3B03051B6C205D"> <enum>(ii)</enum> <text>permanently moved out of the State and is no longer eligible to vote in the State.</text>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="HFA4ED3FB683948D1A054DF325B2C43D2">
+                                    <enum>(B)</enum>
+                                    <header>Opportunity to demonstrate eligibility</header>
+ <text>The State shall provide a voter removed from the official list of eligible voters in elections for Federal office under this paragraph an opportunity to demonstrate that the registrant is eligible to vote and be reinstated on the official list of eligible voters in elections for Federal office in the State.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <subsection id="H772AA4342A8C4B5BA0E0216695901287">
+                            <enum>(b)</enum>
+                            <header>Notice after removal</header>
+                            <paragraph id="HEDEC191FD69245428A293D06942D9C98">
+                                <enum>(1)</enum>
+                                <header>Notice to individual removed</header>
+                                <subparagraph id="HE565A0CCAA1E4B56B21BDE826EDD61CF">
+                                    <enum>(A)</enum>
+                                    <header>In general</header>
+ <text>Not later than 48 hours after a State removes the name of a registrant from the official list of eligible voters, the State shall send notice of the removal to the former registrant, and shall include in the notice the grounds for the removal and information on how the former registrant may contest the removal or be reinstated, including a telephone number for the appropriate election official.</text>
+                                </subparagraph>
+                                <subparagraph id="H1462C2C12B5849599087A557CD866898">
+                                    <enum>(B)</enum>
+                                    <header>Exceptions</header>
+ <text>Subparagraph (A) does not apply in the case of a registrant—</text>
+                                    <clause id="HC6CE6BFC365B4A1E8A1A1121E955E6A6">
+                                        <enum>(i)</enum>
+ <text>who sends written confirmation to the State that the registrant is no longer eligible to vote in the registrar’s jurisdiction in which the registrant was registered; or</text>
+                                    </clause>
+                                    <clause id="H8C3A27E1B6304D7FB4D588EB0428A060">
+                                        <enum>(ii)</enum>
+ <text>who is removed from the official list of eligible voters by reason of the death of the registrant.</text>
+                                    </clause>
+                                </subparagraph>
+                            </paragraph>
+                            <paragraph id="H0EA297C3972C47D9BEC5084B07088A02">
+                                <enum>(2)</enum>
+                                <header>Public notice</header>
+ <text display-inline="yes-display-inline">Not later than 48 hours after conducting any general program to remove the names of ineligible voters from the official list of eligible voters (as described in section 8(a)(4)), the State shall disseminate a public notice through such methods as may be reasonable to reach the general public (including by publishing the notice in a newspaper of wide circulation and posting the notice on the websites of the appropriate election officials) that list maintenance is taking place and that registrants should check their registration status to ensure no errors or mistakes have been made. The State shall ensure that the public notice disseminated under this paragraph is in a format that is reasonably convenient and accessible to voters with disabilities, including voters who have low vision or are blind.</text>
+                            </paragraph>
+                        </subsection>
+                    </section>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="H88E8A0CBCCC946A0AA35774FD0491953">
+                <enum>(b)</enum>
+                <header>Conditions for transmission of notices of removal</header>
+ <text>Section 8(d) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/52/20507">52 U.S.C. 20507(d)</external-xref>) is amended by adding at the end the following new paragraph:</text>
+                <quoted-block style="traditional" display-inline="no-display-inline" id="H757A07E225D148AE9123ED5AABFA4F87">
+                    <paragraph id="H42A3FCA23A3741E08D9BE52B5356320E">
+                        <enum>(4)</enum>
+ <text>A State may not transmit a notice to a registrant under this subsection unless the State obtains objective and reliable evidence (in accordance with the standards for such evidence which are described in section 8A(a)(2)) that the registrant has changed residence to a place outside the registrar’s jurisdiction in which the registrant is registered.</text>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection id="HEBCABD9366704BAAA42736810824B6F2">
+                <enum>(c)</enum>
+                <header>Conforming amendments</header>
+                <paragraph id="H371666B1F0CA404F9F62C9792980CD8D">
+                    <enum>(1)</enum>
+                    <header>National Voter Registration Act of 1993</header>
+ <text>Section 8(a) of such Act (<external-xref legal-doc="usc" parsable-cite="usc/52/20507">52 U.S.C. 20507(a)</external-xref>) is amended—</text> <subparagraph id="H4C3ED0B454E34011B6A60A93F8368A4C"> <enum>(A)</enum> <text>in paragraph (3), by striking <quote>provide</quote> and inserting <quote>subject to section 8A, provide</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="HE3D52566F173480B9646CE49D2A2C061">
+                        <enum>(B)</enum>
+ <text>in paragraph (4), by striking <quote>conduct</quote> and inserting <quote>subject to section 8A, conduct</quote>.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H21F375A1096441B8A5A8EC678A9ED735">
+                    <enum>(2)</enum>
+                    <header>Help America Vote Act of 2002</header>
+ <text>Section 303(a)(4)(A) of the Help America Vote Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/52/21083">52 U.S.C. 21083(a)(4)(A)</external-xref>) is amended by striking <quote>registrants</quote> the second place it appears and inserting <quote>and subject to section 8A of such Act, registrants</quote>.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="HDED29E7CC2BC4B4EA42D2C6C18710FCB">
+                <enum>(d)</enum>
+                <header>Effective date</header>
+ <text>The amendments made by this section shall take effect on the date of the enactment of this Act.</text>
+            </subsection>
+        </section>
+        <section id="idc4bc9a9d34bc468ab9bfe988e6592eac">
+            <enum>4.</enum>
+            <header>State registration portability</header>
+            <subsection id="id5603127c3e3f42c0b2f9d2bab3019557">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Section 8(e) of the National Voter Registration Act of 1993 (<external-xref legal-doc="usc" parsable-cite="usc/52/20507">52 U.S.C. 20507(e)</external-xref>) is amended to read as follows:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="idadb25b0d5b124833ad25abe2dbca0a64">
+                    <subsection id="idbdfd08daace740f496e08bcc237bd263">
+                        <enum>(e)</enum>
+                        <header>Procedure for voting following failure To return card</header>
+ <text>Notwithstanding failure to notify the registrar of the change of address prior to the date of an election, a registrant who has moved from an address in the State to an address in the same State shall, upon oral or written affirmation by the registrant of the change of address before an election official, be permitted to vote (at the option of the voter)—</text>
+                        <paragraph id="ideab6b27c3e454cd0bd91d4c666e09d23">
+                            <enum>(1)</enum>
+ <text>at the polling place of the registrant’s current address; or</text>
+                        </paragraph>
+                        <paragraph id="id5796b0648ac841c8b16d621aa93246a2">
+                            <enum>(2)</enum>
+ <text>at a central location within the same registrar’s jurisdiction.</text>
+                        </paragraph>
+                    </subsection>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id964a2ce177f34df0803e62e89f6393ad">
+                <enum>(b)</enum>
+                <header>Effective date</header>
+ <text>The amendment made by this section shall take effect on the date of the enactment of this Act.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

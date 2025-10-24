@@ -1,0 +1,188 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-KEN25574-0FG-NC-M5S">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3011 IS: To amend the Patient Protection and Affordable Care Act to exclude coverage of gender-transition procedures for minors and abortion under health plans offered through the American Health Benefits Exchanges, and for other purposes.</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3011</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251015">October 15, 2025</action-date>
+            <action-desc><sponsor name-id="S399">Mr. Hawley</sponsor> introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and
+                Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Patient Protection and Affordable Care Act to exclude coverage
+            of gender-transition procedures for minors and abortion under health plans offered
+            through the American Health Benefits Exchanges, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Prohibiting Abortion &amp; Transgender Procedures on the Exchanges Act</short-title></quote>.</text>
+        </section>
+        <section id="id6a67f0b92b874a4b87ea4fb4a0b177cd">
+            <enum>2.</enum>
+            <header>Exclusion of gender-transition procedures for minors and abortion from coverage
+                under health plans offered through the American Health Benefits Exchanges</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id1c091582adc24a48a0cf142ed7ee8a34">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text display-inline="yes-display-inline">Section 1303 of the Patient Protection and Affordable Care Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18023">42 U.S.C. 18023</external-xref>) is amended—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id078d59f78a9b4712b0e7038782ba8762">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">in subsection (a)—</text> <subparagraph commented="no" display-inline="no-display-inline" id="id27bc1299831b4b0db48259ffcafa9562"> <enum>(A)</enum> <text display-inline="yes-display-inline">by striking paragraph (2); and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id5580727fd0c641769444c453413a93e9">
+                        <enum>(B)</enum>
+ <text>by striking the subsection designation and heading and all that follows through <quote>A State</quote> in paragraph (1) and inserting the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="iddb3ee30cc9424645b076325fddfeaa64">
+                            <subsection commented="no" display-inline="no-display-inline"
+                                id="id6c337c5c38b54d60b5bdb5b2339475db">
+                                <enum>(a)</enum>
+                                <header>State opt-Out of abortion coverage</header>
+ <text>A State</text> </subsection> <after-quoted-block>; </after-quoted-block> </quoted-block> </subparagraph> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="id8128a574f04b4ddc9bc8f06ff545a315"> <enum>(2)</enum> <text>in subsection (b), by striking the subsection designation and heading and all that follows through <quote>No qualified</quote> in paragraph (4) and inserting the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="id727254e0a8d64a4f9a62cb2d3981921b">
+                        <subsection commented="no" display-inline="no-display-inline" id="id5c45fcca2705405594757de0dc7e0903">
+                            <enum>(b)</enum>
+                            <header>No discrimination on basis of provision of abortion</header>
+ <text>No qualified</text> </subsection> <after-quoted-block>;</after-quoted-block> </quoted-block> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="ide4a28b1a1d654589b2a4bb0402b02356"> <enum>(3)</enum> <text>in subsection (c)—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id78b34b5d12ec4c0fabe48cd77e571f12">
+                        <enum>(A)</enum>
+ <text>in paragraph (2)—</text> <clause commented="no" display-inline="no-display-inline" id="idfd52b6a356df4d2fbb221e5f205ac4d5"> <enum>(i)</enum> <text display-inline="yes-display-inline">by striking the paragraph designation and heading and all that follows through <quote>Nothing</quote> in subparagraph (A) and inserting the following:</text>
+                            <quoted-block style="OLC" display-inline="no-display-inline" id="id3183e41de4fc4474a67e109f964aba82">
+                                <paragraph commented="no" display-inline="no-display-inline" id="idfe6d1678c2634c5ab9c41a9450437fc0">
+                                    <enum>(2)</enum>
+                                    <header>No effect on Federal laws regarding abortion</header>
+ <text>Nothing</text> </paragraph> <after-quoted-block>; and</after-quoted-block> </quoted-block> </clause> <clause commented="no" display-inline="no-display-inline" id="id69b9864cc86a4750b002ee09140dfa3c"> <enum>(ii)</enum> <text>by redesignating clauses (i) through (iii) as subparagraphs (A) through (C), respectively, and adjusting the margins accordingly;</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id7b1329a0365b4992ab3084bef3f11fe7">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">by striking the subsection designation and heading and all that follows through the end of paragraph (1) and inserting the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id435e0e9462924dd0a58eb12589b965d4">
+                            <subsection commented="no" display-inline="no-display-inline" id="ida943172937a74491a42777f08a31df9a">
+                                <enum>(c)</enum>
+                                <header>Application of Federal laws</header>
+                            </subsection>
+                            <after-quoted-block>; and</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id2a064b132c4f4899a6abcbcc8256b29f">
+                        <enum>(C)</enum>
+ <text>by redesignating paragraphs (2) and (3) as paragraphs (1) and (2), respectively;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id284dd0b466ba4664a136c0879e72c7f6">
+                    <enum>(4)</enum>
+ <text>by redesignating subsections (a) through (d) as subsections (b) through (e), respectively; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="ide6026983b9c84e538622f694fd459a31">
+                    <enum>(5)</enum>
+ <text>by inserting before subsection (b) (as so redesignated) the following:</text>
+                    <quoted-block style="OLC" display-inline="no-display-inline" id="idc48c0b07ec3f4a1d93a0af260689767a">
+                        <subsection commented="no" display-inline="no-display-inline"
+                            id="id3e0e7925f4074058bff92ca45e26bcf3">
+                            <enum>(a)</enum>
+                            <header>Prohibition on coverage of gender-Transition procedures for
+                                minors and abortion</header>
+                            <paragraph commented="no" display-inline="no-display-inline"
+                                id="id0b2003b3b28f4868938689ded6eb2937">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text display-inline="yes-display-inline">An Exchange may not make available any health plan, including any health plan offering excepted benefits (as defined in section 2791(c) of the Public Health Service Act), that provides coverage for— </text>
+                                <subparagraph commented="no" display-inline="no-display-inline"
+                                    id="id996b76a8a2fc414f8298eb0ec3f9f1f2">
+                                    <enum>(A)</enum>
+ <text display-inline="yes-display-inline">abortion, except in the case where a woman suffers from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the woman in danger of death unless an abortion is performed, including a life-endangering physical condition caused by or arising from the pregnancy itself, or unless the pregnancy is the result of an act of rape or incest; or</text>
+                                </subparagraph>
+                                <subparagraph commented="no" display-inline="no-display-inline"
+                                    id="id6cfa8fa831454af6b39178d440e766d7">
+                                    <enum>(B)</enum>
+ <text>gender-transition procedures for minors.</text> </subparagraph> </paragraph> <paragraph commented="no" display-inline="no-display-inline" id="id9e4abafa8d834bc9b220f7566653bb1b"> <enum>(2)</enum> <header>Definitions</header> <text>In this subsection:</text>
+                                <subparagraph id="idF0DF039A259C467487AE7D8714017EC6">
+                                    <enum>(A)</enum>
+                                    <header>Gender-transition procedure</header>
+                                    <clause id="idA73ACF6151DA4B96A19D94D5E0417C56">
+                                        <enum>(i)</enum>
+                                        <header>In general</header>
+ <text>Except as provided in clause (ii), the term <term>gender-transition procedure</term> means—</text>
+                                        <subclause id="id0ECCDA9A73F94C4DB2EE4D8626DC5F89">
+                                            <enum>(I)</enum>
+ <text>the prescription or administration of gonadotropin-releasing hormone agonists or any other puberty-blocking drugs for the purpose of changing the body of an individual so that it conforms to the subjective sense of identity of the individual, in the case such identity is at odds with the individual's biological sex of male or female;</text>
+                                        </subclause>
+                                        <subclause id="id42E3DF7A7E584031B93D17F4EEEC152E">
+                                            <enum>(II)</enum>
+ <text>the prescription or administration of testosterone (when prescribed to a female) or estrogen (when prescribed to a male) for the purpose of changing the body of an individual so that it conforms to the subjective sense of identity of the individual, in the case such identity is at odds with the individual’s biological sex of male or female; or</text>
+                                        </subclause>
+                                        <subclause id="id110E88FACF69454FB038F5EEB22FB8C2">
+                                            <enum>(III)</enum>
+ <text>a surgery to change the body of an individual so that it conforms to the subjective sense of identity of the individual, in the case such identity is at odds with the individual’s biological sex of male or female.</text>
+                                        </subclause>
+                                    </clause>
+                                    <clause id="id688C33ED08B146EE9D1795B4D8A64B45">
+                                        <enum>(ii)</enum>
+                                        <header>Exception</header>
+ <text>The term <term>gender-transition procedure</term> does not include—</text>
+                                        <subclause id="id5B8FC7BFA0104D50AD381BA47D87A259">
+                                            <enum>(I)</enum>
+ <text>an intervention described in clause (i) that is performed on—</text>
+                                            <item id="idCD0A622EEE8D458AABE8DABEC95DE322">
+                                                <enum>(aa)</enum>
+ <text>an individual with biological sex characteristics that are inherently ambiguous, such as those born with 46 XX chromosomes with virilization, 46 XY chromosomes with undervirilization, or having both ovarian and testicular tissue; or</text>
+                                            </item>
+                                            <item id="idC04B304995E6426DA1A4A617EA9A310F">
+                                                <enum>(bb)</enum>
+ <text>an individual with respect to whom a physician has determined through genetic or biochemical testing that the individual does not have normal sex chromosome structure, sex steroid hormone production, or sex steroid hormone action, for a biological male or biological female;</text>
+                                            </item>
+                                        </subclause>
+                                        <subclause id="idF57E39CF82704746A6583C7CF70CFAB4">
+                                            <enum>(II)</enum>
+ <text>the treatment of any infection, injury, disease, or disorder that has been caused or exacerbated by the performance of an intervention described in clause (i) without regard to whether the intervention was performed in accordance with State or Federal law; or</text>
+                                        </subclause>
+                                        <subclause id="id66C1C4FC4B9E47AC9D67D3171C9D65CC"
+                                            commented="no" display-inline="no-display-inline">
+                                            <enum>(III)</enum>
+ <text>any procedure undertaken because the individual suffers from a physical disorder, physical injury, or physical illness that would, as certified by a physician, place the individual in imminent danger of death or impairment of major bodily function unless the procedure is performed. </text>
+                                        </subclause>
+                                    </clause>
+                                </subparagraph>
+                                <subparagraph id="id134d4e0acd484f1ab70c8bc3099cc078" commented="no"
+                                    display-inline="no-display-inline">
+                                    <enum>(B)</enum>
+                                    <header>Minor</header>
+ <text>The term <term>minor</term> means an individual who has not yet reached 18 years of age.</text>
+                                </subparagraph>
+                            </paragraph>
+                        </subsection>
+                        <after-quoted-block>.</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id40ad6091b1bd44f0bf3bbd45dd740da1">
+                <enum>(b)</enum>
+                <header>Conforming amendment</header>
+ <text>Section 1334(a) (<external-xref legal-doc="usc" parsable-cite="usc/42/18054">42 U.S.C. 18054(a)</external-xref>) is amended—</text> <paragraph commented="no" display-inline="no-display-inline" id="id6c8db095abe3480493406f37e5614cbd"> <enum>(1)</enum> <text display-inline="yes-display-inline">by striking paragraph (6); and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idcfb72b065c8b44afb6abef92b9c0d54e">
+                    <enum>(2)</enum>
+ <text>by redesignating paragraph (7) as paragraph (6).</text> </paragraph> </subsection> <subsection id="id6d56f14fdc18417883616465c1f121d5"> <enum>(c)</enum> <header>Effective date</header> <text>The amendments made by this section shall apply with respect to plan years beginning on or after January 1, 2026.</text>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
