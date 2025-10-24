@@ -202,6 +202,7 @@
     "division_id": "ocd-division/country:us"
   },
   "_processing": {
-    "logs_latest_update": "2025-10-24T05:32:12Z"
+    "logs_latest_update": "2025-10-24T05:32:12Z",
+    "text_extraction_latest_update": "2025-10-24T11:30:15.176830Z"
   }
 }

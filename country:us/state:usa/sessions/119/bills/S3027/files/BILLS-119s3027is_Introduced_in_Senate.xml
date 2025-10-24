@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-GAI25A25-M8P-KP-4GX">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3027 IS: Interstate Commerce Simplification Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date></dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3027</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date>October 22 (legislative day, October 21), 2025</action-date>
+            <action-desc><sponsor name-id="S345">Mr. Johnson</sponsor> introduced the following
+                bill; which was read twice and referred to the <committee-name committee-id="SSFI00">Committee on Finance</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend <external-xref legal-doc="public-law" parsable-cite="pl/86/272">Public Law 86–272</external-xref> to expand the prohibition of State taxation
+            relating to certain solicitation of orders.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="HB92D6DF8E16B4A8A98809335DA73EE8F">
+        <section section-type="section-one" id="H92048CA10B73476F99FC700ADAF7CABF">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Interstate Commerce Simplification Act of 2025</short-title></quote>.</text>
+        </section>
+        <section section-type="subsequent-section" id="HB0A25FF3AE8F405C9C2DC71081F73091">
+            <enum>2.</enum>
+            <header>Amendment</header>
+ <text display-inline="no-display-inline">Section 101(d) of <external-xref legal-doc="public-law" parsable-cite="pl/86/272">Public Law 86–272</external-xref> (73 Stat. 555) is amended—</text>
+            <paragraph id="HE5F5AEEF00F5412080738F2AA3DC1449">
+                <enum>(1)</enum>
+ <text>in paragraph (1) by striking <quote>and</quote> at the end,</text> </paragraph> <paragraph id="H11969A6DADB144F2B875CE021C42B23B"> <enum>(2)</enum> <text>in paragraph (2) by striking the period at the end and inserting <quote>; and</quote>, and</text>
+            </paragraph>
+            <paragraph display-inline="no-display-inline" id="H6B727BEBE7C04897977E4F39072F270E">
+                <enum>(3)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="H8D0DE1A4DA67430D9B8A687A749DFEA0"> <paragraph id="HD508F0DA0663417DA29D52D2F16162F1"> <enum>(3)</enum> <text>the term <term>solicitation of orders</term> means any business activity that facilitates the solicitation of orders even if that activity may also serve some independently valuable business function apart from solicitation.</text>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+

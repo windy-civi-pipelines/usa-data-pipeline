@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MCG25A43-LVS-SK-5GN">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S2996 IS: Hiring Preference for Veterans and Americans With Disabilities Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-09</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 2996</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251009">October 9, 2025</action-date>
+            <action-desc><sponsor name-id="S435">Mr. Sheehy</sponsor> (for himself and <cosponsor name-id="S436">Ms. Slotkin</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSRA00">Committee on
+                    Rules and Administration</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To clarify that a State or local jurisdiction may give preference to
+            individuals who are veterans or individuals with a disability with respect to hiring
+            election workers to administer an election in the State or local jurisdiction, and for
+            other purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" changed="not-changed" id="H4C00B5D3CFCC49418A47CA47D3BAF74F">
+        <section section-type="section-one" id="H8006C313369A4AB4AA14E4E2FF67ED4C" changed="not-changed">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Hiring Preference for Veterans and Americans With Disabilities Act</short-title></quote>.</text>
+        </section>
+        <section id="HD6F4DDCCBE984F708F682BB62795836E" changed="not-changed">
+            <enum>2.</enum>
+            <header>Clarification of rules with respect to hiring of election workers</header>
+            <subsection id="HABF9C6944EAE4AFF95B3B15D003A0DA1" changed="not-changed">
+                <enum>(a)</enum>
+                <header>Preferences for veterans and individuals with disabilities</header>
+                <paragraph id="H09D49614434E43118A800EA67332278B" changed="not-changed">
+                    <enum>(1)</enum>
+                    <header>Preferences</header>
+ <text display-inline="yes-display-inline">In hiring election workers to administer an election in a State or local jurisdiction, the State or local jurisdiction may give preference to individuals who are veterans or individuals with a disability.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="HEA6F09303D1F4579BC77F8AEA2AEAB9F" changed="not-changed">
+                    <enum>(2)</enum>
+                    <header>Individual with a disability defined</header>
+ <text>In this subsection, an <quote>individual with a disability</quote> means an individual with an impairment that substantially limits any major life activities.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H99B7E89C3FBA4FC9B0B342369471C5D2" changed="not-changed">
+                <enum>(b)</enum>
+                <header>Preference and waiver of residency requirement for spouses and dependents of
+                    absent military voters</header>
+                <paragraph id="H4E53307F68DE4BFEAD40A6519F797FC4" changed="not-changed">
+                    <enum>(1)</enum>
+                    <header>Preference and waivers</header>
+ <text display-inline="yes-display-inline">In hiring election workers to administer an election in a State or local jurisdiction, the State or local jurisdiction—</text>
+                    <subparagraph id="H2FCCEEDDEAF04778A56AB0EBE749E269" changed="not-changed">
+                        <enum>(A)</enum>
+ <text>may give preference to an individual who is a nonresident military spouse or dependent; and</text>
+                    </subparagraph>
+                    <subparagraph id="HF17FEDEBE9D2406497223EAE3A603E70" changed="not-changed">
+                        <enum>(B)</enum>
+ <text>may not refuse to hire such an individual as an election worker solely on the grounds that the individual does not maintain a place of residence in the State or local jurisdiction.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="HC2313A0300264076B304F0EA6F2C46E5" changed="not-changed">
+                    <enum>(2)</enum>
+                    <header>Nonresident military spouse or dependent defined</header>
+ <text>In this subsection, a <quote>nonresident military spouse or dependent</quote> means an individual who is an absent uniformed services voter under section 107(1)(C) of the Uniformed and Overseas Citizen Absentee Voting Act (<external-xref legal-doc="usc" parsable-cite="usc/52/20310">52 U.S.C. 20310(1)(C)</external-xref>).</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H0B5750EE1C4D491FBADAEC3EE981F764" changed="not-changed">
+                <enum>(c)</enum>
+                <header>Effective date</header>
+ <text>This section shall take effect on the date of the enactment of this Act.</text> </subsection> </section> </legis-body> </bill>
+
