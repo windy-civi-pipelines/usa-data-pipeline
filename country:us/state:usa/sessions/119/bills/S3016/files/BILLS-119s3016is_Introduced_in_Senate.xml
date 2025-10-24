@@ -1,0 +1,195 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-ELT25921-KK3-TW-FRR">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3016 IS: Advancing Research in Nuclear Fuel Recycling Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-16</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3016</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251016">October 16, 2025</action-date>
+            <action-desc><sponsor name-id="S355">Mr. Cruz</sponsor> (for himself and <cosponsor name-id="S359">Mr. Heinrich</cosponsor>) introduced the following bill; which
+                was read twice and referred to the <committee-name committee-id="SSEG00">Committee
+                    on Energy and Natural Resources</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require the Secretary of Energy to study new technologies and
+            opportunities for recycling spent nuclear fuel.</official-title>
+    </form>
+    <legis-body>
+        <section id="ided5db1b45d1d4b628b50d963d41529b4" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Advancing Research in Nuclear Fuel Recycling Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="id0ab0e0169c0e42fb895e015a6f17b4bf">
+            <enum>2.</enum>
+            <header>Study on new technologies to recycle spent nuclear fuel</header>
+            <subsection id="id979a1b4a0f8f4c45987b844a9bb5bf44">
+                <enum>(a)</enum>
+                <header>Definitions</header>
+ <text>In this section:</text> <paragraph commented="no" id="id286b5c9ad0fa4be387551c5042b983b9"> <enum>(1)</enum> <header>National laboratory</header> <text>The term <term>National Laboratory</term> has the meaning given the term in section 2 of the Energy Policy Act of 2005 (<external-xref legal-doc="usc" parsable-cite="usc/42/15801">42 U.S.C. 15801</external-xref>).</text>
+                </paragraph>
+                <paragraph id="idc4a6371d447141aa906613f203df62f3">
+                    <enum>(2)</enum>
+                    <header>Nuclear waste</header>
+ <text>The term <term>nuclear waste</term> means spent nuclear fuel and high-level radioactive waste (as defined in section 2 of the Nuclear Waste Policy Act of 1982 (<external-xref legal-doc="usc" parsable-cite="usc/42/10101">42 U.S.C. 10101</external-xref>)).</text>
+                </paragraph>
+                <paragraph id="ida95afb4892fe475b99b6fb0b467ee824">
+                    <enum>(3)</enum>
+                    <header>Recycling</header>
+ <text>The term <term>recycling</term> means the recovery of valuable radionuclides, including fissile materials, from nuclear waste, and any subsequent processes, such as enrichment and fuel fabrication, necessary for reuse in nuclear reactors or other commercial applications.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id6c0c6e26ab644eb3afbe4b6b04f2e339">
+                    <enum>(4)</enum>
+                    <header>Secretary</header>
+ <text>The term <term>Secretary</term> means the Secretary of Energy.</text> </paragraph> <paragraph id="id286754a86451469caa1b8d2c1188218d"> <enum>(5)</enum> <header>Spent nuclear fuel</header> <text>The term <term>spent nuclear fuel</term> has the meaning given the term in section 2 of the Nuclear Waste Policy Act of 1982 (<external-xref legal-doc="usc" parsable-cite="usc/42/10101">42 U.S.C. 10101</external-xref>).</text>
+                </paragraph>
+            </subsection>
+            <subsection id="idf27a38d099084e45ad9506a60bf03c14">
+                <enum>(b)</enum>
+                <header>Study</header>
+ <text display-inline="yes-display-inline">Not later than 90 days after the date of enactment of this Act, the Secretary, acting through the Assistant Secretary for Nuclear Energy, shall carry out a study—</text>
+                <paragraph id="idf474b207af164fff828c71a4f57d9a2d">
+                    <enum>(1)</enum>
+ <text>to analyze the practicability, potential benefits, costs, and risks, including proliferation, of using dedicated recycling facilities to convert spent nuclear fuel, including spent high-assay low-enriched uranium fuel, into useable nuclear fuels, such as those for—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id1b61c633d1d148d49d60c62444a73e44">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">commercial light water reactors;</text> </subparagraph> <subparagraph commented="no" display-inline="no-display-inline" id="id3bf7b41dcb884887b4dea2f2ef687e3f"> <enum>(B)</enum> <text display-inline="yes-display-inline">advanced nuclear reactors; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id071f5060f92c422d96d1529903759c92">
+                        <enum>(C)</enum>
+ <text display-inline="yes-display-inline">medical, space-based, advanced-battery, and other non-reactor applications, as determined by the Secretary;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id8a085db9021749a2a348598bd697efda">
+                    <enum>(2)</enum>
+                    <subparagraph commented="no" display-inline="yes-display-inline" id="idf37b246aa327479db04c452cd768ade9">
+                        <enum>(A)</enum>
+ <text>to analyze the practicability, potential benefits, costs, and risks of recycling spent nuclear fuel, which is taken from temporary storage sites throughout the United States, and using it as fuel or input for advanced nuclear reactors, existing reactors, or commercial applications;</text>
+                    </subparagraph>
+                    <subparagraph indent="up1" commented="no" display-inline="no-display-inline" id="id02285440a98c498b9bf162c54187d71a">
+                        <enum>(B)</enum>
+ <text>to compare such practicability, potential benefits, costs, and risks of recycling spent nuclear fuel with the practicability, potential benefits, costs, and risks of the once-through fuel cycle, including temporary and permanent storage requirements; and</text>
+                    </subparagraph>
+                    <subparagraph indent="up1" commented="no" display-inline="no-display-inline" id="ida1a9cd81e4a44172ab57fbc84f3c0e3e">
+                        <enum>(C)</enum>
+ <text>to analyze the practicability, potential benefits, costs, and risks of aqueous (such as PUREX and the derivatives of PUREX) recycling processes with the practicability, potential benefits, costs, and risk of non-aqueous (such as pyro-electrochemistry) recycling processes;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idb73fbedb2c0744649df8e95970d2b279">
+                    <enum>(3)</enum>
+ <text>to analyze the technical and economic feasibility of utilizing nuclear waste processing to extract certain isotopes needed for domestic and international use, including medical, industrial, space-based power source, and advanced-battery applications;</text>
+                </paragraph>
+                <paragraph id="id260915686d0a4cf294be25cf0e4317c9">
+                    <enum>(4)</enum>
+ <text>to analyze the practicability, potential benefits, costs, risks, and potential approaches for coupling or collocating recycling facilities with other pertinent facilities, such as advanced nuclear reactors (that can use the recycled fuel), interim storage, and fuel-fabrication facilities, including through—</text>
+                    <subparagraph id="idc97ae0ca0c8e4ae3b54ed42eccced645">
+                        <enum>(A)</enum>
+ <text>relevant analyses, such as capital and operating cost estimates, public-private partnerships to encourage investment, infrastructure requirements, timeline to full-scale commercial deployment, and distinguishing characteristics or requirements of such facilities;</text>
+                    </subparagraph>
+                    <subparagraph id="idfb648cfd12a245469b26185790b7c018">
+                        <enum>(B)</enum>
+ <text>input from interested private technology developers and relevant assumptions regarding cost; and</text>
+                    </subparagraph>
+                    <subparagraph id="idcbff96c26589427f936b3e8630e5a91b">
+                        <enum>(C)</enum>
+ <text>comparison with the practicability, potential benefits, costs, and risks of the once-through fuel cycle, including temporary and permanent storage requirements;</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idc1a4bac4bd6d4bf299b10ef06ec5012d">
+                    <enum>(5)</enum>
+ <text>to identify parties, including individuals, communities, businesses, and local and Tribal governments, that are impacted economically, or through health, safety, or environmental risks, by the current practice of indefinite temporary storage of spent nuclear fuel, and assess potential risks and benefits for those parties should spent nuclear fuel be removed from their sites for the purposes of nuclear waste recycling;</text>
+                </paragraph>
+                <paragraph id="id84bf4fb812754e5286a27d37189ace2e">
+                    <enum>(6)</enum>
+ <text>to assess different approaches for siting and sizing nuclear waste recycling facilities, including a centralized national facility, regional facilities, on-site facilities where spent nuclear fuel is currently stored, and on-site facilities where newly recycled fuel can be used by an on-site reactor, and recommend one or more approaches that consider environmental, transportation, infrastructure, capital, and other risks;</text>
+                </paragraph>
+                <paragraph id="id8fffee099a0949e79d2dcc147032d3a9">
+                    <enum>(7)</enum>
+ <text>to identify tracking and accountability methods for new recycled fuel and radioactive waste streams for byproducts of the recycling process;</text>
+                </paragraph>
+                <paragraph id="id0fbb87d91fe34dc684e95aa3033e6dfc">
+                    <enum>(8)</enum>
+                    <subparagraph commented="no" display-inline="yes-display-inline" id="idd89a51c33a304e22924f76d075a4c80a">
+                        <enum>(A)</enum>
+ <text>to identify any regulatory gaps related to nuclear waste management and recycling, including accuracy and consistency of relevant definitions for radioactive waste (including <quote>high-level radioactive waste</quote>, <quote>spent nuclear fuel</quote>, <quote>low-level radioactive waste</quote>, <quote>reprocessing</quote>, <quote>recycling</quote>, and <quote>vitrification</quote>) and classifications of radioactive waste that exist in Federal law on the date of enactment of this Act;</text>
+                    </subparagraph>
+                    <subparagraph indent="up1" commented="no" display-inline="no-display-inline" id="id01e26e3825364ccb8ffde5fe229664fc">
+                        <enum>(B)</enum>
+ <text>to compare such definitions to those used by other nations that manage radioactive waste; and</text>
+                    </subparagraph>
+                    <subparagraph indent="up1" commented="no" display-inline="no-display-inline" id="ideb4120be4d8c4383b18a790669592a3b">
+                        <enum>(C)</enum>
+ <text>to make recommendations for modernizing such definitions; and</text> </subparagraph> </paragraph> <paragraph id="idc65af4e834d146d9a5b0bf0f4a8e49b8"> <enum>(9)</enum> <text>to evaluate—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id1f67407b343f4dcba18ca02f63dee97d">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">potential Federal and State-level policy changes to support development and deployment of recycling and waste-utilizing reactor technologies; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id994f9117455b4b89a7ecbeb3382a5b5a">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">impacts of spent nuclear fuel recycling on requirements for domestic nuclear waste storage.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id06729b732b684ebf83a528b2609ae009">
+                <enum>(c)</enum>
+                <header>Report</header>
+ <text>Not later than 1 year after the date of enactment of this Act, the Secretary, acting through the Assistant Secretary for Nuclear Energy, shall submit to the Committee on Energy and Natural Resources of the Senate, the Committee on Energy and Commerce of the House of Representatives, the Committee on Science, Space, and Technology of the House of Representatives, and the Committee on Natural Resources of the House of Representatives, a report that complies with each of the following:</text>
+                <paragraph id="id5d863e86f7214c05a0139f71f119b956">
+                    <enum>(1)</enum>
+ <text>Describes the results of the study carried out under subsection (b).</text>
+                </paragraph>
+                <paragraph id="idecdf841e2f3c4e03b3230967b43969cf">
+                    <enum>(2)</enum>
+ <text>Is released to the public.</text> </paragraph> <paragraph id="idb44775dd55ef4815abe20f88bac3c658"> <enum>(3)</enum> <text>Totals not more than 120 pages (excluding Front Matter, References, and Appendices) written and formatted to facilitate review by a nonspecialist readership, including the following sections:</text>
+                    <subparagraph id="idad323cefd930474698c6e34ab3e7cc64">
+                        <enum>(A)</enum>
+ <text>A Front Matter section that includes a cover page with identifying information, tables of contents, figures, and tables.</text>
+                    </subparagraph>
+                    <subparagraph id="ide06e9b6f60d5411dad90a8f0e53d1fe3">
+                        <enum>(B)</enum>
+ <text>An Executive Summary section.</text> </subparagraph> <subparagraph id="id168f90bbf5b4491fbfc8b14a855bc55b"> <enum>(C)</enum> <text>An Introductory section that includes a historical overview that also explains why recycling is not performed in the United States today, such as economic, political, or technological obstacles.</text>
+                    </subparagraph>
+                    <subparagraph id="id91b34c98c0814a419b427ba0e15cb296">
+                        <enum>(D)</enum>
+ <text>Results and Findings sections that summarize the results and findings of the study carried out under subsection (b).</text>
+                    </subparagraph>
+                    <subparagraph id="iddd9657263144468882b7feb5ea961d7e">
+                        <enum>(E)</enum>
+ <text>A Key Remaining Challenges and Barriers section that identifies key technical and nontechnical (such as economic) challenges and barriers that need to be addressed to enable scale-up and commercial adoption of spent nuclear fuel recycling, with preference given to secure, proliferation resistant, environmentally safe, and economical recycling methods.</text>
+                    </subparagraph>
+                    <subparagraph id="idbfedc79ad11a421bbd7f378c9033f2c7">
+                        <enum>(F)</enum>
+ <text>A Policy Recommendations section that—</text> <clause id="ide3de48ec555f472e98419337bf0742c0"> <enum>(i)</enum> <text>lists policy recommendations to address remaining technical and nontechnical (such as economic) challenges and barriers to enable scale-up and commercial adoption of spent nuclear fuel recycling, including with government support;</text>
+                        </clause>
+                        <clause id="id20293f0f17e64c828c12f48a5a269528">
+                            <enum>(ii)</enum>
+ <text>contrasts the potential benefits and risks of each policy; and</text>
+                        </clause>
+                        <clause id="id95fa8f4fadb9431fbaa2e1735f3365dd">
+                            <enum>(iii)</enum>
+ <text>compares benefits to current or past policies.</text> </clause> </subparagraph> <subparagraph id="idcfa2fabad02d4c68a4af48cce1ef0ba5"> <enum>(G)</enum> <text>An Other section in which other relevant information may be added.</text>
+                    </subparagraph>
+                    <subparagraph id="id3b6b837b15884f31b254681041fad576">
+                        <enum>(H)</enum>
+ <text>A References section.</text> </subparagraph> <subparagraph id="id1ad24cabfc45465ba68b285b97347a47" commented="no" display-inline="no-display-inline"> <enum>(I)</enum> <text>An Appendices section.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
