@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-KEN25386-K6S-NL-YLG">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3006 IS: Youth Prevention and Recovery Reauthorization Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3006</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251014">October 14, 2025</action-date>
+            <action-desc><sponsor name-id="S380">Mr. Peters</sponsor> introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSHR00">Committee on Health, Education, Labor, and
+                Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the SUPPORT for Patients and Communities Act to reauthorize the
+            youth prevention and recovery initiative, and for other purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Youth Prevention and Recovery Reauthorization Act of 2025</short-title></quote>.</text>
+        </section>
+        <section id="HBD474074434E4FA6BAF8C38BBB8324C4">
+            <enum>2.</enum>
+            <header>Youth prevention and recovery</header>
+ <text display-inline="no-display-inline">Section 7102(c) of the SUPPORT for Patients and Communities Act (42 U.S.C. 290bb–7a(c)) is amended—</text>
+            <paragraph id="HEF264544207547E4B99DBB601147D716">
+                <enum>(1)</enum>
+ <text>in paragraph (2)—</text> <subparagraph id="HFA17CC69146D48D5A71DBEE150F26BE4"> <enum>(A)</enum> <text>in subparagraph (A)—</text>
+                    <clause id="H2CA91DB812CA4979A49C2BF9C32964F9">
+                        <enum>(i)</enum>
+ <text>in clause (i)—</text> <subclause id="HF92EE1F40CE8487BA8705AFE951639C5"> <enum>(I)</enum> <text>by inserting <quote>, or a consortium of local educational agencies,</quote> after <quote>a local educational agency</quote>; and</text>
+                        </subclause>
+                        <subclause id="HBDB6A62FEFF546978A082B29A704EBDE">
+                            <enum>(II)</enum>
+ <text>by striking <quote>high schools</quote> and inserting <quote>secondary schools</quote>; and</text>
+                        </subclause>
+                    </clause>
+                    <clause id="H3BFFEE3F29374B6B9ED8035784B9737F">
+                        <enum>(ii)</enum>
+ <text>in clause (vi), by striking <quote>tribe, or tribal</quote> and inserting <quote>Tribe, or Tribal</quote>;</text>
+                    </clause>
+                </subparagraph>
+                <subparagraph id="H6EA22FD264B940C59B64F3E1946CD3D1">
+                    <enum>(B)</enum>
+ <text>by amending subparagraph (E) to read as follows:</text> <quoted-block id="H148E74D0040544C598C74EA1BEACBDBF" style="OLC"> <subparagraph id="HB1CD818C946F43559923D4C65D75F9C9"> <enum>(E)</enum> <header>Indian tribe; tribal organization</header> <text>The terms <term>Indian Tribe</term> and <term>Tribal organization</term> have the meanings given such terms in section 4 of the Indian Self-Determination and Education Assistance Act (<external-xref legal-doc="usc" parsable-cite="usc/25/5304">25 U.S.C. 5304</external-xref>).</text>
+                        </subparagraph>
+                        <after-quoted-block>;</after-quoted-block>
+                    </quoted-block>
+                </subparagraph>
+                <subparagraph id="H8D38776E850D44739D71C1BD77F75EE1">
+                    <enum>(C)</enum>
+ <text>by redesignating subparagraph (K) as subparagraph (L); and</text> </subparagraph> <subparagraph id="H7BCCE3E6E7774FA6BEE8B41C22883F2D"> <enum>(D)</enum> <text>by inserting after subparagraph (J) the following:</text>
+                    <quoted-block id="HBBDC2F726353475C9A2ADE15CEB29F85" style="OLC">
+                        <subparagraph id="H1CDDD4F26DCE40BE852A47BEC01D429E">
+                            <enum>(K)</enum>
+                            <header>Secondary school</header>
+ <text>The term <term>secondary school</term> has the meaning given such term in section 8101 of the Elementary and Secondary Education Act of 1965 (<external-xref legal-doc="usc" parsable-cite="usc/20/7801">20 U.S.C. 7801</external-xref>).</text>
+                        </subparagraph>
+                        <after-quoted-block>;</after-quoted-block>
+                    </quoted-block>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="HE5041384354D46809D2D6B94A1454F8E">
+                <enum>(2)</enum>
+ <text>in paragraph (3)(A), in the matter preceding clause (i)—</text> <subparagraph id="H901D7F1895B54E7FBA95ED5387FDB2E8"> <enum>(A)</enum> <text>by striking <quote>and abuse</quote>; and</text>
+                </subparagraph>
+                <subparagraph id="HAAD773EFC8F646AD946859A92E2FCD24">
+                    <enum>(B)</enum>
+ <text>by inserting <quote>at increased risk for substance misuse</quote> after <quote>specific populations</quote>;</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="H21C1927135304A2C8D07B0F472F4FA12">
+                <enum>(3)</enum>
+ <text>in paragraph (4)—</text> <subparagraph id="H0A7DC184D81C4FB597CD0952CF08527A"> <enum>(A)</enum> <text>in the matter preceding subparagraph (A), by striking <quote>Indian tribes</quote> and inserting <quote>Indian Tribes</quote>;</text>
+                </subparagraph>
+                <subparagraph id="H075B676286EE43D7ACDE1317BB65A1DE">
+                    <enum>(B)</enum>
+ <text>in subparagraph (A), by striking <quote>and abuse</quote>; and</text> </subparagraph> <subparagraph id="HC55F17A707364BDD80D9BB7BF203CAC8"> <enum>(C)</enum> <text>in subparagraph (B), by striking <quote>peer mentoring</quote> and inserting <quote>peer-to-peer support</quote>;</text>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="HC9615062BDCC43B0A859A23E0C7BC9D7">
+                <enum>(4)</enum>
+ <text>in paragraph (5), by striking <quote>tribal</quote> and inserting <quote>Tribal</quote>;</text>
+            </paragraph>
+            <paragraph id="H78CECA8C14E241A5AB495C917048AC33">
+                <enum>(5)</enum>
+ <text>in paragraph (6)(A)—</text> <subparagraph id="HA21F95C3829B41159BCCF70AF5C1A986"> <enum>(A)</enum> <text>in clause (iv), by striking <quote>; and</quote> and inserting a semicolon; and</text>
+                </subparagraph>
+                <subparagraph id="HB4EA44852DC249AE89D40E3494AFD607">
+                    <enum>(B)</enum>
+ <text>by adding at the end the following:</text> <quoted-block id="H22F0A74367D24C72B70C3DA8C72923EB" style="OLC"> <clause id="HC78978CC79D2465DB62BDED77894D962"> <enum>(vi)</enum> <text>a plan to sustain the activities carried out under the grant program, after the grant program has ended; and</text>
+                        </clause>
+                        <after-quoted-block>;</after-quoted-block>
+                    </quoted-block>
+                </subparagraph>
+            </paragraph>
+            <paragraph id="HB04D3A812FA041629A920B6D7461D45A">
+                <enum>(6)</enum>
+ <text>in paragraph (8), by striking <quote>2022</quote> and inserting <quote>2028</quote>; and</text>
+            </paragraph>
+            <paragraph id="HC7CA0213A88847318FBBD66CD49788AE" commented="no">
+                <enum>(7)</enum>
+ <text>by amending paragraph (9) to read as follows:</text> <quoted-block id="H67282C08D1FA478DA89A27E346FB1199" display-inline="no-display-inline" style="OLC"> <paragraph id="H6C9D99EE548E4EB189C03F52B050141E" commented="no"> <enum>(9)</enum> <header>Authorization of appropriations</header> <text>To carry out this subsection, there are authorized to be appropriated—</text>
+                        <subparagraph id="H1A7EDDFAFC084E7DAA219CB0D5ED4863">
+                            <enum>(A)</enum>
+ <text display-inline="yes-display-inline">$10,000,000 for fiscal year 2026;</text>
+                        </subparagraph>
+                        <subparagraph id="H7BCB6E1A39AC465D945F17623F336580">
+                            <enum>(B)</enum>
+ <text>$12,000,000 for fiscal year 2027;</text> </subparagraph> <subparagraph id="H2EA7F8386FC948DC8B654136F04050F7"> <enum>(C)</enum> <text>$13,000,000 for fiscal year 2028;</text>
+                        </subparagraph>
+                        <subparagraph id="H9B697C7F3FDB45CEA936230A5BF901C1">
+                            <enum>(D)</enum>
+ <text>$14,000,000 for fiscal year 2029; and</text> </subparagraph> <subparagraph id="H4CD66C73835A4FE18D84334E9D115D42" commented="no" display-inline="no-display-inline"> <enum>(E)</enum> <text>$15,000,000 for fiscal year 2030.</text>
+                        </subparagraph>
+                    </paragraph>
+                    <after-quoted-block>.</after-quoted-block>
+                </quoted-block>
+            </paragraph>
+        </section>
+    </legis-body>
+</bill>
+
