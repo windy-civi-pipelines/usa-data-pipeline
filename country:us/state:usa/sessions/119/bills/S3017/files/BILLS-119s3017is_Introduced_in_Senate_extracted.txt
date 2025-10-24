@@ -1,0 +1,245 @@
+Title: 
+Official Title: To require updates to the threshold amounts applicable to certain currency
+            transaction reports, and for other purposes.
+Number of Sections: 2
+Source: versions - Introduced in Senate
+Media Type: text/xml
+
+================================================================================
+
+Section 1:
+1.
+            Short title
+ This Act may be cited as the Streamlining Transaction Reporting and Ensuring Anti-Money Laundering Improvements for a New Era Act or the STREAMLINE Act.
+
+Section 2:
+2.
+            Treasury reports
+            
+                (a)
+                Thresholds for currency transaction reports
+                
+                    (1)
+                    Currency transaction reports
+                    
+                        (A)
+                        Initial updated
+                            threshold
+ Not later than 180 days after the date of enactment of this Act, the Secretary of the Treasury shall issue regulations pursuant to sections 5313 and 5315 of title 31, United States Code, to update each threshold amount under such regulations that is $10,000 to be $30,000.
+                    
+                    
+                        (B)
+                        Inflation adjustment
+                        
+                            (i)
+                            In general
+ Not later that 5 years after the date on which the Secretary of the Treasury updates regulations under subparagraph (A), and every 5 years thereafter, the Secretary of the Treasury shall issue regulations pursuant to sections 5313 and 5315 of title 31, United States Code, to update each threshold amount under such regulations required to be updated under subparagraph (A) to reflect the change during the applicable 5-year period in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor, which shall be rounded to the nearest multiple of $1,000.
+                        
+                        
+                            (ii)
+                            Effective date
+ Each adjustment under clause (i) shall take effect on the first January 1 occurring after the date on which the Secretary of the Treasury publishes the adjustment.
+                        
+                    
+                
+                
+                    (2)
+                    Reports relating to coins and currency received in nonfinancial trade or
+                        business
+ Section 5331 of title 31, United States Code, is amended—  (A) by striking $10,000 each place it appears in a heading or the text and inserting $30,000; and
+                    
+                    
+                        (B)
+ by adding at the end the following:   (e) Updates for inflation  (1) In general Not later than 5 years after the date of enactment of this subsection, and every 5 years thereafter, the Secretary of the Treasury shall update each dollar figure under this section to reflect the change during the applicable 5-year period in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor, which shall be rounded to the nearest multiple of $1,000.
+                                
+                                
+                                    (2)
+                                    Effective date
+ Each adjustment under paragraph (1) shall take effect on the first January 1 occurring after the date on which the Secretary of the Treasury publishes the adjustment.
+                                
+                            
+                            .
+                        
+                    
+                
+            
+            
+                (b)
+                Thresholds for suspicious activity reports
+ Not later than 180 days after the date of enactment of this Act, the head of each Federal agency that issues regulations with respect to reports on suspicious transactions described under section 5318(g) of title 31, United States Code, shall update each threshold amount under such regulations that is $2,000 to be $3,000 and each threshold amount under such regulations that is $5,000 to be $10,000.
+            
+            
+                (c)
+                Review and report
+ Not later than 360 days after the date of enactment of this Act, the Secretary of the Treasury shall—
+                
+                    (1)
+ review the forms and reporting and recordkeeping requirements issued pursuant to sections 5313, 5315, and 5318 of title 31, United States Code, which shall include an analysis on the aggregation, prioritization, and automation of those forms and requirements, to ensure that such forms and reporting requirements are effective and efficient in identifying illicit finance activity;
+                
+                
+                    (2)
+ update the forms and requirements described in paragraph (1) as the Secretary of the Treasury determines necessary and consistent with section 5318(g)(5) of title 31, United States Code;
+                
+                
+                    (3)
+ conduct the reviews and submit the reports required under sections 6204, 6205, and 6216 of the Anti-Money Laundering Act of 2020 (division F of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021; 134 Stat. 4569; 31 U.S.C. 5313 note, 31 U.S.C. 5311 note); and
+                
+                
+                    (4)
+ submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that—
+                    
+                        (A)
+ summarizes the results of the review conducted under paragraph (1); and
+                    
+                    
+                        (B)
+ includes recommendations for updating the forms and requirements described in paragraph (1).
+                    
+                
+            
+            
+                (d)
+                Rule of construction
+ Nothing in this section shall be construed to—  (1) alter the ability of the Secretary of the Treasury to issue geographic targeting orders pursuant to section 5326 of title 31, United States Code;
+                
+                
+                    (2)
+ alter any legal grounds for any geographic targeting order issued on or before the date of enactment of this Act; or
+                
+                
+                    (3)
+ alter the ability of the Secretary of the Treasury to reduce reporting thresholds when consistent with all applicable law.
+
+
+================================================================================
+
+Raw Text:
+119 S3017 IS: Streamlining Transaction Reporting and Ensuring Anti-Money Laundering Improvements for a New Era Act
+U.S. Senate
+2025-10-20
+text/xml
+EN
+Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.
+
+
+
+        II
+        119th CONGRESS
+        1st Session
+        S. 3017
+        IN THE SENATE OF THE UNITED STATES
+        
+            October 20, 2025
+            Mr. Kennedy (for himself, Mr. Scott of South Carolina, Mr. Rounds, Mrs.
+                    Britt, Ms. Lummis, Mr. Hagerty, Mr.
+                    Crapo, Mr. Moreno, and
+                    Mr. Ricketts) introduced the following bill;
+                which was read twice and referred to the Committee on Banking, Housing, and Urban Affairs
+        
+        A BILL
+        To require updates to the threshold amounts applicable to certain currency
+            transaction reports, and for other purposes.
+    
+    
+        
+            1.
+            Short title
+ This Act may be cited as the Streamlining Transaction Reporting and Ensuring Anti-Money Laundering Improvements for a New Era Act or the STREAMLINE Act.
+        
+        
+            2.
+            Treasury reports
+            
+                (a)
+                Thresholds for currency transaction reports
+                
+                    (1)
+                    Currency transaction reports
+                    
+                        (A)
+                        Initial updated
+                            threshold
+ Not later than 180 days after the date of enactment of this Act, the Secretary of the Treasury shall issue regulations pursuant to sections 5313 and 5315 of title 31, United States Code, to update each threshold amount under such regulations that is $10,000 to be $30,000.
+                    
+                    
+                        (B)
+                        Inflation adjustment
+                        
+                            (i)
+                            In general
+ Not later that 5 years after the date on which the Secretary of the Treasury updates regulations under subparagraph (A), and every 5 years thereafter, the Secretary of the Treasury shall issue regulations pursuant to sections 5313 and 5315 of title 31, United States Code, to update each threshold amount under such regulations required to be updated under subparagraph (A) to reflect the change during the applicable 5-year period in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor, which shall be rounded to the nearest multiple of $1,000.
+                        
+                        
+                            (ii)
+                            Effective date
+ Each adjustment under clause (i) shall take effect on the first January 1 occurring after the date on which the Secretary of the Treasury publishes the adjustment.
+                        
+                    
+                
+                
+                    (2)
+                    Reports relating to coins and currency received in nonfinancial trade or
+                        business
+ Section 5331 of title 31, United States Code, is amended—  (A) by striking $10,000 each place it appears in a heading or the text and inserting $30,000; and
+                    
+                    
+                        (B)
+ by adding at the end the following:   (e) Updates for inflation  (1) In general Not later than 5 years after the date of enactment of this subsection, and every 5 years thereafter, the Secretary of the Treasury shall update each dollar figure under this section to reflect the change during the applicable 5-year period in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor, which shall be rounded to the nearest multiple of $1,000.
+                                
+                                
+                                    (2)
+                                    Effective date
+ Each adjustment under paragraph (1) shall take effect on the first January 1 occurring after the date on which the Secretary of the Treasury publishes the adjustment.
+                                
+                            
+                            .
+                        
+                    
+                
+            
+            
+                (b)
+                Thresholds for suspicious activity reports
+ Not later than 180 days after the date of enactment of this Act, the head of each Federal agency that issues regulations with respect to reports on suspicious transactions described under section 5318(g) of title 31, United States Code, shall update each threshold amount under such regulations that is $2,000 to be $3,000 and each threshold amount under such regulations that is $5,000 to be $10,000.
+            
+            
+                (c)
+                Review and report
+ Not later than 360 days after the date of enactment of this Act, the Secretary of the Treasury shall—
+                
+                    (1)
+ review the forms and reporting and recordkeeping requirements issued pursuant to sections 5313, 5315, and 5318 of title 31, United States Code, which shall include an analysis on the aggregation, prioritization, and automation of those forms and requirements, to ensure that such forms and reporting requirements are effective and efficient in identifying illicit finance activity;
+                
+                
+                    (2)
+ update the forms and requirements described in paragraph (1) as the Secretary of the Treasury determines necessary and consistent with section 5318(g)(5) of title 31, United States Code;
+                
+                
+                    (3)
+ conduct the reviews and submit the reports required under sections 6204, 6205, and 6216 of the Anti-Money Laundering Act of 2020 (division F of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021; 134 Stat. 4569; 31 U.S.C. 5313 note, 31 U.S.C. 5311 note); and
+                
+                
+                    (4)
+ submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that—
+                    
+                        (A)
+ summarizes the results of the review conducted under paragraph (1); and
+                    
+                    
+                        (B)
+ includes recommendations for updating the forms and requirements described in paragraph (1).
+                    
+                
+            
+            
+                (d)
+                Rule of construction
+ Nothing in this section shall be construed to—  (1) alter the ability of the Secretary of the Treasury to issue geographic targeting orders pursuant to section 5326 of title 31, United States Code;
+                
+                
+                    (2)
+ alter any legal grounds for any geographic targeting order issued on or before the date of enactment of this Act; or
+                
+                
+                    (3)
+ alter the ability of the Secretary of the Treasury to reduce reporting thresholds when consistent with all applicable law.

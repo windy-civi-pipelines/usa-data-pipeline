@@ -1,0 +1,69 @@
+Title: 
+Official Title: To require all applicants for a commercial driver’s license to demonstrate English language proficiency as a condition for testing and issuance, and for other purposes.
+Number of Sections: 6
+Source: versions - Introduced in House
+Media Type: text/xml
+
+================================================================================
+
+Section 1:
+1.Short title
+ This Act may be cited as the Standardized Assessment for Fluency in English for Drivers Act or the SAFE Drivers Act.
+
+Section 2:
+2.DefinitionsIn this Act: (1)Commercial driver’s licenseThe term commercial driver’s license has the meaning given such term in section 31301 of title 49, United States Code. 
+(2)English proficiency testThe term English proficiency test means a standardized assessment approved by the Administrator of the Federal Motor Carrier Safety Administration that evaluates an individual’s ability to read, write, and understand English in the context of commercial motor vehicle operation, including— (A)reading road signs and safety instructions; 
+(B)understanding and responding to spoken instructions and emergency communications; and (C)writing driver logs, reports, and required documentation. 
+(3)ApplicantThe term applicant means any individual applying for a new commercial driver’s license or the renewal of an existing commercial driver’s license.
+
+Section 3:
+3.English proficiency requirement (a)Standards and administrationSection 31308 of title 49, United States Code, is amended— 
+(1)in paragraph (3) by striking ; and and inserting a semicolon; (2)in paragraph (4)(E) by striking the period at the end and inserting ; and; and 
+(3)by adding at the end the following:  (5)before a commercial driver’s license or learners permit is issued or renewed, each applicant for a commercial driver’s license or for a renewal of such license must pass the English language proficiency test issued under section 4(a) of the SAFE Drivers Act. . 
+(b)ApplicabilityThe amendments made by subsection (a) shall apply to any individual issued or renewed a commercial driver’s license or learners permit on or after the date of enactment of this Act.
+
+Section 4:
+4.Implementation and oversight (a)Standards and administrationThe Administrator of the Federal Motor Carrier Safety Administration shall— 
+(1)develop, maintain, and approve the English language proficiency test; and (2)provide guidance to States for administering such test as part of commercial driver’s license testing or renewal. 
+(b)State responsibilitiesIn issuing commercial driver’s licenses and learners permits, State departments of motor vehicles shall— (1)administer and verify the English proficiency requirement; and 
+(2)ensure that applicants meet all other Federal and State commercial driver’s license requirements. (c)ReportingIn administering the English language proficiency test under subsection (a), States shall annually report to the Federal Motor Carrier Safety Administration on the number of applicants testing, pass rates, and compliance outcomes. 
+(d)Federal compliance and enforcement 
+(1)In generalThe Secretary of Transportation, acting through the Administrator of the Federal Motor Carrier Safety Administration, shall monitor State compliance with the requirements of this Act. (2)Withholding of fundsIf the Secretary determines that a State is not in substantial compliance, the Secretary may withhold a portion of Federal funds apportioned to the State under sections 104(b)(4) and 31313 of Title 49, United States Code, until the State demonstrates compliance. 
+(3)Report to CongressThe Secretary shall submit an annual report to Congress summarizing State compliance, enforcement actions taken, and any recommendations to strengthen implementation.
+
+Section 5:
+5.Rulemaking authorityThe Secretary of Transportation may issue such regulations as are necessary to carry out the provisions of this Act.
+
+Section 6:
+6.Effective dateThis Act shall take effect on the date that is 12 months after the date of enactment of this Act.
+
+
+================================================================================
+
+Raw Text:
+119 HR 5800 IH: Standardized Assessment for Fluency in English for Drivers Act
+U.S. House of Representatives
+2025-10-21
+text/xml
+EN
+Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.
+
+
+
+I119th CONGRESS1st SessionH. R. 5800IN THE HOUSE OF REPRESENTATIVESOctober 21, 2025Mr. Harrigan (for himself, Mr. Nehls, and Mr. Onder) introduced the following bill; which was referred to the Committee on Transportation and InfrastructureA BILLTo require all applicants for a commercial driver’s license to demonstrate English language proficiency as a condition for testing and issuance, and for other purposes. 
+1.Short title
+ This Act may be cited as the Standardized Assessment for Fluency in English for Drivers Act or the SAFE Drivers Act. 
+2.DefinitionsIn this Act: (1)Commercial driver’s licenseThe term commercial driver’s license has the meaning given such term in section 31301 of title 49, United States Code. 
+(2)English proficiency testThe term English proficiency test means a standardized assessment approved by the Administrator of the Federal Motor Carrier Safety Administration that evaluates an individual’s ability to read, write, and understand English in the context of commercial motor vehicle operation, including— (A)reading road signs and safety instructions; 
+(B)understanding and responding to spoken instructions and emergency communications; and (C)writing driver logs, reports, and required documentation. 
+(3)ApplicantThe term applicant means any individual applying for a new commercial driver’s license or the renewal of an existing commercial driver’s license. 3.English proficiency requirement (a)Standards and administrationSection 31308 of title 49, United States Code, is amended— 
+(1)in paragraph (3) by striking ; and and inserting a semicolon; (2)in paragraph (4)(E) by striking the period at the end and inserting ; and; and 
+(3)by adding at the end the following:  (5)before a commercial driver’s license or learners permit is issued or renewed, each applicant for a commercial driver’s license or for a renewal of such license must pass the English language proficiency test issued under section 4(a) of the SAFE Drivers Act. . 
+(b)ApplicabilityThe amendments made by subsection (a) shall apply to any individual issued or renewed a commercial driver’s license or learners permit on or after the date of enactment of this Act. 4.Implementation and oversight (a)Standards and administrationThe Administrator of the Federal Motor Carrier Safety Administration shall— 
+(1)develop, maintain, and approve the English language proficiency test; and (2)provide guidance to States for administering such test as part of commercial driver’s license testing or renewal. 
+(b)State responsibilitiesIn issuing commercial driver’s licenses and learners permits, State departments of motor vehicles shall— (1)administer and verify the English proficiency requirement; and 
+(2)ensure that applicants meet all other Federal and State commercial driver’s license requirements. (c)ReportingIn administering the English language proficiency test under subsection (a), States shall annually report to the Federal Motor Carrier Safety Administration on the number of applicants testing, pass rates, and compliance outcomes. 
+(d)Federal compliance and enforcement 
+(1)In generalThe Secretary of Transportation, acting through the Administrator of the Federal Motor Carrier Safety Administration, shall monitor State compliance with the requirements of this Act. (2)Withholding of fundsIf the Secretary determines that a State is not in substantial compliance, the Secretary may withhold a portion of Federal funds apportioned to the State under sections 104(b)(4) and 31313 of Title 49, United States Code, until the State demonstrates compliance. 
+(3)Report to CongressThe Secretary shall submit an annual report to Congress summarizing State compliance, enforcement actions taken, and any recommendations to strengthen implementation. 5.Rulemaking authorityThe Secretary of Transportation may issue such regulations as are necessary to carry out the provisions of this Act. 
+6.Effective dateThis Act shall take effect on the date that is 12 months after the date of enactment of this Act.

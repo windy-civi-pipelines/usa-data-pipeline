@@ -1,0 +1,141 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MIR25B08-PX9-YF-T9C">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3017 IS: Streamlining Transaction Reporting and Ensuring Anti-Money Laundering Improvements for a New Era Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-20</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3017</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251020">October 20, 2025</action-date>
+            <action-desc><sponsor name-id="S389">Mr. Kennedy</sponsor> (for himself, <cosponsor name-id="S365">Mr. Scott of South Carolina</cosponsor>, <cosponsor name-id="S381">Mr. Rounds</cosponsor>, <cosponsor name-id="S416">Mrs.
+                    Britt</cosponsor>, <cosponsor name-id="S410">Ms. Lummis</cosponsor>, <cosponsor name-id="S407">Mr. Hagerty</cosponsor>, <cosponsor name-id="S266">Mr.
+                    Crapo</cosponsor>, <cosponsor name-id="S434">Mr. Moreno</cosponsor>, and
+                    <sponsor name-id="S423">Mr. Ricketts</sponsor>) introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSBK00">Committee on Banking, Housing, and Urban Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require updates to the threshold amounts applicable to certain currency
+            transaction reports, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="id88a639113519461d8ce4a9b8a69a8396" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Streamlining Transaction Reporting and Ensuring Anti-Money Laundering Improvements for a New Era Act</short-title></quote> or the <quote><short-title>STREAMLINE Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" section-type="subsequent-section" id="ida203e01387b84b3e8e1444e431afadf1">
+            <enum>2.</enum>
+            <header>Treasury reports</header>
+            <subsection id="id90097b4660f14f39bfc637b0f675b686">
+                <enum>(a)</enum>
+                <header>Thresholds for currency transaction reports</header>
+                <paragraph id="idf839f1733b2c4ea3b5e353ebc7a1072e">
+                    <enum>(1)</enum>
+                    <header>Currency transaction reports</header>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idd14a20c7ae1d4451a0598b5879d29487">
+                        <enum>(A)</enum>
+                        <header display-inline="yes-display-inline">Initial updated
+                            threshold</header>
+ <text>Not later than 180 days after the date of enactment of this Act, the Secretary of the Treasury shall issue regulations pursuant to sections 5313 and 5315 of title 31, United States Code, to update each threshold amount under such regulations that is $10,000 to be $30,000.</text>
+                    </subparagraph>
+                    <subparagraph id="id2dd588d48542409796712ef438e55150">
+                        <enum>(B)</enum>
+                        <header>Inflation adjustment</header>
+                        <clause commented="no" display-inline="no-display-inline" id="id751dde83f77640baa91157d00af51adc">
+                            <enum>(i)</enum>
+                            <header display-inline="yes-display-inline">In general</header>
+ <text>Not later that 5 years after the date on which the Secretary of the Treasury updates regulations under subparagraph (A), and every 5 years thereafter, the Secretary of the Treasury shall issue regulations pursuant to sections 5313 and 5315 of title 31, United States Code, to update each threshold amount under such regulations required to be updated under subparagraph (A) to reflect the change during the applicable 5-year period in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor, which shall be rounded to the nearest multiple of $1,000.</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="id0d54a0882d85483d90c06ccb04d334df">
+                            <enum>(ii)</enum>
+                            <header>Effective date</header>
+ <text>Each adjustment under clause (i) shall take effect on the first January 1 occurring after the date on which the Secretary of the Treasury publishes the adjustment.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="idd2acff80ffe34711b9f40b6a698eecf2">
+                    <enum>(2)</enum>
+                    <header>Reports relating to coins and currency received in nonfinancial trade or
+                        business</header>
+ <text>Section 5331 of title 31, United States Code, is amended—</text> <subparagraph id="ida653d15234414afebb5a6204f954ab5f"> <enum>(A)</enum> <text>by striking <quote>$10,000</quote> each place it appears in a heading or the text and inserting <quote>$30,000</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="ida551c515ce95409eaec8e74b9d156c57">
+                        <enum>(B)</enum>
+ <text>by adding at the end the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id7ada65e483f94283849cab432155e42f"> <subsection commented="no" display-inline="no-display-inline" id="idff01db9da01f4e649884d763b5810e0f"> <enum>(e)</enum> <header>Updates for inflation</header> <paragraph commented="no" display-inline="no-display-inline" id="ide1b24f339a934300a7d33d17689d4b39"> <enum>(1)</enum> <header display-inline="yes-display-inline">In general</header> <text display-inline="yes-display-inline">Not later than 5 years after the date of enactment of this subsection, and every 5 years thereafter, the Secretary of the Treasury shall update each dollar figure under this section to reflect the change during the applicable 5-year period in the Consumer Price Index for All Urban Consumers published by the Bureau of Labor Statistics of the Department of Labor, which shall be rounded to the nearest multiple of $1,000.</text>
+                                </paragraph>
+                                <paragraph commented="no" display-inline="no-display-inline" id="idf0337099b6c34f26b1b403968e988dae">
+                                    <enum>(2)</enum>
+                                    <header>Effective date</header>
+ <text>Each adjustment under paragraph (1) shall take effect on the first January 1 occurring after the date on which the Secretary of the Treasury publishes the adjustment.</text>
+                                </paragraph>
+                            </subsection>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id1c567fff5f4c41ef92ab87a867924371">
+                <enum>(b)</enum>
+                <header>Thresholds for suspicious activity reports</header>
+ <text>Not later than 180 days after the date of enactment of this Act, the head of each Federal agency that issues regulations with respect to reports on suspicious transactions described under section 5318(g) of title 31, United States Code, shall update each threshold amount under such regulations that is $2,000 to be $3,000 and each threshold amount under such regulations that is $5,000 to be $10,000.</text>
+            </subsection>
+            <subsection id="id664410e8e09e475a90660222050ed186">
+                <enum>(c)</enum>
+                <header>Review and report</header>
+ <text>Not later than 360 days after the date of enactment of this Act, the Secretary of the Treasury shall—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id4ad060dcee954556b9fe8ed2c7ee6087">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">review the forms and reporting and recordkeeping requirements issued pursuant to sections 5313, 5315, and 5318 of title 31, United States Code, which shall include an analysis on the aggregation, prioritization, and automation of those forms and requirements, to ensure that such forms and reporting requirements are effective and efficient in identifying illicit finance activity;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idce4979d571a24e0d8aaffe07eeb23f5b">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">update the forms and requirements described in paragraph (1) as the Secretary of the Treasury determines necessary and consistent with section 5318(g)(5) of title 31, United States Code;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id28c81b512cc14f0bbf0f804d21de97a6">
+                    <enum>(3)</enum>
+ <text display-inline="yes-display-inline">conduct the reviews and submit the reports required under sections 6204, 6205, and 6216 of the Anti-Money Laundering Act of 2020 (division F of the William M. (Mac) Thornberry National Defense Authorization Act for Fiscal Year 2021; 134 Stat. 4569; <external-xref legal-doc="usc" parsable-cite="usc/31/5313">31 U.S.C. 5313</external-xref> note, <external-xref legal-doc="usc" parsable-cite="usc/31/5311">31 U.S.C. 5311</external-xref> note); and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id158af62857744ab68eedbb810235b264">
+                    <enum>(4)</enum>
+ <text display-inline="yes-display-inline">submit to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives a report that—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id9207f4bec47d41d58809297b2d4b20e8">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">summarizes the results of the review conducted under paragraph (1); and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idef3f37c92af14944b942ce0c8d8ba7a8">
+                        <enum>(B)</enum>
+ <text display-inline="yes-display-inline">includes recommendations for updating the forms and requirements described in paragraph (1).</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="idb1d424c779694cbbb027a05286e5a453">
+                <enum>(d)</enum>
+                <header>Rule of construction</header>
+ <text>Nothing in this section shall be construed to—</text> <paragraph commented="no" display-inline="no-display-inline" id="id46c6128c6c9641e39d1bbb7d96bd5669"> <enum>(1)</enum> <text display-inline="yes-display-inline">alter the ability of the Secretary of the Treasury to issue geographic targeting orders pursuant to section 5326 of title 31, United States Code;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id59a6ca7c053f4a679623df60aa608912">
+                    <enum>(2)</enum>
+ <text display-inline="yes-display-inline">alter any legal grounds for any geographic targeting order issued on or before the date of enactment of this Act; or</text>
+                </paragraph>
+                <paragraph id="id0d2088f41213463c851b5cc9fb342c83">
+                    <enum>(3)</enum>
+ <text>alter the ability of the Secretary of the Treasury to reduce reporting thresholds when consistent with all applicable law.</text>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

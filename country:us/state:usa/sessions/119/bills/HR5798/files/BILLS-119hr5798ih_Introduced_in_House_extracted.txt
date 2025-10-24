@@ -1,0 +1,203 @@
+Title: 
+Official Title: To amend the Cranston-Gonzalez National Affordable Housing Act to encourage expansion of the supply of decent, safe, sanitary, and affordable housing, with primary attention to rental housing, and for other purposes.
+Number of Sections: 15
+Source: versions - Introduced in House
+Media Type: text/xml
+
+================================================================================
+
+Section 1:
+1.Short title
+ This Act may be cited as the HOME Reform Act of 2025.
+
+Section 2:
+2.Definitions; assistance for low-income families 
+(a)DefinitionsSection 104 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12704) is amended— (1)in paragraph (6)(B), by striking significant; and 
+(2)by adding at end the following new paragraph:  (26)The term infill housing project means a residential housing project that— 
+(A)is located within the geographic limits of a municipality; (B)is adequately served by existing utilities and public services as required under applicable law; 
+(C)is located on a site of previously disturbed land of not more than 5 acres; and (D)is substantially surrounded by residential or commercial development, as determined by the Secretary. .  
+
+        (b)
+        Assistance for low-Income families
+ Title II of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12721 et seq.) is amended—
+        
+          (1)
+ in section 214(2), by striking households that qualify as low-income families and inserting families with a household income that does not exceed 100 percent of the median family income of the area, as determined by the Secretary with adjustments for smaller and larger families;
+        
+        
+          (2)
+ in section 215—  (A) in subsection (b)(2), by striking whose family qualifies as a low-income family and inserting with a family income that does not exceed 100 percent of the median family income of the area as determined by the Secretary with adjustments for smaller and larger families; and
+          
+          
+            (B)
+ in subsection (b)(3)(A)(ii), by striking low-income homebuyers and inserting homebuyers with a household income that does not exceed 100 percent of the median family income of the area, as determined by the Secretary with adjustments for smaller and larger families; and
+          
+        
+        
+          (3)
+ in section 271(c)—  (A) in paragraph (1)(B), by striking low-income and inserting families with a household income that does not exceed 100 percent of the median family income of the area as determined by the Secretary with adjustments for smaller and larger families; and
+          
+          
+            (B)
+ in paragraph (2)(A), by striking low-income families and inserting families with a household income that does not exceed 100 percent of the median family income of the area as determined by the Secretary with adjustments for smaller and larger families.
+
+Section 3:
+3.Choices made by participating jurisdictionsSection 212(a)(2) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12742) is amended to read as follows:  (2)Limitation on restrictionsThe Secretary shall not restrict a participating jurisdiction’s choice of rehabilitation, substantial rehabilitation, new construction, reconstruction, acquisition, or other eligible housing use unless such restriction is explicitly authorized under section 223(2)..
+
+Section 4:
+4.Use of amounts by certain jurisdictions for infrastructure improvements 
+(a)Use of investments for housing uses 
+(1)In generalSection 212(a) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12742(a)) is amended by inserting after paragraph (3) the following new paragraph:  (4)Infrastructure improvements in nonentitlement areasIn accordance with regulations to be issued by the Secretary, funds provided under this subtitle may be used for infrastructure improvements, including the installation or repair of water and sewer lines, sidewalks, roads, and utility connections, in any jurisdiction that does not receive assistance under title I of the Housing and Community Development Act of 1974, if such improvements are directly related to, and located within or immediately adjacent to— 
+(A)housing assisted under this subtitle; or (B)housing assisted by section 42 of the Internal Revenue Code of 1986.. 
+(2)Issuance of rulesNot later than 1 year after the date of the enactment of this Act, the Secretary shall issue such rules as the Secretary determines necessary to carry out the amendment made by paragraph (1). (3)Rule of constructionNothing in the amendment made by paragraph (1) shall be construed to impose any requirements of the HOME Investment Partnerships program on housing that benefits from the infrastructure improvements described in such amendment but otherwise does not receive any assistance from such program.  
+(b)Per unit investment limitationsSection 212(e)(1) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12742(e)(1)) is amended by striking the second sentence.
+
+Section 5:
+5.Affordable rental housing qualificationsSection 215(a) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12745(a)) is amended by adding at the end the following new paragraph: 
+ 
+(7)Exception for housing choice vouchersNotwithstanding paragraph (1)(A), a rental unit shall be considered to qualify as affordable housing under this title if— (A)the unit is occupied by a tenant receiving tenant-based rental assistance under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f); 
+(B)the tenant’s contribution toward rent does not exceed the amount permitted under such section 8 assistance; and (C)the total rent for the unit does not exceed the amount approved by the public housing agency administering the assistance under that program..
+
+Section 6:
+6.Affordable homeownership housing qualificationsSection 215 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12745(b)) is amended— (1)in subsection (b), 
+(A)in paragraph (1), by striking 95 percent and inserting 110 percent; (B)in paragraph (3)— 
+(i)in subparagraph (A)(ii), by striking or at the end; (ii)in subparagraph (B), by striking and at the end and inserting or; and 
+(iii)by adding at the end the following new subparagraph:   (C) maintain long-term affordability through a shared equity ownership model, a community land trust, a limited equity cooperative, a community development corporation, or other mechanism approved by the Secretary, that preserves affordability for future eligible homebuyers and ensures compliance with the purposes of this title, including through the use of purchase options, rights of first refusal, or other preemptive rights to purchase housing; and
+              ; and 
+(2)by adding at the end the following:  (c)Permissible exceptions related to homeownership qualifications (1)Military membersA participating jurisdiction, in accordance with terms established by the Secretary, may suspend or waive the income qualifications described in subsection (b)(2) with respect to housing that otherwise meets the criteria under subsection (b) if the owner of the housing— 
+
+                (A)
+ is a member of a regular component of the Armed Forces or a member of the National Guard on full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as those terms are defined in section 101(d) of title 10, United States Code); and
+               
+(B)has received— (i)temporary duty orders to deploy with a military unit or military orders to deploy as an individual acting in support of a military operation, to a location that is not within a reasonable distance from the housing, as determined by the Secretary, for a period of not less than 90 days; or 
+(ii)orders for a permanent change of station. (2)Suspension or waiver of requirements for heir or beneficiary of deceased ownerNotwithstanding subsection (b)(3), housing that meets the criteria under that subsection prior to the death of an owner may continue to qualify as affordable housing if— 
+(A)the housing is the principal residence of an heir or beneficiary of the deceased owner, as defined by the Secretary; and (B)the heir or beneficiary, in accordance with terms established by the Secretary, assumes the duties and obligations of the deceased owner with respect to funds provided under this title..
+
+Section 7:
+7.Removal of expiration of right to draw home investment trust fundsSection 218 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12748) is amended— (1)by striking subsection (g); and 
+(2)by redesignating subsection (h) as subsection (g).
+
+Section 8:
+8.Adjusted recapture and reuse of set-aside for community housing developmental organizationsSection 231(b) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12771(b)) is amended to read as follows: 
+ 
+(b)Recapture and reuseIf any funds reserved under subsection (a) remain uninvested for a period of 24 months, the Secretary shall make such funds available to the participating jurisdiction for any eligible activities under this title without regard to whether a community housing development organization materially participates in the use of funds..
+
+Section 9:
+9.Asset recycling information dissemination expansionSection 245(b)(2) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12785(b)(2)) is amended by striking 95 percent and inserting 110 percent.
+
+Section 10:
+10.Small-project exemption to labor requirements expansionSection 286(a) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12836(a)) is amended by striking 12 or more units and inserting 24 or more units.
+
+Section 11:
+11.Environmental review requirements (a)Categorical exemptions; removing duplicative reviewsSection 288 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12838) is amended by adding at the end the following new subsections: 
+ 
+(e)Categorical exemptionsThe following categories of activities carried out under this title shall be statutorily exempt from environmental review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and shall not require further review under such Act— (1)new construction infill housing projects; 
+(2)acquisition of real property for affordable housing purposes; (3)rehabilitation projects carried out pursuant to section 212(a)(1); and 
+(4)new construction projects of 15 units or less. (f)Removing duplicative reviews (1)In generalTo the extent practicable and permitted by law, the Secretary shall ensure that a project that has undergone an environmental review under this section shall not be subject to a duplicative environmental review solely due to the addition, substitution, or reallocation of other sources of Federal assistance, if the scope, scale, and location of the project remain substantially unchanged. 
+(2)Coordination of environmental review responsibilitiesThe Secretary shall, by regulation, provide for coordination of environmental review responsibilities with other Federal agencies to streamline inter-agency compliance and avoid unnecessary duplication of effort under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and other applicable laws. (3)Recognition of prior reviews by responsible entitiesA project may not be subject to an environmental review under this section if a substantially similar review has already been completed by an entity designated under section 104(g)(1) of the Housing and Community Development Act of 1974 (42 U.S.C. 5304(g)(1)) or by another entity the Secretary determines to have equivalent authority, if the scope, scale, and location of the project remain substantially unchanged.. 
+(b)Issuance of rulesNot later than 1 year after the date of the enactment of this Act, the Secretary shall issue such rules as the Secretary determines necessary to carry out the amendment made by this subsection.
+
+Section 12:
+12.Application of other specified statutory requirementsTitle II of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12721 et seq.) is amended by adding at the end the following new sections: 
+ 
+291.Application of build America, buy America requirementsThe Build America, Buy America Act (41 U.S.C. 8301 note; subtitle A of title IX of Public Law 117–58), and any implementing regulations or guidance, shall not apply to activities assisted under this title.  292.Nonapplicability of certain requirements for small projectsNotwithstanding any other provision of law, the requirements of section 3 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701u), and any implementing regulations or guidance, shall not apply to any activity assisted under title that involves rehabilitation, construction, or other development of housing if the total number of dwelling units assisted under the activity is 50 or fewer and if such assistance is provided to— 
+(1)a State recipient pursuant to section 216; or (2)a participating jurisdiction that received a total allocation of less than $3,000,000 in the most recent fiscal year pursuant to section 216..
+
+Section 13:
+291.Application of build America, buy America requirementsThe Build America, Buy America Act (41 U.S.C. 8301 note; subtitle A of title IX of Public Law 117–58), and any implementing regulations or guidance, shall not apply to activities assisted under this title.
+
+Section 14:
+292.Nonapplicability of certain requirements for small projectsNotwithstanding any other provision of law, the requirements of section 3 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701u), and any implementing regulations or guidance, shall not apply to any activity assisted under title that involves rehabilitation, construction, or other development of housing if the total number of dwelling units assisted under the activity is 50 or fewer and if such assistance is provided to— 
+(1)a State recipient pursuant to section 216; or (2)a participating jurisdiction that received a total allocation of less than $3,000,000 in the most recent fiscal year pursuant to section 216.
+
+Section 15:
+13.Technical amendmentsThe Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12701 et seq.) is amended— (1)by striking Stewart B. McKinney Homeless Assistance Act each place it appears and inserting McKinney-Vento Homeless Assistance Act; and 
+(2)by striking Committee on Banking, Finance and Urban Affairs each place it appears and inserting Committee on Financial Services.
+
+
+================================================================================
+
+Raw Text:
+119 HR 5798 IH: HOME Reform Act of 2025
+U.S. House of Representatives
+2025-10-21
+text/xml
+EN
+Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.
+
+
+
+I119th CONGRESS1st SessionH. R. 5798IN THE HOUSE OF REPRESENTATIVESOctober 21, 2025Mr. Flood (for himself and Mr. Cleaver) introduced the following bill; which was referred to the Committee on Financial ServicesA BILLTo amend the Cranston-Gonzalez National Affordable Housing Act to encourage expansion of the supply of decent, safe, sanitary, and affordable housing, with primary attention to rental housing, and for other purposes. 
+1.Short title
+ This Act may be cited as the HOME Reform Act of 2025. 
+2.Definitions; assistance for low-income families 
+(a)DefinitionsSection 104 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12704) is amended— (1)in paragraph (6)(B), by striking significant; and 
+(2)by adding at end the following new paragraph:  (26)The term infill housing project means a residential housing project that— 
+(A)is located within the geographic limits of a municipality; (B)is adequately served by existing utilities and public services as required under applicable law; 
+(C)is located on a site of previously disturbed land of not more than 5 acres; and (D)is substantially surrounded by residential or commercial development, as determined by the Secretary. .  
+
+        (b)
+        Assistance for low-Income families
+ Title II of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12721 et seq.) is amended—
+        
+          (1)
+ in section 214(2), by striking households that qualify as low-income families and inserting families with a household income that does not exceed 100 percent of the median family income of the area, as determined by the Secretary with adjustments for smaller and larger families;
+        
+        
+          (2)
+ in section 215—  (A) in subsection (b)(2), by striking whose family qualifies as a low-income family and inserting with a family income that does not exceed 100 percent of the median family income of the area as determined by the Secretary with adjustments for smaller and larger families; and
+          
+          
+            (B)
+ in subsection (b)(3)(A)(ii), by striking low-income homebuyers and inserting homebuyers with a household income that does not exceed 100 percent of the median family income of the area, as determined by the Secretary with adjustments for smaller and larger families; and
+          
+        
+        
+          (3)
+ in section 271(c)—  (A) in paragraph (1)(B), by striking low-income and inserting families with a household income that does not exceed 100 percent of the median family income of the area as determined by the Secretary with adjustments for smaller and larger families; and
+          
+          
+            (B)
+ in paragraph (2)(A), by striking low-income families and inserting families with a household income that does not exceed 100 percent of the median family income of the area as determined by the Secretary with adjustments for smaller and larger families.
+          
+        
+       
+3.Choices made by participating jurisdictionsSection 212(a)(2) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12742) is amended to read as follows:  (2)Limitation on restrictionsThe Secretary shall not restrict a participating jurisdiction’s choice of rehabilitation, substantial rehabilitation, new construction, reconstruction, acquisition, or other eligible housing use unless such restriction is explicitly authorized under section 223(2).. 
+4.Use of amounts by certain jurisdictions for infrastructure improvements 
+(a)Use of investments for housing uses 
+(1)In generalSection 212(a) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12742(a)) is amended by inserting after paragraph (3) the following new paragraph:  (4)Infrastructure improvements in nonentitlement areasIn accordance with regulations to be issued by the Secretary, funds provided under this subtitle may be used for infrastructure improvements, including the installation or repair of water and sewer lines, sidewalks, roads, and utility connections, in any jurisdiction that does not receive assistance under title I of the Housing and Community Development Act of 1974, if such improvements are directly related to, and located within or immediately adjacent to— 
+(A)housing assisted under this subtitle; or (B)housing assisted by section 42 of the Internal Revenue Code of 1986.. 
+(2)Issuance of rulesNot later than 1 year after the date of the enactment of this Act, the Secretary shall issue such rules as the Secretary determines necessary to carry out the amendment made by paragraph (1). (3)Rule of constructionNothing in the amendment made by paragraph (1) shall be construed to impose any requirements of the HOME Investment Partnerships program on housing that benefits from the infrastructure improvements described in such amendment but otherwise does not receive any assistance from such program.  
+(b)Per unit investment limitationsSection 212(e)(1) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12742(e)(1)) is amended by striking the second sentence. 5.Affordable rental housing qualificationsSection 215(a) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12745(a)) is amended by adding at the end the following new paragraph: 
+ 
+(7)Exception for housing choice vouchersNotwithstanding paragraph (1)(A), a rental unit shall be considered to qualify as affordable housing under this title if— (A)the unit is occupied by a tenant receiving tenant-based rental assistance under section 8 of the United States Housing Act of 1937 (42 U.S.C. 1437f); 
+(B)the tenant’s contribution toward rent does not exceed the amount permitted under such section 8 assistance; and (C)the total rent for the unit does not exceed the amount approved by the public housing agency administering the assistance under that program.. 
+6.Affordable homeownership housing qualificationsSection 215 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12745(b)) is amended— (1)in subsection (b), 
+(A)in paragraph (1), by striking 95 percent and inserting 110 percent; (B)in paragraph (3)— 
+(i)in subparagraph (A)(ii), by striking or at the end; (ii)in subparagraph (B), by striking and at the end and inserting or; and 
+(iii)by adding at the end the following new subparagraph:   (C) maintain long-term affordability through a shared equity ownership model, a community land trust, a limited equity cooperative, a community development corporation, or other mechanism approved by the Secretary, that preserves affordability for future eligible homebuyers and ensures compliance with the purposes of this title, including through the use of purchase options, rights of first refusal, or other preemptive rights to purchase housing; and
+              ; and 
+(2)by adding at the end the following:  (c)Permissible exceptions related to homeownership qualifications (1)Military membersA participating jurisdiction, in accordance with terms established by the Secretary, may suspend or waive the income qualifications described in subsection (b)(2) with respect to housing that otherwise meets the criteria under subsection (b) if the owner of the housing— 
+
+                (A)
+ is a member of a regular component of the Armed Forces or a member of the National Guard on full-time National Guard duty, active Guard and Reserve duty, or inactive-duty training (as those terms are defined in section 101(d) of title 10, United States Code); and
+               
+(B)has received— (i)temporary duty orders to deploy with a military unit or military orders to deploy as an individual acting in support of a military operation, to a location that is not within a reasonable distance from the housing, as determined by the Secretary, for a period of not less than 90 days; or 
+(ii)orders for a permanent change of station. (2)Suspension or waiver of requirements for heir or beneficiary of deceased ownerNotwithstanding subsection (b)(3), housing that meets the criteria under that subsection prior to the death of an owner may continue to qualify as affordable housing if— 
+(A)the housing is the principal residence of an heir or beneficiary of the deceased owner, as defined by the Secretary; and (B)the heir or beneficiary, in accordance with terms established by the Secretary, assumes the duties and obligations of the deceased owner with respect to funds provided under this title.. 
+7.Removal of expiration of right to draw home investment trust fundsSection 218 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12748) is amended— (1)by striking subsection (g); and 
+(2)by redesignating subsection (h) as subsection (g). 8.Adjusted recapture and reuse of set-aside for community housing developmental organizationsSection 231(b) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12771(b)) is amended to read as follows: 
+ 
+(b)Recapture and reuseIf any funds reserved under subsection (a) remain uninvested for a period of 24 months, the Secretary shall make such funds available to the participating jurisdiction for any eligible activities under this title without regard to whether a community housing development organization materially participates in the use of funds.. 9.Asset recycling information dissemination expansionSection 245(b)(2) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12785(b)(2)) is amended by striking 95 percent and inserting 110 percent. 
+10.Small-project exemption to labor requirements expansionSection 286(a) of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12836(a)) is amended by striking 12 or more units and inserting 24 or more units. 11.Environmental review requirements (a)Categorical exemptions; removing duplicative reviewsSection 288 of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12838) is amended by adding at the end the following new subsections: 
+ 
+(e)Categorical exemptionsThe following categories of activities carried out under this title shall be statutorily exempt from environmental review under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.), and shall not require further review under such Act— (1)new construction infill housing projects; 
+(2)acquisition of real property for affordable housing purposes; (3)rehabilitation projects carried out pursuant to section 212(a)(1); and 
+(4)new construction projects of 15 units or less. (f)Removing duplicative reviews (1)In generalTo the extent practicable and permitted by law, the Secretary shall ensure that a project that has undergone an environmental review under this section shall not be subject to a duplicative environmental review solely due to the addition, substitution, or reallocation of other sources of Federal assistance, if the scope, scale, and location of the project remain substantially unchanged. 
+(2)Coordination of environmental review responsibilitiesThe Secretary shall, by regulation, provide for coordination of environmental review responsibilities with other Federal agencies to streamline inter-agency compliance and avoid unnecessary duplication of effort under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) and other applicable laws. (3)Recognition of prior reviews by responsible entitiesA project may not be subject to an environmental review under this section if a substantially similar review has already been completed by an entity designated under section 104(g)(1) of the Housing and Community Development Act of 1974 (42 U.S.C. 5304(g)(1)) or by another entity the Secretary determines to have equivalent authority, if the scope, scale, and location of the project remain substantially unchanged.. 
+(b)Issuance of rulesNot later than 1 year after the date of the enactment of this Act, the Secretary shall issue such rules as the Secretary determines necessary to carry out the amendment made by this subsection.  12.Application of other specified statutory requirementsTitle II of the Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12721 et seq.) is amended by adding at the end the following new sections: 
+ 
+291.Application of build America, buy America requirementsThe Build America, Buy America Act (41 U.S.C. 8301 note; subtitle A of title IX of Public Law 117–58), and any implementing regulations or guidance, shall not apply to activities assisted under this title.  292.Nonapplicability of certain requirements for small projectsNotwithstanding any other provision of law, the requirements of section 3 of the Housing and Urban Development Act of 1968 (12 U.S.C. 1701u), and any implementing regulations or guidance, shall not apply to any activity assisted under title that involves rehabilitation, construction, or other development of housing if the total number of dwelling units assisted under the activity is 50 or fewer and if such assistance is provided to— 
+(1)a State recipient pursuant to section 216; or (2)a participating jurisdiction that received a total allocation of less than $3,000,000 in the most recent fiscal year pursuant to section 216.. 
+13.Technical amendmentsThe Cranston-Gonzalez National Affordable Housing Act (42 U.S.C. 12701 et seq.) is amended— (1)by striking Stewart B. McKinney Homeless Assistance Act each place it appears and inserting McKinney-Vento Homeless Assistance Act; and 
+(2)by striking Committee on Banking, Finance and Urban Affairs each place it appears and inserting Committee on Financial Services.
