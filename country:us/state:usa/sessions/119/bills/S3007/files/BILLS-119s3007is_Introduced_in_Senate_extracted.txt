@@ -1,0 +1,118 @@
+Title: 
+Official Title: To prohibit the enforcement of laws relating to the installation,
+            certification, and maintenance of emissions control devices under the Clean Air Act, and
+            for other purposes.
+Number of Sections: 2
+Source: versions - Introduced in Senate
+Media Type: text/xml
+
+================================================================================
+
+Section 1:
+1.
+            Short title
+ This Act may be cited as the Diesel Truck Liberation Act of 2025.
+
+Section 2:
+2.
+            Prohibition on enforcement of emissions control device laws
+            
+                (a)
+                In general
+ Notwithstanding any other provision of law, including title II of the Clean Air Act (42 U.S.C. 7521 et seq.), no Federal law (including regulations and Executive orders) may require a manufacturer, importer, or distributor of motor vehicles or motor vehicle engines to install, certify, or maintain any emissions control device or onboard diagnostic system on any motor vehicle or motor vehicle engine.
+            
+            
+                (b)
+                No authority
+ The Administrator of the Environmental Protection Agency may not promulgate or enforce any requirement under the Clean Air Act (42 U.S.C. 7401 et seq.) (including a regulation promulgated under that Act) or any other Federal law (including regulations) that requires the installation or maintenance of emissions control devices or onboard diagnostic systems on motor vehicles or motor vehicle engines.
+            
+            
+                (c)
+                No liability
+ Notwithstanding any other provision of law, no person or entity shall be subject to civil or criminal liability under any Federal law (including regulations) for the manufacture, sale, importation, purchase, use, or modification of a motor vehicle or motor vehicle engine that does not contain an emissions control device or onboard diagnostic system.
+            
+            
+                (d)
+                Repeal of regulations
+ Any regulation promulgated under the Clean Air Act (42 U.S.C. 7401 et seq.) or any other Federal law related to the installation, modification, or removal of emissions control devices or onboard diagnostic systems on motor vehicles or motor vehicle engines shall have no force or effect.
+            
+            
+                (e)
+                Vacatur; expungement
+ With respect to any of the conduct described in this section for which criminal or civil liability has attached—
+                
+                    (1)
+ any criminal penalty of imprisonment shall be vacated; and
+                
+                
+                    (2)
+ any record of a finding with respect to that criminal or civil liability shall be expunged.
+
+
+================================================================================
+
+Raw Text:
+119 S3007 IS: Diesel Truck Liberation Act of 2025
+U.S. Senate
+2025-10-14
+text/xml
+EN
+Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.
+
+
+
+        II
+        119th CONGRESS
+        1st Session
+        S. 3007
+        IN THE SENATE OF THE UNITED STATES
+        
+            October 14, 2025
+            Ms. Lummis introduced the following bill;
+                which was read twice and referred to the Committee on Environment and Public Works
+        
+        A BILL
+        To prohibit the enforcement of laws relating to the installation,
+            certification, and maintenance of emissions control devices under the Clean Air Act, and
+            for other purposes.
+    
+    
+        
+            1.
+            Short title
+ This Act may be cited as the Diesel Truck Liberation Act of 2025.
+        
+        
+            2.
+            Prohibition on enforcement of emissions control device laws
+            
+                (a)
+                In general
+ Notwithstanding any other provision of law, including title II of the Clean Air Act (42 U.S.C. 7521 et seq.), no Federal law (including regulations and Executive orders) may require a manufacturer, importer, or distributor of motor vehicles or motor vehicle engines to install, certify, or maintain any emissions control device or onboard diagnostic system on any motor vehicle or motor vehicle engine.
+            
+            
+                (b)
+                No authority
+ The Administrator of the Environmental Protection Agency may not promulgate or enforce any requirement under the Clean Air Act (42 U.S.C. 7401 et seq.) (including a regulation promulgated under that Act) or any other Federal law (including regulations) that requires the installation or maintenance of emissions control devices or onboard diagnostic systems on motor vehicles or motor vehicle engines.
+            
+            
+                (c)
+                No liability
+ Notwithstanding any other provision of law, no person or entity shall be subject to civil or criminal liability under any Federal law (including regulations) for the manufacture, sale, importation, purchase, use, or modification of a motor vehicle or motor vehicle engine that does not contain an emissions control device or onboard diagnostic system.
+            
+            
+                (d)
+                Repeal of regulations
+ Any regulation promulgated under the Clean Air Act (42 U.S.C. 7401 et seq.) or any other Federal law related to the installation, modification, or removal of emissions control devices or onboard diagnostic systems on motor vehicles or motor vehicle engines shall have no force or effect.
+            
+            
+                (e)
+                Vacatur; expungement
+ With respect to any of the conduct described in this section for which criminal or civil liability has attached—
+                
+                    (1)
+ any criminal penalty of imprisonment shall be vacated; and
+                
+                
+                    (2)
+ any record of a finding with respect to that criminal or civil liability shall be expunged.

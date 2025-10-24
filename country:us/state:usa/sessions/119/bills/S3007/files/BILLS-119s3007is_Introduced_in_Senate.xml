@@ -1,0 +1,76 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MAZ25656-W5R-45-46L">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3007 IS: Diesel Truck Liberation Act of 2025</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3007</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251014">October 14, 2025</action-date>
+            <action-desc><sponsor name-id="S410">Ms. Lummis</sponsor> introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSEV00">Committee on Environment and Public Works</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To prohibit the enforcement of laws relating to the installation,
+            certification, and maintenance of emissions control devices under the Clean Air Act, and
+            for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Diesel Truck Liberation Act of 2025</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id3620fc8b0ad8416294a7982968e38230">
+            <enum>2.</enum>
+            <header>Prohibition on enforcement of emissions control device laws</header>
+            <subsection commented="no" display-inline="no-display-inline" id="id07ae6fdca23849a0a173de023f2c3d2e">
+                <enum>(a)</enum>
+                <header>In general</header>
+ <text>Notwithstanding any other provision of law, including title II of the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7521">42 U.S.C. 7521 et seq.</external-xref>), no Federal law (including regulations and Executive orders) may require a manufacturer, importer, or distributor of motor vehicles or motor vehicle engines to install, certify, or maintain any emissions control device or onboard diagnostic system on any motor vehicle or motor vehicle engine.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idc55b340ecb5b419f8db52f31438c81ec">
+                <enum>(b)</enum>
+                <header>No authority</header>
+ <text>The Administrator of the Environmental Protection Agency may not promulgate or enforce any requirement under the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7401">42 U.S.C. 7401 et seq.</external-xref>) (including a regulation promulgated under that Act) or any other Federal law (including regulations) that requires the installation or maintenance of emissions control devices or onboard diagnostic systems on motor vehicles or motor vehicle engines.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idb29a8aa7548a47478e5193fdee4d8134">
+                <enum>(c)</enum>
+                <header>No liability</header>
+ <text>Notwithstanding any other provision of law, no person or entity shall be subject to civil or criminal liability under any Federal law (including regulations) for the manufacture, sale, importation, purchase, use, or modification of a motor vehicle or motor vehicle engine that does not contain an emissions control device or onboard diagnostic system.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id88536c023bd140aba39e18ecf2cb46d0">
+                <enum>(d)</enum>
+                <header>Repeal of regulations</header>
+ <text>Any regulation promulgated under the Clean Air Act (<external-xref legal-doc="usc" parsable-cite="usc/42/7401">42 U.S.C. 7401 et seq.</external-xref>) or any other Federal law related to the installation, modification, or removal of emissions control devices or onboard diagnostic systems on motor vehicles or motor vehicle engines shall have no force or effect.</text>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id29b6086ef46947fa931d6001028429dc">
+                <enum>(e)</enum>
+                <header>Vacatur; expungement</header>
+ <text>With respect to any of the conduct described in this section for which criminal or civil liability has attached—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id3beeb4bf6e4e42f080532691058e8021">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">any criminal penalty of imprisonment shall be vacated; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id62a9b24c52c347d0b2690d8aa032c288">
+                    <enum>(2)</enum>
+ <text>any record of a finding with respect to that criminal or civil liability shall be expunged.</text>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
