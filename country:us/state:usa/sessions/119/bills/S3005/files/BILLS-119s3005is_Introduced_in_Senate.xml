@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-EHF25A53-7T5-8P-HX6">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3005 IS: Non-Essential Workers Transparency Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-14</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3005</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251014">October 14, 2025</action-date>
+            <action-desc><sponsor name-id="S376">Ms. Ernst</sponsor> introduced the following bill;
+                which was read twice and referred to the <committee-name committee-id="SSGA00">Committee on Homeland Security and Governmental
+                Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require Executive agencies to submit reports to Congress and to the
+            Office of Personnel Management regarding employees who are furloughed during any period
+            during which there is a lapse in appropriations, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Non-Essential Workers Transparency Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="ida849efe391924a8fbf33848822aea7b9">
+            <enum>2.</enum>
+            <header>Reporting requirements</header>
+            <subsection commented="no" display-inline="no-display-inline" id="idfe94145e6ed445df86518215a7ddaac8">
+                <enum>(a)</enum>
+                <header>Definitions</header>
+ <text>In this section:</text> <paragraph commented="no" display-inline="no-display-inline" id="id5d477ad4ad2a4e4a8aab94291f696e3e"> <enum>(1)</enum> <header>Appropriate congressional committees</header> <text>The term <term>appropriate congressional committees</term> means, with respect to an Executive agency—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idb86e39499aa14c5b84ef96a3e312cd13">
+                        <enum>(A)</enum>
+ <text display-inline="yes-display-inline">the Committee on Homeland Security and Governmental Affairs of the Senate;</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="ida9586403a1364f3f931cca94050a0eb6">
+                        <enum>(B)</enum>
+ <text>the Committee on Oversight and Government Reform of the House of Representatives; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="iddee52871509f4dd3a62eef47bad1c7af">
+                        <enum>(C)</enum>
+ <text>any other committee of Congress with jurisdiction with respect to the Executive agency.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id4964e98ffc4642228c86889efea7f19f">
+                    <enum>(2)</enum>
+                    <header display-inline="yes-display-inline">Covered employee</header>
+ <text>The term <term>covered employee</term> means an employee of an Executive agency who is subject to furlough during a covered period with respect to that Executive agency.</text>
+                </paragraph>
+                <paragraph id="idf223e55805f0451c94baec5e1c42e62f">
+                    <enum>(3)</enum>
+                    <header>Covered period</header>
+ <text>The term <term>covered period</term> means a period during which there is a lapse in appropriations with respect to an Executive agency.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="ida74727d5e6624179bded00926694d07e">
+                    <enum>(4)</enum>
+                    <header display-inline="yes-display-inline">Director</header>
+ <text>The term <term>Director</term> means the Director of the Office of Personnel Management.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idc32389aff6694369a4a9594e220f9e32">
+                    <enum>(5)</enum>
+                    <header display-inline="yes-display-inline">Executive agency</header>
+ <text>The term <term>Executive agency</term> has the meaning given the term in section 105 of title 5, United States Code.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="id0044ef22c2a34501bdf1ea971def9a0f">
+                <enum>(b)</enum>
+                <header>Requirements</header>
+ <text>Not later than 30 days after the date on which a covered period with respect to an Executive agency ends, the Under Secretary (or the equivalent) of that Executive agency shall electronically submit to the appropriate congressional committees with respect to that Executive agency, and to the Director, a report that contains—</text>
+                <paragraph commented="no" display-inline="no-display-inline" id="id6ccbd2ed8fdb4cb6aec5c764dfdd7361">
+                    <enum>(1)</enum>
+ <text>the total number of employees (including contract employees) employed by the Executive agency, as of the day before the day on which that covered period began;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id83343583383648f9b854591bab7de24a">
+                    <enum>(2)</enum>
+ <text>the total amount expended by the Executive agency on salaries of employees during the fiscal year preceding the fiscal year in which that covered period began;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="ida70d74c0565042ae873c462b468c5a36">
+                    <enum>(3)</enum>
+ <text>the total number of employees of the Executive agency who were covered employees during that covered period;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id01bd5c049a9f4c3cb29aa2a2c6bb74f1">
+                    <enum>(4)</enum>
+ <text>the sum obtained by adding the annual rate of basic pay of each employee described in paragraph (3);</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idbffb106741d940d2b06a22f094e9b2e6">
+                    <enum>(5)</enum>
+ <text>the total number of employees of the Executive agency who were not covered employees during that covered period; and</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id549697eb2a0142ab81f7668a44d65c63">
+                    <enum>(6)</enum>
+ <text>the sum obtained by adding the annual rate of basic pay of each employee described in paragraph (5).</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idf05fe64ec81f4441909c47f16f3b4854">
+                <enum>(c)</enum>
+                <header>Procedures</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id7a008d7073244eaaaef8226465eb7ac0">
+                    <enum>(1)</enum>
+                    <header>Classification</header>
+ <text>Each Executive agency submitting a report under subsection (b), or an update to such a report, shall submit that report or update in unclassified form, but that report or update may include a classified annex.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id6e615f2f483f43a1a6d1db2ab98d615f">
+                    <enum>(2)</enum>
+                    <header>Publication</header>
+ <text>Not later than 30 days after the date on which an appropriate congressional committee receives a report submitted under subsection (b), that appropriate congressional committee shall publish the report on the website of the appropriate congressional committee.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id315b7dc55e5547768a51a8d9f06fa8bc">
+                    <enum>(3)</enum>
+                    <header>OPM requirements</header>
+ <text>Not later than 60 days after the date on which a covered period with respect to 1 or more Executive agencies ends, the Director shall—</text>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="id60a1078765c84e96a689fa4994941b73">
+                        <enum>(A)</enum>
+ <text>consolidate all reports submitted to the Director under subsection (b) with respect to that covered period into a single report; and</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="iddaa19e906df64cd89fc9ebbd1b5de017">
+                        <enum>(B)</enum>
+ <text>publish the consolidated report created under subparagraph (A) on the website of the Office of Personnel Management.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

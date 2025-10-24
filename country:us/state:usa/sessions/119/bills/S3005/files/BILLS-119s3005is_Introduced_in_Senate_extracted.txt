@@ -1,0 +1,239 @@
+Title: 
+Official Title: To require Executive agencies to submit reports to Congress and to the
+            Office of Personnel Management regarding employees who are furloughed during any period
+            during which there is a lapse in appropriations, and for other purposes.
+Number of Sections: 2
+Source: versions - Introduced in Senate
+Media Type: text/xml
+
+================================================================================
+
+Section 1:
+1.
+            Short title
+ This Act may be cited as the Non-Essential Workers Transparency Act.
+
+Section 2:
+2.
+            Reporting requirements
+            
+                (a)
+                Definitions
+ In this section:  (1) Appropriate congressional committees The term appropriate congressional committees means, with respect to an Executive agency—
+                    
+                        (A)
+ the Committee on Homeland Security and Governmental Affairs of the Senate;
+                    
+                    
+                        (B)
+ the Committee on Oversight and Government Reform of the House of Representatives; and
+                    
+                    
+                        (C)
+ any other committee of Congress with jurisdiction with respect to the Executive agency.
+                    
+                
+                
+                    (2)
+                    Covered employee
+ The term covered employee means an employee of an Executive agency who is subject to furlough during a covered period with respect to that Executive agency.
+                
+                
+                    (3)
+                    Covered period
+ The term covered period means a period during which there is a lapse in appropriations with respect to an Executive agency.
+                
+                
+                    (4)
+                    Director
+ The term Director means the Director of the Office of Personnel Management.
+                
+                
+                    (5)
+                    Executive agency
+ The term Executive agency has the meaning given the term in section 105 of title 5, United States Code.
+                
+            
+            
+                (b)
+                Requirements
+ Not later than 30 days after the date on which a covered period with respect to an Executive agency ends, the Under Secretary (or the equivalent) of that Executive agency shall electronically submit to the appropriate congressional committees with respect to that Executive agency, and to the Director, a report that contains—
+                
+                    (1)
+ the total number of employees (including contract employees) employed by the Executive agency, as of the day before the day on which that covered period began;
+                
+                
+                    (2)
+ the total amount expended by the Executive agency on salaries of employees during the fiscal year preceding the fiscal year in which that covered period began;
+                
+                
+                    (3)
+ the total number of employees of the Executive agency who were covered employees during that covered period;
+                
+                
+                    (4)
+ the sum obtained by adding the annual rate of basic pay of each employee described in paragraph (3);
+                
+                
+                    (5)
+ the total number of employees of the Executive agency who were not covered employees during that covered period; and
+                
+                
+                    (6)
+ the sum obtained by adding the annual rate of basic pay of each employee described in paragraph (5).
+                
+            
+            
+                (c)
+                Procedures
+                
+                    (1)
+                    Classification
+ Each Executive agency submitting a report under subsection (b), or an update to such a report, shall submit that report or update in unclassified form, but that report or update may include a classified annex.
+                
+                
+                    (2)
+                    Publication
+ Not later than 30 days after the date on which an appropriate congressional committee receives a report submitted under subsection (b), that appropriate congressional committee shall publish the report on the website of the appropriate congressional committee.
+                
+                
+                    (3)
+                    OPM requirements
+ Not later than 60 days after the date on which a covered period with respect to 1 or more Executive agencies ends, the Director shall—
+                    
+                        (A)
+ consolidate all reports submitted to the Director under subsection (b) with respect to that covered period into a single report; and
+                    
+                    
+                        (B)
+ publish the consolidated report created under subparagraph (A) on the website of the Office of Personnel Management.
+
+
+================================================================================
+
+Raw Text:
+119 S3005 IS: Non-Essential Workers Transparency Act
+U.S. Senate
+2025-10-14
+text/xml
+EN
+Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.
+
+
+
+        II
+        119th CONGRESS
+        1st Session
+        S. 3005
+        IN THE SENATE OF THE UNITED STATES
+        
+            October 14, 2025
+            Ms. Ernst introduced the following bill;
+                which was read twice and referred to the Committee on Homeland Security and Governmental
+                Affairs
+        
+        A BILL
+        To require Executive agencies to submit reports to Congress and to the
+            Office of Personnel Management regarding employees who are furloughed during any period
+            during which there is a lapse in appropriations, and for other purposes.
+    
+    
+        
+            1.
+            Short title
+ This Act may be cited as the Non-Essential Workers Transparency Act.
+        
+        
+            2.
+            Reporting requirements
+            
+                (a)
+                Definitions
+ In this section:  (1) Appropriate congressional committees The term appropriate congressional committees means, with respect to an Executive agency—
+                    
+                        (A)
+ the Committee on Homeland Security and Governmental Affairs of the Senate;
+                    
+                    
+                        (B)
+ the Committee on Oversight and Government Reform of the House of Representatives; and
+                    
+                    
+                        (C)
+ any other committee of Congress with jurisdiction with respect to the Executive agency.
+                    
+                
+                
+                    (2)
+                    Covered employee
+ The term covered employee means an employee of an Executive agency who is subject to furlough during a covered period with respect to that Executive agency.
+                
+                
+                    (3)
+                    Covered period
+ The term covered period means a period during which there is a lapse in appropriations with respect to an Executive agency.
+                
+                
+                    (4)
+                    Director
+ The term Director means the Director of the Office of Personnel Management.
+                
+                
+                    (5)
+                    Executive agency
+ The term Executive agency has the meaning given the term in section 105 of title 5, United States Code.
+                
+            
+            
+                (b)
+                Requirements
+ Not later than 30 days after the date on which a covered period with respect to an Executive agency ends, the Under Secretary (or the equivalent) of that Executive agency shall electronically submit to the appropriate congressional committees with respect to that Executive agency, and to the Director, a report that contains—
+                
+                    (1)
+ the total number of employees (including contract employees) employed by the Executive agency, as of the day before the day on which that covered period began;
+                
+                
+                    (2)
+ the total amount expended by the Executive agency on salaries of employees during the fiscal year preceding the fiscal year in which that covered period began;
+                
+                
+                    (3)
+ the total number of employees of the Executive agency who were covered employees during that covered period;
+                
+                
+                    (4)
+ the sum obtained by adding the annual rate of basic pay of each employee described in paragraph (3);
+                
+                
+                    (5)
+ the total number of employees of the Executive agency who were not covered employees during that covered period; and
+                
+                
+                    (6)
+ the sum obtained by adding the annual rate of basic pay of each employee described in paragraph (5).
+                
+            
+            
+                (c)
+                Procedures
+                
+                    (1)
+                    Classification
+ Each Executive agency submitting a report under subsection (b), or an update to such a report, shall submit that report or update in unclassified form, but that report or update may include a classified annex.
+                
+                
+                    (2)
+                    Publication
+ Not later than 30 days after the date on which an appropriate congressional committee receives a report submitted under subsection (b), that appropriate congressional committee shall publish the report on the website of the appropriate congressional committee.
+                
+                
+                    (3)
+                    OPM requirements
+ Not later than 60 days after the date on which a covered period with respect to 1 or more Executive agencies ends, the Director shall—
+                    
+                        (A)
+ consolidate all reports submitted to the Director under subsection (b) with respect to that covered period into a single report; and
+                    
+                    
+                        (B)
+ publish the consolidated report created under subparagraph (A) on the website of the Office of Personnel Management.
