@@ -1,0 +1,34 @@
+Title: 
+Official Title: Making continuing appropriations for essential Federal Aviation Administration and Transportation Security Administration pay and operations in the event of a Federal Government shutdown, and for other purposes.
+Number of Sections: 4
+Source: versions - Placed on Calendar Senate
+Media Type: text/xml
+
+================================================================================
+
+Section 1:
+1.Short titleThis Act may be cited as the Keep America Flying Act of 2026.
+
+Section 2:
+2.Continuing appropriations for air traffic controllers and transportation security personnel(a)In generalThere are hereby appropriated for fiscal year 2026, out of any money in the Treasury not otherwise appropriated, for the period beginning October 1, 2025, during which interim or full-year appropriations for fiscal year 2026 are not in effect—(1)such sums as are necessary to provide standard rates of pay, allowances, pay differentials, benefits, and other payments otherwise payable on a regular basis to air traffic controllers and other essential operational personnel of the Federal Aviation Administration whose services are required for the safe and orderly operation of the national airspace system;(2)such sums as are necessary to provide standard rates of pay, allowances, pay differentials, benefits, and other payments otherwise payable on a regular basis to employees of the Transportation Security Administration engaged in screening operations, aviation security duties, or related mission-support functions necessary to carry out security screening under chapter 449 of title 49, United States Code; (3)such sums as are necessary to provide for payments to contractors of the Federal Aviation Administration whom the Secretary of Transportation determines are providing support to the personnel described in paragraph (1); and(4)such sums as are necessary to provide for payments to contractors of the Transportation Security Administration whom the Administrator or Acting Administrator of the Transportation Security Administration determines are providing support to the personnel described in paragraph (2).(b)Charge to future appropriationsExpenditures made pursuant to subsection (a) shall be charged to the applicable appropriation, fund, or authorization whenever an Act in which such applicable appropriation, fund, or authorization is included is enacted into law.
+
+Section 3:
+3.TerminationAppropriations and funds made available and authority granted pursuant to this Act shall be available until whichever of the following first occurs:(1)The enactment into law of an appropriation (including a continuing appropriation) for any purpose for which amounts are made available in section 2.(2)The enactment into law of the applicable regular or continuing appropriations resolution or other Act without any appropriation for such purpose.(3)September 30, 2026.
+
+Section 4:
+4.Retroactive effective dateThis Act shall take effect as if enacted on September 30, 2025.
+
+
+================================================================================
+
+Raw Text:
+119 S3031 PCS: Keep America Flying Act of 2026
+U.S. Senate
+2025-10-22
+text/xml
+EN
+Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.
+
+
+
+IICalendar No. 205119th CONGRESS1st SessionS. 3031IN THE SENATE OF THE UNITED STATESOctober 22 (legislative day, October 21), 2025Mr. Cruz (for himself, Mr. Mullin, Mr. Lankford, and Mr. Sullivan) introduced the following bill; which was read the first timeOctober 22, 2025Read the second time and placed on the calendarA BILLMaking continuing appropriations for essential Federal Aviation Administration and Transportation Security Administration pay and operations in the event of a Federal Government shutdown, and for other purposes.1.Short titleThis Act may be cited as the Keep America Flying Act of 2026.2.Continuing appropriations for air traffic controllers and transportation security personnel(a)In generalThere are hereby appropriated for fiscal year 2026, out of any money in the Treasury not otherwise appropriated, for the period beginning October 1, 2025, during which interim or full-year appropriations for fiscal year 2026 are not in effect—(1)such sums as are necessary to provide standard rates of pay, allowances, pay differentials, benefits, and other payments otherwise payable on a regular basis to air traffic controllers and other essential operational personnel of the Federal Aviation Administration whose services are required for the safe and orderly operation of the national airspace system;(2)such sums as are necessary to provide standard rates of pay, allowances, pay differentials, benefits, and other payments otherwise payable on a regular basis to employees of the Transportation Security Administration engaged in screening operations, aviation security duties, or related mission-support functions necessary to carry out security screening under chapter 449 of title 49, United States Code; (3)such sums as are necessary to provide for payments to contractors of the Federal Aviation Administration whom the Secretary of Transportation determines are providing support to the personnel described in paragraph (1); and(4)such sums as are necessary to provide for payments to contractors of the Transportation Security Administration whom the Administrator or Acting Administrator of the Transportation Security Administration determines are providing support to the personnel described in paragraph (2).(b)Charge to future appropriationsExpenditures made pursuant to subsection (a) shall be charged to the applicable appropriation, fund, or authorization whenever an Act in which such applicable appropriation, fund, or authorization is included is enacted into law.3.TerminationAppropriations and funds made available and authority granted pursuant to this Act shall be available until whichever of the following first occurs:(1)The enactment into law of an appropriation (including a continuing appropriation) for any purpose for which amounts are made available in section 2.(2)The enactment into law of the applicable regular or continuing appropriations resolution or other Act without any appropriation for such purpose.(3)September 30, 2026.4.Retroactive effective dateThis Act shall take effect as if enacted on September 30, 2025.October 22, 2025Read the second time and placed on the calendar

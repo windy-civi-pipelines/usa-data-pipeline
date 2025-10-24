@@ -1,0 +1,263 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-type="olc" bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-MCC25D70-PYH-NT-5C8">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3029 IS: DOE and NASA Interagency Research Coordination Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3029</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251022" legis-day="20251021">October 22 (legislative day, October
+                21), 2025</action-date>
+            <action-desc><sponsor name-id="S383">Mr. Sullivan</sponsor> (for himself and <cosponsor name-id="S427">Mr. Schiff</cosponsor>) introduced the following bill; which was
+                read twice and referred to the <committee-name committee-id="SSCM00">Committee on
+                    Commerce, Science, and Transportation</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To provide for Department of Energy and National Aeronautics and Space
+            Administration research and development coordination, and for other
+            purposes.</official-title>
+    </form>
+    <legis-body style="OLC" display-enacting-clause="yes-display-enacting-clause" id="H6AA4F2CF9FAE45CB8261B4B89F7D9B5C">
+        <section section-type="section-one" id="H386E36CFBE404B2F805DB6AE29B4CB95">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>DOE and NASA Interagency Research Coordination Act</short-title></quote>.</text>
+        </section>
+        <section id="HDB19D8D605104EF1BC779563192B8D81">
+            <enum>2.</enum>
+            <header>Department of Energy and National Aeronautics and Space Administration research
+                and development coordination</header>
+            <subsection id="HBE8E703A4E8E4324AF19F7DA9D87A172">
+                <enum>(a)</enum>
+                <header>Authorization</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id61c492b7f9ef438e95cf6407d9e09c07">
+                    <enum>(1)</enum>
+                    <header>Research and development activities</header>
+ <text display-inline="yes-display-inline">The Secretary of Energy (in this section referred to as the <quote>Secretary</quote>) and the Administrator of the National Aeronautics and Space Administration (in this section referred to as the <quote>Administrator</quote>) may carry out, as practicable, cross-cutting and collaborative research and development activities to support the advancement of Department of Energy and National Aeronautics and Space Administration mission requirements and priorities.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id58c5a9927205415a84b6a3f25be4a721">
+                    <enum>(2)</enum>
+                    <header>Competitive awards</header>
+ <text display-inline="yes-display-inline">The Secretary and the Administrator may make competitive awards, in accordance with subsection (e), to carry out the research and development activities described in paragraph (1).</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" id="HE3D37571646C47BF8C6E895295920815">
+                <enum>(b)</enum>
+                <header>Memoranda of understanding</header>
+ <text>The Secretary and the Administrator shall coordinate the activities under subsection (a) through 1 or more memoranda of understanding or other appropriate interagency agreements.</text>
+            </subsection>
+            <subsection id="H44948B44033F403AA0C3957955830936">
+                <enum>(c)</enum>
+                <header>Coordination</header>
+ <text>In carrying out the activities under subsection (a), the Secretary and the Administrator may do the following:</text>
+                <paragraph id="H7DFFC77E56A24751AD87725B5303E7D0">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">Conduct collaborative research and development activities in a variety of focus areas, which may include the following:</text>
+                    <subparagraph commented="no" id="HD5CA92272C3F4D288513C54915E1E4D0">
+                        <enum>(A)</enum>
+ <text>Propulsion systems and components, including nuclear thermal and nuclear electric propulsion, radioisotope power systems, thermoelectric generators, advanced nuclear fuels, and heater units.</text>
+                    </subparagraph>
+                    <subparagraph id="H8EE9D97355CC4BF691DCB20BB07346B8">
+                        <enum>(B)</enum>
+ <text>Modeling and simulation, machine learning, data assimilation, large scale data analytics, and predictive analysis in order to optimize algorithms for mission-related purposes.</text>
+                    </subparagraph>
+                    <subparagraph id="HCDC470F68E64444591B118A346BDFC43">
+                        <enum>(C)</enum>
+ <text display-inline="yes-display-inline">Fundamental high energy physics, astrophysics, and cosmology, including the nature of dark energy and dark matter, in accordance with section 305 of the Department of Energy Research and Innovation Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18643">42 U.S.C. 18643</external-xref>).</text>
+                    </subparagraph>
+                    <subparagraph id="H05733FEEF5254F86AFEBB21D22274EE9">
+                        <enum>(D)</enum>
+ <text>Fundamental Earth and environmental sciences, in accordance with section 306 of the Department of Energy Research and Innovation Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18644">42 U.S.C. 18644</external-xref>) and section 60501 of title 51, United States Code.</text>
+                    </subparagraph>
+                    <subparagraph id="H5AA2FF71395D493F949B60319F687C77">
+                        <enum>(E)</enum>
+ <text>Quantum information sciences, including quantum computing and quantum network infrastructure, in accordance with sections 403 and 404 of the National Quantum Initiative Act (15 U.S.C. 8853 and 8854).</text>
+                    </subparagraph>
+                    <subparagraph id="H403E7BE642414BDEA395E011904C23CA">
+                        <enum>(F)</enum>
+ <text display-inline="yes-display-inline">Radiation health effects, in accordance with section 306 of the Department of Energy Research and Innovation Act (<external-xref legal-doc="usc" parsable-cite="usc/42/18644">42 U.S.C. 18644</external-xref>).</text>
+                    </subparagraph>
+                    <subparagraph id="H489F0557252B42DE94F47F3576A83A68">
+                        <enum>(G)</enum>
+ <text display-inline="yes-display-inline">Ground-based and space-based technology necessary for the transmission to the Earth’s surface of solar energy collected in space.</text>
+                    </subparagraph>
+                    <subparagraph id="id1b32ba7f407745a8a62b251c198083a1">
+                        <enum>(H)</enum>
+ <text>Arctic science and infrastructure resilience, including the monitoring of permafrost thaw, sea ice extent, wildfire dynamics, and other Earth system changes that affect energy systems, national security, and climate modeling.</text>
+                    </subparagraph>
+                    <subparagraph commented="no" display-inline="no-display-inline" id="idb9d50d32d777499ab066510399a48f41">
+                        <enum>(I)</enum>
+ <text>Wildfire mitigation and resilience methods to reduce wildfire risk and the severity of wildfire damages.</text>
+                    </subparagraph>
+                    <subparagraph id="id66a11c128b4c46a1b484bbbe3c89cdcb">
+                        <enum>(J)</enum>
+ <text>Space weather forecasting and geomagnetic storm impact assessment, especially as related to power grids, pipelines, communication systems, aviation, and satellite operations in high-latitude regions.</text>
+                    </subparagraph>
+                    <subparagraph id="id658a3c6a6fd445c786c2967adecd72ef">
+                        <enum>(K)</enum>
+ <text>Satellite data acquisition, processing, and distribution infrastructure (including high-latitude ground stations and data centers) that support Earth observation, synthetic aperture radar data, and space mission telemetry.</text>
+                    </subparagraph>
+                    <subparagraph id="idab67ff93e6ff4c499a60ac6437e3f37c">
+                        <enum>(L)</enum>
+ <text>STEM workforce development and experiential training programs, particularly in underserved or remote regions such as the Arctic, in fields relevant to agency missions, including aerospace engineering, space physics, Earth system modeling, and remote sensing.</text>
+                    </subparagraph>
+                    <subparagraph id="H57B6F460E10D4464863F69590C6F1118">
+                        <enum>(M)</enum>
+ <text display-inline="yes-display-inline">Any other area of potential research and development collaboration the Secretary and the Administrator consider important to achieving agency missions and objectives.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="H91FD72EBF7774EA1A7484D434FBB07BB">
+                    <enum>(2)</enum>
+ <text>Develop methods to accommodate large voluntary data sets on space and aeronautical information on high-performance computing systems with variable quality and scale.</text>
+                </paragraph>
+                <paragraph id="HDE33754AA9F745EA97B5DD31B33078C8">
+                    <enum>(3)</enum>
+ <text display-inline="yes-display-inline">Promote collaboration and data and information sharing between the Department of Energy, the National Aeronautics and Space Administration, the National Laboratories (as defined in section 2 of the Energy Policy Act of 2005 (<external-xref legal-doc="usc" parsable-cite="usc/42/15801">42 U.S.C. 15801</external-xref>)), and other appropriate entities by providing the necessary access and secure data and information transfer capabilities.</text>
+                </paragraph>
+                <paragraph id="H8FBDA508372D4A55ABDF239135248007">
+                    <enum>(4)</enum>
+ <text display-inline="yes-display-inline">Support access by the National Aeronautics and Space Administration to the research infrastructure and capabilities of the Department of Energy, as practicable.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H61CAE3E45462455589F92B1D059D86E3">
+                <enum>(d)</enum>
+                <header>Agreements</header>
+ <text>In carrying out the activities under subsection (a), the Secretary and the Administrator may—</text>
+                <paragraph id="HDCD8F3DC463A41D3A319202210AC22D9">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">carry out reimbursable and nonreimbursable agreements between the Department of Energy and the National Aeronautics and Space Administration; and</text>
+                </paragraph>
+                <paragraph id="H473BB9C5F3F643CEBF0263F845C8D8B7">
+                    <enum>(2)</enum>
+ <text>collaborate with other Federal agencies, as appropriate.</text> </paragraph> </subsection> <subsection commented="no" id="H5AF9BE86B4A94AA89E4008842568D868"> <enum>(e)</enum> <header>Merit-Review process</header> <text display-inline="yes-display-inline">The Secretary and the Administrator shall ensure that any competitive award made to carry out the activities under subsection (a) follows all appropriate laws and agency policies, including the following:</text>
+                <paragraph commented="no" id="H86711EF4191A4F3BAC7FE7EA4D65782D">
+                    <enum>(1)</enum>
+ <text>Selection by merit-review-based processes.</text> </paragraph> <paragraph commented="no" id="H650E4D6692A84BE7980559264F68D9A7"> <enum>(2)</enum> <text>Consideration of applications from Federal agencies, the National Laboratories, institutions of higher education, nonprofit institutions, and other appropriate entities.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H4E318275ADB2484885BF104566AE9D43">
+                <enum>(f)</enum>
+                <header>Report</header>
+ <text>Not later than 2 years after the date of the enactment of this Act, the Secretary and the Administrator shall submit to the Committee on Energy and Natural Resources and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report detailing the following:</text>
+                <paragraph id="H9267D0D21F4C43179B9D5DCE04290982">
+                    <enum>(1)</enum>
+ <text display-inline="yes-display-inline">Interagency research and development coordination activities between the Department of Energy and the National Aeronautics and Space Administration carried out under this Act.</text>
+                </paragraph>
+                <paragraph id="HC94FEF1542E94F49B0675714CCC730E6">
+                    <enum>(2)</enum>
+ <text>The manner in which such coordination activities expand the technical capabilities of the Department of Energy and the National Aeronautics and Space Administration.</text>
+                </paragraph>
+                <paragraph id="H39F109EAD40A4FC5BAD48168F2699234">
+                    <enum>(3)</enum>
+ <text display-inline="yes-display-inline">Collaborative research and development achievements.</text>
+                </paragraph>
+                <paragraph id="H808FB67254064D2DB6FD146D4A45C161">
+                    <enum>(4)</enum>
+ <text display-inline="yes-display-inline">Areas of future mutually beneficial activities, including potential applications of clean energy technologies, such as marine energy, and collaborative initiatives to advance Arctic science, wildfire resilience, space weather resilience, and the STEM workforce pipeline in high-need regions.</text>
+                </paragraph>
+                <paragraph id="H61453445752D493AA9360DC435093B19">
+                    <enum>(5)</enum>
+ <text>Continuation of coordination activities between the Department of Energy and the National Aeronautics and Space Administration.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="H02FB763B094B456789FF6C52447370F4">
+                <enum>(g)</enum>
+                <header>Research security</header>
+ <text>Any activity carried out under subsection (a) shall be applied in a manner consistent with subtitle D of title VI of the Research and Development, Competition, and Innovation Act (enacted as division B of <external-xref legal-doc="public-law" parsable-cite="pl/117/167">Public Law 117–167</external-xref>; <external-xref legal-doc="usc" parsable-cite="usc/42/19231">42 U.S.C. 19231 et seq.</external-xref>).</text>
+            </subsection>
+            <subsection id="id0abfef5922464b6a9df1048e713c4c13">
+                <enum>(h)</enum>
+                <header>Authorization for transfer to NASA of funds from other agencies for
+                    scientific or engineering research or education</header>
+                <paragraph id="ide1bf9d3bb7c143898fda457ff6a9aa52">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text>Section 20113(f) of title 51, United States Code, is amended—</text> <subparagraph id="id2168fa80f3e94241b0ebeceb9916b93d"> <enum>(A)</enum> <text>by striking <quote>In the performance of its functions</quote> and inserting the following:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="id8c5451f770ec4a72a2b0daa174d25a0b">
+                            <paragraph id="idc76c0c2bf0c74a78bf5d630161ea7702">
+                                <enum>(1)</enum>
+                                <header>In general</header>
+ <text>In the performance of its functions</text> </paragraph> <after-quoted-block>; and</after-quoted-block> </quoted-block> </subparagraph> <subparagraph id="id623aadfde4ac4984953c705a57c3d551"> <enum>(B)</enum> <text>by adding at the end the following new paragraph:</text>
+                        <quoted-block style="OLC" display-inline="no-display-inline" id="idf76321666c3d4d1fa4b9c4628dd6ddc4">
+                            <paragraph id="id71cfd6f44bdd4b87b4ffb3643011fc4e">
+                                <enum>(2)</enum>
+                                <header>Treatment</header>
+ <text>Funds available to any department or agency of the Federal Government for scientific or engineering research or education, or the provision of facilities for such research or education, shall, subject to the approval of the head of such department or agency or as delegated pursuant to a regulation of such department or agency, be available for transfer, in whole or in part, to the Administration exclusively for activities directly related to space exploration and its associated science, technology, or engineering research or education activities. Funds so transferred shall be merged with the appropriation to which transferred, except that such transferred funds shall be limited to the awarding of grants or cooperative agreements for scientific or engineering research or education.</text>
+                            </paragraph>
+                            <after-quoted-block>.</after-quoted-block>
+                        </quoted-block>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id20cd9f1b3c1644b48ec4aef2931e211b">
+                    <enum>(2)</enum>
+                    <header>Annual information on funds transferred</header>
+                    <subparagraph id="id811ee9876db844c8af085db6a4f905b2">
+                        <enum>(A)</enum>
+                        <header>In general</header>
+ <text>Not later than 2 years after the date of the enactment of this Act, the Administrator shall include in the budget justification materials of the National Aeronautics and Space Administration submitted to Congress in support of the budget of the President submitted pursuant to section 1105 of title 31, United States Code, information describing the activities conducted under section 20113(f) of title 51, United States Code, during the fiscal year immediately preceding such submission.</text>
+                    </subparagraph>
+                    <subparagraph id="id128c3c61e4d54c11b36736aa37f7aac0">
+                        <enum>(B)</enum>
+                        <header>Contents</header>
+ <text>The information required to be submitted under subparagraph (A) shall contain a description of each transfer of funds under the authority provided in section 20113(f)(2) of title 51, United States Code, during the fiscal year immediately preceding such submission, including the following:</text>
+                        <clause id="id4f35d1c2cd4c4c29a1213fd757a92180">
+                            <enum>(i)</enum>
+ <text>An identification of the department or agency of the Federal Government from which such funds were transferred.</text>
+                        </clause>
+                        <clause id="idb8bfd564fc6e43edb4a66dffae6a8759">
+                            <enum>(ii)</enum>
+ <text>The total amount of funds so transferred, disaggregated by each such department or agency.</text>
+                        </clause>
+                        <clause id="id898cfcc303ae43f8b498e26a7199c2ab">
+                            <enum>(iii)</enum>
+ <text>The purposes for which such funds were appropriated to each such agency or department.</text>
+                        </clause>
+                        <clause id="id0e4aca31c8e24b88acd94fb03ae343f2">
+                            <enum>(iv)</enum>
+ <text>An identification of the program or activity of the National Aeronautics and Space Administration to which such funds were made available by each such transfer.</text>
+                        </clause>
+                        <clause id="id3fbd3efbdbc5407e903de2c222bf567c">
+                            <enum>(v)</enum>
+ <text>The purposes of each such National Aeronautics and Space Administration program or activity, and the amount of funding appropriated to the National Aeronautics and Space Administration for such purposes.</text>
+                        </clause>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="id94d783d166504807bfb4da66f3fe2fa7">
+                    <enum>(3)</enum>
+                    <header>Report</header>
+ <text>Not later than 3 years after the date of the enactment of this Act, the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives a report that includes the following:</text>
+                    <subparagraph id="idea8af046b0b34f97a9c4eb9e67f87285">
+                        <enum>(A)</enum>
+ <text>A summary of the value of the authority provided in section 20113(f)(2) of title 51, United States Code, including the extent to which such authority has benefitted—</text>
+                        <clause commented="no" display-inline="no-display-inline" id="id0e6f22a92cfe46a699f32167e08da518">
+                            <enum>(i)</enum>
+ <text display-inline="yes-display-inline">the National Aeronautics and Space Administration; and</text>
+                        </clause>
+                        <clause commented="no" display-inline="no-display-inline" id="ida7eb7738c4544cd1acfd40cd0b40d290">
+                            <enum>(ii)</enum>
+ <text display-inline="yes-display-inline">the ability of the National Aeronautics and Space Administration to meet its needs, achieve its missions, or more effectively conduct interagency collaborations specifically in pursuit of space exploration and related scientific and engineering objectives.</text>
+                        </clause>
+                    </subparagraph>
+                    <subparagraph id="idf76a74b2a4224c43ad442f1c1938daef">
+                        <enum>(B)</enum>
+ <text>An identification of any barriers or challenges to implementing such authority, or otherwise to managing the funding required to conduct joint programs and award jointly funded grants and cooperative agreements by the National Aeronautics and Space Administration with other Federal departments and agencies so as to contribute to the missions of each such department and agency to advance the shared objectives of space exploration and related research and education.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+
