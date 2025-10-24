@@ -1,0 +1,185 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-HEY25F67-LPF-PT-C0Y">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3033 IS: Improving Access to Care for Rural Veterans Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3033</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251022" legis-day="20251021">October 22 (legislative day, October
+                21), 2025</action-date>
+            <action-desc><sponsor name-id="S386">Ms. Duckworth</sponsor> (for herself and <cosponsor name-id="S396">Mrs. Blackburn</cosponsor>) introduced the following bill; which
+                was read twice and referred to the <committee-name committee-id="SSVA00" added-display-style="italic" deleted-display-style="strikethrough">Committee on
+                    Veterans' Affairs</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To require the Secretary of Veterans Affairs to establish partnerships
+            between medical facilities of the Department of Veterans Affairs and medical facilities
+            in rural areas, and for other purposes.</official-title>
+    </form>
+    <legis-body>
+        <section id="S1" section-type="section-one">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Improving Access to Care for Rural Veterans Act</short-title></quote>.</text>
+        </section>
+        <section commented="no" display-inline="no-display-inline" id="id50b11a0460114713984b591a063cdc2c">
+            <enum>2.</enum>
+            <header>Partnerships between medical facilities of Department of Veterans Affairs and
+                rural medical facilities</header>
+            <subsection id="id874950ad81b04bacb66fdaacc3b08542" commented="no">
+                <enum>(a)</enum>
+                <header>Partnerships</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="id135e15df05374a63a2e3b0c3ecbadcd6">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">The Secretary of Veterans Affairs shall require that each medical facility of the Department of Veterans Affairs enter into a partnership with a medical facility in a rural area.</text>
+                </paragraph>
+                <paragraph id="id323d59d642a54ff1bbae38b9b0047623" commented="no">
+                    <enum>(2)</enum>
+                    <header>Agreements</header>
+ <text>Each partnership entered into under paragraph (1) may include an agreement for provision of telehealth, co-location or leasing of space or equipment, training, care coordination, emergency services (including transportation), or other services as determined appropriate.</text>
+                </paragraph>
+                <paragraph id="id981cd9f63c534a909300bd0e779645aa" commented="no">
+                    <enum>(3)</enum>
+                    <header>Purpose of partnership</header>
+ <text>The purpose of any partnership entered into under paragraph (1) shall be to provide greater access to care for veterans in rural areas and to reduce costs to all entities within the partnership.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idee5b49a7963449ef89d625365219819d">
+                <enum>(b)</enum>
+                <header>Waiver</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="idf756d4131f69480d93e5576d695b6005">
+                    <enum>(1)</enum>
+                    <header>In general</header>
+ <text display-inline="yes-display-inline">The Secretary may waive the requirement under subsection (a)(1) with respect to a medical facility for a period not to exceed five years, subject to such requirements as the Secretary may establish, if the Secretary notifies Congress of the waiver not later than 48 hours before the waiver takes effect.</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id7bd5e02368b14d1d8a447bc4e3aba57f">
+                    <enum>(2)</enum>
+                    <header>Renewal</header>
+ <text display-inline="yes-display-inline">The Secretary may renew a waiver under paragraph (1) with respect to a medical facility only if the Secretary, in consultation with the head of the medical facility, evaluates the need for the waiver and determines that the waiver is necessary.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id14729cfc7eae47a1ac7b8de3be72ee7b">
+                <enum>(c)</enum>
+                <header>Briefing</header>
+ <text>Not later than 180 days after the date of the enactment of this Act, the Secretary shall provide to the appropriate committees of Congress a briefing on the plans of the Secretary for the implementation of the requirement under subsection (a)(1), including—</text>
+                <paragraph id="id8347015659cc45a585f55b71b18b17a5">
+                    <enum>(1)</enum>
+ <text>a timeline for implementation of such requirement;</text> </paragraph> <paragraph id="idce1fa69e283740358a8129411ab3eaa2"> <enum>(2)</enum> <text>an identification of an official of the Department responsible for oversight and implementation of such requirement;</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="id8c5103ef52644c438d26eeacc784b1c2">
+                    <enum>(3)</enum>
+ <text display-inline="yes-display-inline">an update on the establishment of any office, task force, or personnel assignments to support the implementation of such requirement;</text>
+                </paragraph>
+                <paragraph id="idf8c0fe6b1c884830b6e5cad71fec7c42">
+                    <enum>(4)</enum>
+ <text>a description of the plan of the Department for oversight of such requirement;</text>
+                </paragraph>
+                <paragraph id="id1837ef7ebe3c4cf1bd4fe3e50c797c51">
+                    <enum>(5)</enum>
+ <text>a standardized form or forms to be used for waivers under subsection (b) and an explanation of the criteria for eligibility for such a waiver; and</text>
+                </paragraph>
+                <paragraph id="idc3e374c640ec408bbcf2e8aed3318c65">
+                    <enum>(6)</enum>
+ <text>such other information as the Secretary considers to be of interest to the appropriate committees of Congress.</text>
+                </paragraph>
+            </subsection>
+            <subsection id="id1e1f67b9a9194707872cdbabfca57ecf">
+                <enum>(d)</enum>
+                <header>Report</header>
+ <text>Not later than two years after the date of the enactment of this Act, and biennially thereafter, the Secretary shall submit to the appropriate committees of Congress a report on the operation and performance of partnerships entered into under subsection (a), including—</text>
+                <paragraph id="idb82707904b1c48c3a13d8686142076e5">
+                    <enum>(1)</enum>
+ <text>new partnerships created, in the case of the initial report, since the date of the enactment of this Act, and, in the case of any subsequent report, during the period following the previous report;</text>
+                </paragraph>
+                <paragraph id="id55fa5a35837f4e6ba5fe1fa1120c676e">
+                    <enum>(2)</enum>
+ <text>existing partnerships between medical facilities of the Department and medical facilities in rural areas; and</text>
+                </paragraph>
+                <paragraph id="idd33130b541ce4571844f496f58f1f01f">
+                    <enum>(3)</enum>
+ <text>as assessment of the success of all partnerships described in paragraphs (1) and (2) in delivering services to veterans in rural areas, including—</text>
+                    <subparagraph id="id9afac79b022048dcb5e114a9c56faa11">
+                        <enum>(A)</enum>
+ <text>the number of veterans enrolled in the system of annual patient enrollment of the Department under section 1705(a) of title 38, United States Code, in the region in which the partnered medical facilities are located compared to the previous five-year period;</text>
+                    </subparagraph>
+                    <subparagraph id="id92e7a466c31c4257a4f060feff743c78">
+                        <enum>(B)</enum>
+ <text>an evaluation of accessibility to services as compared to the services available to those veterans prior to the implementation of such partnerships;</text>
+                    </subparagraph>
+                    <subparagraph id="id6619c6a8a2b846a9918e839673ce37bc">
+                        <enum>(C)</enum>
+ <text>an overview of new best practices developed for such partnerships and the Department more broadly; and</text>
+                    </subparagraph>
+                    <subparagraph id="id5cf7092b77dc4faf918d9132b6f32aae">
+                        <enum>(D)</enum>
+ <text>the number of veterans receiving compensation from the Department for a service-connected disability in the region in which the partnered medical facilities are located compared to the previous five-year period.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="id04bd10bbe35f44ba94ec5ed6b4604df9">
+                <enum>(e)</enum>
+                <header>Timeline</header>
+                <paragraph commented="no" display-inline="no-display-inline" id="idabb0030a733d429aa97d169c9f59ae44">
+                    <enum>(1)</enum>
+                    <header>Existing facilities</header>
+ <text display-inline="yes-display-inline">Except as provided in paragraph (2), by not later than three years after the date of the enactment of this Act, the Secretary shall ensure that all medical facilities of the Department that are seeing patients are compliant with the requirement under subsection (a)(1) or have received a waiver under subsection (b).</text>
+                </paragraph>
+                <paragraph commented="no" display-inline="no-display-inline" id="idc553e6b11ccf4a02a42c7f2dd24d5d63">
+                    <enum>(2)</enum>
+                    <header>New facilities</header>
+ <text display-inline="yes-display-inline">The Secretary shall ensure that any medical facility of the Department established after the date of the enactment of this Act is compliant with the requirement under subsection (a)(1) or has received a waiver under subsection (b) by not later than three years after the date on which patients are first seen at the medical facility.</text>
+                </paragraph>
+            </subsection>
+            <subsection commented="no" display-inline="no-display-inline" id="idab117bf9695843ebb0c952ef23af28f7">
+                <enum>(f)</enum>
+                <header>Relationship to existing law</header>
+ <text>The requirements and authorities under this section are in addition to, and separate from, the authority under section 8153 of title 38, United States Code.</text>
+            </subsection>
+            <subsection id="id8403212760df484bb9fca20aaea97fc8">
+                <enum>(g)</enum>
+                <header>Definitions</header>
+ <text>In this section:</text> <paragraph id="id140188d19cfa46e5b8e47ea49807ee4c"> <enum>(1)</enum> <header>Appropriate committees of Congress</header> <text>The term <term>appropriate committees of Congress</term> means—</text>
+                    <subparagraph id="idf8f1aa377c39497ebcc7ca9a1f3dd495">
+                        <enum>(A)</enum>
+ <text>the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate; and</text>
+                    </subparagraph>
+                    <subparagraph id="id0c725e639d5647da922c0f316e4f0ebb">
+                        <enum>(B)</enum>
+ <text>the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives.</text>
+                    </subparagraph>
+                </paragraph>
+                <paragraph id="ida6edee2be6354b1e87522246c3ea1487">
+                    <enum>(2)</enum>
+                    <header>Partnership</header>
+ <text>The term <term>partnership</term> includes a leasing or co-location agreement, a memorandum of understanding, a partnership agreement, an employment contract, an independent contractor agreement, a service agreement, or any other similar agreement.</text>
+                </paragraph>
+                <paragraph id="idedbc06c800764b90aa9415822a0fdbed">
+                    <enum>(3)</enum>
+                    <header>Rural</header>
+ <text>The term <term>rural</term> has the meaning given that term under the Rural-Urban Commuting Areas (RUCA) coding system of the Department of Agriculture.</text>
+                </paragraph>
+                <paragraph id="id3bec14fa29b4473fa07e3bfc3ff53fd1">
+                    <enum>(4)</enum>
+                    <header>Service-connected</header>
+ <text>The term <term>service-connected</term> has the meaning given that term in section 101(16) of title 38, United States Code.</text>
+                </paragraph>
+            </subsection>
+        </section>
+    </legis-body>
+</bill>
+

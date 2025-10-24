@@ -1,0 +1,82 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Introduced-in-Senate" dms-id="A1" public-private="public" slc-id="S1-BOM25648-P7V-9T-05L">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3010 IS: 21st Century Dyslexia Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-15</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+        <distribution-code>II</distribution-code>
+        <congress>119th CONGRESS</congress>
+        <session>1st Session</session>
+        <legis-num>S. 3010</legis-num>
+        <current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber>
+        <action>
+            <action-date date="20251015">October 15, 2025</action-date>
+            <action-desc><sponsor name-id="S373">Mr. Cassidy</sponsor> (for himself, <cosponsor name-id="S408">Mr. Hickenlooper</cosponsor>, and <cosponsor name-id="S259">Mr.
+                    Reed</cosponsor>) introduced the following bill; which was read twice and
+                referred to the <committee-name committee-id="SSHR00">Committee on Health,
+                    Education, Labor, and Pensions</committee-name></action-desc>
+        </action>
+        <legis-type>A BILL</legis-type>
+        <official-title>To amend the Individuals with Disabilities Education Act to improve
+            provisions relating to dyslexia, and for other purposes.</official-title>
+    </form>
+    <legis-body display-enacting-clause="yes-display-enacting-clause">
+        <section section-type="section-one" id="S1">
+            <enum>1.</enum>
+            <header>Short title</header>
+ <text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>21st Century Dyslexia Act</short-title></quote>.</text>
+        </section>
+        <section id="id8D1BD3E3A4A94C9C803D109083D2B522">
+            <enum>2.</enum>
+            <header>Dyslexia</header>
+            <subsection id="idD2782253DDF84D6D9C1846D1942F1C0A">
+                <enum>(a)</enum>
+                <header>Definitions</header>
+ <text>Section 602 of the Individuals with Disabilities Education Act (<external-xref legal-doc="usc" parsable-cite="usc/20/1401">20 U.S.C. 1401</external-xref>) is amended—</text>
+                <paragraph id="idB49C25AB0C2A42A891A0D37155058068">
+                    <enum>(1)</enum>
+ <text>in paragraph (3)(A), by striking <quote>or specific learning disabilities</quote> and inserting <quote>specific learning disabilities, or dyslexia</quote>;</text>
+                </paragraph>
+                <paragraph id="id0177991D902144FBA36E86FCD6B41F71">
+                    <enum>(2)</enum>
+ <text>by inserting after paragraph (3) the following:</text> <quoted-block style="OLC" display-inline="no-display-inline" id="id2FA858628F724012A971739997F6875D"> <paragraph id="idF86C736963AA48BF9759CFB43D1AB7CD"> <enum>(4)</enum> <header>Dyslexia</header> <text>The term <term>dyslexia</term> means an unexpected difficulty in reading for an individual who has the intelligence to be a much better reader, most commonly caused by a difficulty in the phonological processing (the appreciation of the individual sounds of spoken language), which affects the ability of an individual to speak, read, and spell.</text>
+                        </paragraph>
+                        <after-quoted-block>; and</after-quoted-block>
+                    </quoted-block>
+                </paragraph>
+                <paragraph id="idF940F86273A74113A03AAD2A5952223A">
+                    <enum>(3)</enum>
+ <text>in paragraph (30)—</text> <subparagraph id="id565B0ED28243465AA88B77CB61BCCACE"> <enum>(A)</enum> <text>in subparagraph (B), by striking <quote>dyslexia,</quote>; and</text>
+                    </subparagraph>
+                    <subparagraph id="id3B59F3370FF74DC09818630D41496EB1">
+                        <enum>(B)</enum>
+ <text>in subparagraph (C), by striking <quote>or of environmental</quote> and all that follows and inserting <quote>or dyslexia</quote>.</text>
+                    </subparagraph>
+                </paragraph>
+            </subsection>
+            <subsection id="idCF98A4743CB2456798069D34F22FC505">
+                <enum>(b)</enum>
+                <header>Provision of accommodations and services</header>
+ <text>The Individuals with Disabilities Education Act is amended by inserting after section 608 (<external-xref legal-doc="usc" parsable-cite="usc/20/1407">20 U.S.C. 1407</external-xref>) the following:</text>
+                <quoted-block style="OLC" display-inline="no-display-inline" id="idEE4664230E294E259E4C99BEF5757B8E">
+                    <section id="idbc8f5ff6edd346a2b7287d0bfbd2e1ec">
+                        <enum>608A.</enum>
+                        <header>Provision of accommodations and services</header>
+ <text display-inline="no-display-inline">In determining eligibility for, or providing, an accommodation or service under this title, a local educational agency or other agency shall provide equal access, to the accommodation or service, to all eligible children, including eligible children who are—</text>
+                        <paragraph id="id550bb93a78974770953c8ac5e89eba8d">
+                            <enum>(1)</enum>
+ <text>children from low-income families;</text> </paragraph> <paragraph id="iddde5d52ec70c4c44aa6dff2220709dfd"> <enum>(2)</enum> <text>children from families with low socioeconomic status; and</text>
+                        </paragraph>
+                        <paragraph id="ide886969f46d14f85b0f894ef5f67c7e3">
+                            <enum>(3)</enum>
+ <text>children who are limited English proficient.</text> </paragraph> </section> <after-quoted-block>.</after-quoted-block> </quoted-block> </subsection> </section> </legis-body> </bill>
+

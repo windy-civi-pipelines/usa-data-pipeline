@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="billres.xsl"?>
+<!DOCTYPE bill PUBLIC "-//US Congress//DTDs/bill.dtd//EN" "bill.dtd">
+<bill bill-stage="Placed-on-Calendar-Senate" dms-id="A1" public-private="public" slc-id="S1-ELL25688-P4X-KX-D31"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+<dublinCore>
+<dc:title>119 S3032 PCS: Counter-UAS Authority Extension Act</dc:title>
+<dc:publisher>U.S. Senate</dc:publisher>
+<dc:date>2025-10-22</dc:date>
+<dc:format>text/xml</dc:format>
+<dc:language>EN</dc:language>
+<dc:rights>Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.</dc:rights>
+</dublinCore>
+</metadata>
+<form>
+<distribution-code display="yes">II</distribution-code><calendar>Calendar No. 206</calendar><congress>119th CONGRESS</congress><session>1st Session</session><legis-num>S. 3032</legis-num><current-chamber>IN THE SENATE OF THE UNITED STATES</current-chamber><action><action-date date="20251022" legis-day="20251021">October 22 (legislative day, October 21), 2025</action-date><action-desc><sponsor name-id="S380">Mr. Peters</sponsor> (for himself and <cosponsor name-id="S376">Ms. Ernst</cosponsor>) introduced the following bill; which was read the first time</action-desc></action><action><action-date date="20251022">October 22, 2025</action-date><action-desc>Read the second time and placed on the calendar</action-desc></action><legis-type>A BILL</legis-type><official-title>To extend the authority for the protection of certain facilities and assets from unmanned aircraft.</official-title></form><legis-body display-enacting-clause="yes-display-enacting-clause"><section section-type="section-one" id="S1"><enum>1.</enum><header>Short title</header><text display-inline="no-display-inline">This Act may be cited as the <quote><short-title>Counter-UAS Authority Extension Act</short-title></quote>.</text></section><section id="id081039c5c88149c4bcbd21059ce393c0"><enum>2.</enum><header>Extension of Counter-UAS authorities of the Department of Homeland Security and the Department of Justice</header><text display-inline="no-display-inline">Section 210G(i) of the Homeland Security Act of 2002 (<external-xref legal-doc="usc" parsable-cite="usc/6/124n">6 U.S.C. 124n(i)</external-xref>) is amended by striking <quote>September 30, 2025</quote> and inserting <quote>September 30, 2028</quote>. </text></section></legis-body><endorsement><action-date date="20251022">October 22, 2025</action-date><action-desc>Read the second time and placed on the calendar</action-desc></endorsement></bill> 
+

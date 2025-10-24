@@ -1,0 +1,28 @@
+Title: 
+Official Title: To extend the authority for the protection of certain facilities and assets from unmanned aircraft.
+Number of Sections: 2
+Source: versions - Placed on Calendar Senate
+Media Type: text/xml
+
+================================================================================
+
+Section 1:
+1.Short titleThis Act may be cited as the Counter-UAS Authority Extension Act.
+
+Section 2:
+2.Extension of Counter-UAS authorities of the Department of Homeland Security and the Department of JusticeSection 210G(i) of the Homeland Security Act of 2002 (6 U.S.C. 124n(i)) is amended by striking September 30, 2025 and inserting September 30, 2028.
+
+
+================================================================================
+
+Raw Text:
+119 S3032 PCS: Counter-UAS Authority Extension Act
+U.S. Senate
+2025-10-22
+text/xml
+EN
+Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.
+
+
+
+IICalendar No. 206119th CONGRESS1st SessionS. 3032IN THE SENATE OF THE UNITED STATESOctober 22 (legislative day, October 21), 2025Mr. Peters (for himself and Ms. Ernst) introduced the following bill; which was read the first timeOctober 22, 2025Read the second time and placed on the calendarA BILLTo extend the authority for the protection of certain facilities and assets from unmanned aircraft.1.Short titleThis Act may be cited as the Counter-UAS Authority Extension Act.2.Extension of Counter-UAS authorities of the Department of Homeland Security and the Department of JusticeSection 210G(i) of the Homeland Security Act of 2002 (6 U.S.C. 124n(i)) is amended by striking September 30, 2025 and inserting September 30, 2028. October 22, 2025Read the second time and placed on the calendar

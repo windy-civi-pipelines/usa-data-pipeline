@@ -1,0 +1,334 @@
+Title: 
+Official Title: To require the Secretary of Veterans Affairs to establish partnerships
+            between medical facilities of the Department of Veterans Affairs and medical facilities
+            in rural areas, and for other purposes.
+Number of Sections: 2
+Source: versions - Introduced in Senate
+Media Type: text/xml
+
+================================================================================
+
+Section 1:
+1.
+            Short title
+ This Act may be cited as the Improving Access to Care for Rural Veterans Act.
+
+Section 2:
+2.
+            Partnerships between medical facilities of Department of Veterans Affairs and
+                rural medical facilities
+            
+                (a)
+                Partnerships
+                
+                    (1)
+                    In general
+ The Secretary of Veterans Affairs shall require that each medical facility of the Department of Veterans Affairs enter into a partnership with a medical facility in a rural area.
+                
+                
+                    (2)
+                    Agreements
+ Each partnership entered into under paragraph (1) may include an agreement for provision of telehealth, co-location or leasing of space or equipment, training, care coordination, emergency services (including transportation), or other services as determined appropriate.
+                
+                
+                    (3)
+                    Purpose of partnership
+ The purpose of any partnership entered into under paragraph (1) shall be to provide greater access to care for veterans in rural areas and to reduce costs to all entities within the partnership.
+                
+            
+            
+                (b)
+                Waiver
+                
+                    (1)
+                    In general
+ The Secretary may waive the requirement under subsection (a)(1) with respect to a medical facility for a period not to exceed five years, subject to such requirements as the Secretary may establish, if the Secretary notifies Congress of the waiver not later than 48 hours before the waiver takes effect.
+                
+                
+                    (2)
+                    Renewal
+ The Secretary may renew a waiver under paragraph (1) with respect to a medical facility only if the Secretary, in consultation with the head of the medical facility, evaluates the need for the waiver and determines that the waiver is necessary.
+                
+            
+            
+                (c)
+                Briefing
+ Not later than 180 days after the date of the enactment of this Act, the Secretary shall provide to the appropriate committees of Congress a briefing on the plans of the Secretary for the implementation of the requirement under subsection (a)(1), including—
+                
+                    (1)
+ a timeline for implementation of such requirement;   (2) an identification of an official of the Department responsible for oversight and implementation of such requirement;
+                
+                
+                    (3)
+ an update on the establishment of any office, task force, or personnel assignments to support the implementation of such requirement;
+                
+                
+                    (4)
+ a description of the plan of the Department for oversight of such requirement;
+                
+                
+                    (5)
+ a standardized form or forms to be used for waivers under subsection (b) and an explanation of the criteria for eligibility for such a waiver; and
+                
+                
+                    (6)
+ such other information as the Secretary considers to be of interest to the appropriate committees of Congress.
+                
+            
+            
+                (d)
+                Report
+ Not later than two years after the date of the enactment of this Act, and biennially thereafter, the Secretary shall submit to the appropriate committees of Congress a report on the operation and performance of partnerships entered into under subsection (a), including—
+                
+                    (1)
+ new partnerships created, in the case of the initial report, since the date of the enactment of this Act, and, in the case of any subsequent report, during the period following the previous report;
+                
+                
+                    (2)
+ existing partnerships between medical facilities of the Department and medical facilities in rural areas; and
+                
+                
+                    (3)
+ as assessment of the success of all partnerships described in paragraphs (1) and (2) in delivering services to veterans in rural areas, including—
+                    
+                        (A)
+ the number of veterans enrolled in the system of annual patient enrollment of the Department under section 1705(a) of title 38, United States Code, in the region in which the partnered medical facilities are located compared to the previous five-year period;
+                    
+                    
+                        (B)
+ an evaluation of accessibility to services as compared to the services available to those veterans prior to the implementation of such partnerships;
+                    
+                    
+                        (C)
+ an overview of new best practices developed for such partnerships and the Department more broadly; and
+                    
+                    
+                        (D)
+ the number of veterans receiving compensation from the Department for a service-connected disability in the region in which the partnered medical facilities are located compared to the previous five-year period.
+                    
+                
+            
+            
+                (e)
+                Timeline
+                
+                    (1)
+                    Existing facilities
+ Except as provided in paragraph (2), by not later than three years after the date of the enactment of this Act, the Secretary shall ensure that all medical facilities of the Department that are seeing patients are compliant with the requirement under subsection (a)(1) or have received a waiver under subsection (b).
+                
+                
+                    (2)
+                    New facilities
+ The Secretary shall ensure that any medical facility of the Department established after the date of the enactment of this Act is compliant with the requirement under subsection (a)(1) or has received a waiver under subsection (b) by not later than three years after the date on which patients are first seen at the medical facility.
+                
+            
+            
+                (f)
+                Relationship to existing law
+ The requirements and authorities under this section are in addition to, and separate from, the authority under section 8153 of title 38, United States Code.
+            
+            
+                (g)
+                Definitions
+ In this section:  (1) Appropriate committees of Congress The term appropriate committees of Congress means—
+                    
+                        (A)
+ the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate; and
+                    
+                    
+                        (B)
+ the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives.
+                    
+                
+                
+                    (2)
+                    Partnership
+ The term partnership includes a leasing or co-location agreement, a memorandum of understanding, a partnership agreement, an employment contract, an independent contractor agreement, a service agreement, or any other similar agreement.
+                
+                
+                    (3)
+                    Rural
+ The term rural has the meaning given that term under the Rural-Urban Commuting Areas (RUCA) coding system of the Department of Agriculture.
+                
+                
+                    (4)
+                    Service-connected
+ The term service-connected has the meaning given that term in section 101(16) of title 38, United States Code.
+
+
+================================================================================
+
+Raw Text:
+119 S3033 IS: Improving Access to Care for Rural Veterans Act
+U.S. Senate
+2025-10-22
+text/xml
+EN
+Pursuant to Title 17 Section 105 of the United States Code, this file is not subject to copyright protection and is in the public domain.
+
+
+
+        II
+        119th CONGRESS
+        1st Session
+        S. 3033
+        IN THE SENATE OF THE UNITED STATES
+        
+            October 22 (legislative day, October
+                21), 2025
+            Ms. Duckworth (for herself and Mrs. Blackburn) introduced the following bill; which
+                was read twice and referred to the Committee on
+                    Veterans' Affairs
+        
+        A BILL
+        To require the Secretary of Veterans Affairs to establish partnerships
+            between medical facilities of the Department of Veterans Affairs and medical facilities
+            in rural areas, and for other purposes.
+    
+    
+        
+            1.
+            Short title
+ This Act may be cited as the Improving Access to Care for Rural Veterans Act.
+        
+        
+            2.
+            Partnerships between medical facilities of Department of Veterans Affairs and
+                rural medical facilities
+            
+                (a)
+                Partnerships
+                
+                    (1)
+                    In general
+ The Secretary of Veterans Affairs shall require that each medical facility of the Department of Veterans Affairs enter into a partnership with a medical facility in a rural area.
+                
+                
+                    (2)
+                    Agreements
+ Each partnership entered into under paragraph (1) may include an agreement for provision of telehealth, co-location or leasing of space or equipment, training, care coordination, emergency services (including transportation), or other services as determined appropriate.
+                
+                
+                    (3)
+                    Purpose of partnership
+ The purpose of any partnership entered into under paragraph (1) shall be to provide greater access to care for veterans in rural areas and to reduce costs to all entities within the partnership.
+                
+            
+            
+                (b)
+                Waiver
+                
+                    (1)
+                    In general
+ The Secretary may waive the requirement under subsection (a)(1) with respect to a medical facility for a period not to exceed five years, subject to such requirements as the Secretary may establish, if the Secretary notifies Congress of the waiver not later than 48 hours before the waiver takes effect.
+                
+                
+                    (2)
+                    Renewal
+ The Secretary may renew a waiver under paragraph (1) with respect to a medical facility only if the Secretary, in consultation with the head of the medical facility, evaluates the need for the waiver and determines that the waiver is necessary.
+                
+            
+            
+                (c)
+                Briefing
+ Not later than 180 days after the date of the enactment of this Act, the Secretary shall provide to the appropriate committees of Congress a briefing on the plans of the Secretary for the implementation of the requirement under subsection (a)(1), including—
+                
+                    (1)
+ a timeline for implementation of such requirement;   (2) an identification of an official of the Department responsible for oversight and implementation of such requirement;
+                
+                
+                    (3)
+ an update on the establishment of any office, task force, or personnel assignments to support the implementation of such requirement;
+                
+                
+                    (4)
+ a description of the plan of the Department for oversight of such requirement;
+                
+                
+                    (5)
+ a standardized form or forms to be used for waivers under subsection (b) and an explanation of the criteria for eligibility for such a waiver; and
+                
+                
+                    (6)
+ such other information as the Secretary considers to be of interest to the appropriate committees of Congress.
+                
+            
+            
+                (d)
+                Report
+ Not later than two years after the date of the enactment of this Act, and biennially thereafter, the Secretary shall submit to the appropriate committees of Congress a report on the operation and performance of partnerships entered into under subsection (a), including—
+                
+                    (1)
+ new partnerships created, in the case of the initial report, since the date of the enactment of this Act, and, in the case of any subsequent report, during the period following the previous report;
+                
+                
+                    (2)
+ existing partnerships between medical facilities of the Department and medical facilities in rural areas; and
+                
+                
+                    (3)
+ as assessment of the success of all partnerships described in paragraphs (1) and (2) in delivering services to veterans in rural areas, including—
+                    
+                        (A)
+ the number of veterans enrolled in the system of annual patient enrollment of the Department under section 1705(a) of title 38, United States Code, in the region in which the partnered medical facilities are located compared to the previous five-year period;
+                    
+                    
+                        (B)
+ an evaluation of accessibility to services as compared to the services available to those veterans prior to the implementation of such partnerships;
+                    
+                    
+                        (C)
+ an overview of new best practices developed for such partnerships and the Department more broadly; and
+                    
+                    
+                        (D)
+ the number of veterans receiving compensation from the Department for a service-connected disability in the region in which the partnered medical facilities are located compared to the previous five-year period.
+                    
+                
+            
+            
+                (e)
+                Timeline
+                
+                    (1)
+                    Existing facilities
+ Except as provided in paragraph (2), by not later than three years after the date of the enactment of this Act, the Secretary shall ensure that all medical facilities of the Department that are seeing patients are compliant with the requirement under subsection (a)(1) or have received a waiver under subsection (b).
+                
+                
+                    (2)
+                    New facilities
+ The Secretary shall ensure that any medical facility of the Department established after the date of the enactment of this Act is compliant with the requirement under subsection (a)(1) or has received a waiver under subsection (b) by not later than three years after the date on which patients are first seen at the medical facility.
+                
+            
+            
+                (f)
+                Relationship to existing law
+ The requirements and authorities under this section are in addition to, and separate from, the authority under section 8153 of title 38, United States Code.
+            
+            
+                (g)
+                Definitions
+ In this section:  (1) Appropriate committees of Congress The term appropriate committees of Congress means—
+                    
+                        (A)
+ the Committee on Veterans’ Affairs and the Committee on Appropriations of the Senate; and
+                    
+                    
+                        (B)
+ the Committee on Veterans’ Affairs and the Committee on Appropriations of the House of Representatives.
+                    
+                
+                
+                    (2)
+                    Partnership
+ The term partnership includes a leasing or co-location agreement, a memorandum of understanding, a partnership agreement, an employment contract, an independent contractor agreement, a service agreement, or any other similar agreement.
+                
+                
+                    (3)
+                    Rural
+ The term rural has the meaning given that term under the Rural-Urban Commuting Areas (RUCA) coding system of the Department of Agriculture.
+                
+                
+                    (4)
+                    Service-connected
+ The term service-connected has the meaning given that term in section 101(16) of title 38, United States Code.
