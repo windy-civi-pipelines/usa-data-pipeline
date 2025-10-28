@@ -25,7 +25,7 @@ jobs:
 
       - name: Run text extraction action
         id: extract
-        uses: windy-civi/toolkit/actions/extract@refactor/v2-data-structure
+        uses: windy-civi/toolkit/actions/extract@main
         with:
           state: usa # ⚠️ UPDATE THIS: Change to your state code (e.g., wy, usa, il, tx)
           github-token: ${{ secrets.GITHUB_TOKEN }}
